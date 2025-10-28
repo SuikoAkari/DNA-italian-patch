@@ -1006,11 +1006,11 @@ local r0_0 = {
           TextMapId = "BackpackMeele_Rarity4",
         },
         BackpackMeele_Rarity5 = {
-          ContentEN = "Golden",
+          ContentEN = "Oro",
           TextMapId = "BackpackMeele_Rarity5",
         },
         BackpackMeele_SubTitle_Rarity = {
-          ContentEN = "Quality",
+          ContentEN = "Qualità",
           TextMapId = "BackpackMeele_SubTitle_Rarity",
         },
         BackpackMeele_SubTitle_WeaponTag = {
@@ -1034,11 +1034,11 @@ local r0_0 = {
           TextMapId = "BackpackRanged_Rarity4",
         },
         BackpackRanged_Rarity5 = {
-          ContentEN = "Golden",
+          ContentEN = "Oro",
           TextMapId = "BackpackRanged_Rarity5",
         },
         BackpackRanged_SubTitle_Rarity = {
-          ContentEN = "Quality",
+          ContentEN = "Qualità",
           TextMapId = "BackpackRanged_SubTitle_Rarity",
         },
         BackpackRanged_SubTitle_WeaponTag = {
@@ -1062,11 +1062,11 @@ local r0_0 = {
           TextMapId = "BackpackResource_Rarity4",
         },
         BackpackResource_Rarity5 = {
-          ContentEN = "Golden",
+          ContentEN = "Oro",
           TextMapId = "BackpackResource_Rarity5",
         },
         BackpackResource_SubTitle_Rarity = {
-          ContentEN = "Quality",
+          ContentEN = "Qualità",
           TextMapId = "BackpackResource_SubTitle_Rarity",
         },
         Backpack_SiftEmpty = {
@@ -17454,35 +17454,35 @@ local r0_0 = {
           TextMapId = "ModFilter_NotSlot9",
         },
         ModFilter_Rarity1 = {
-          ContentEN = "White ",
+          ContentEN = "Bianco ",
           TextMapId = "ModFilter_Rarity1",
         },
         ModFilter_Rarity2 = {
-          ContentEN = "Green ",
+          ContentEN = "Verde ",
           TextMapId = "ModFilter_Rarity2",
         },
         ModFilter_Rarity3 = {
-          ContentEN = "Blue ",
+          ContentEN = "Blu ",
           TextMapId = "ModFilter_Rarity3",
         },
         ModFilter_Rarity4 = {
-          ContentEN = "Purple ",
+          ContentEN = "Viola ",
           TextMapId = "ModFilter_Rarity4",
         },
         ModFilter_Rarity5 = {
-          ContentEN = "Golden",
+          ContentEN = "Oro",
           TextMapId = "ModFilter_Rarity5",
         },
         ModFilter_SelectAll = {
-          ContentEN = "Select All",
+          ContentEN = "Seleziona tutti",
           TextMapId = "ModFilter_SelectAll",
         },
         ModFilter_SelectNone = {
-          ContentEN = "No options selected",
+          ContentEN = "Nessun opzione selezionata",
           TextMapId = "ModFilter_SelectNone",
         },
         ModFilter_SubTitle_Attr = {
-          ContentEN = "Attribute",
+          ContentEN = "Attributo",
           TextMapId = "ModFilter_SubTitle_Attr",
         },
         ModFilter_SubTitle_IsLeveledUp = {
@@ -17490,7 +17490,7 @@ local r0_0 = {
           TextMapId = "ModFilter_SubTitle_IsLeveledUp",
         },
         ModFilter_SubTitle_Rarity = {
-          ContentEN = "Quality",
+          ContentEN = "Qualità",
           TextMapId = "ModFilter_SubTitle_Rarity",
         },
         ModFilter_SubTitle_SlotType = {
@@ -17498,11 +17498,11 @@ local r0_0 = {
           TextMapId = "ModFilter_SubTitle_SlotType",
         },
         ModFilter_SubTitle_TypeName = {
-          ContentEN = "Collection",
+          ContentEN = "Collezione",
           TextMapId = "ModFilter_SubTitle_TypeName",
         },
         ModFilter_Title = {
-          ContentEN = "Filter",
+          ContentEN = "Filtro",
           TextMapId = "ModFilter_Title",
         },
         Mod_AttrDelta = {
@@ -17510,7 +17510,7 @@ local r0_0 = {
           TextMapId = "Mod_AttrDelta",
         },
         Mod_AttrTotal = {
-          ContentEN = "Total Attributes",
+          ContentEN = "Totale Attributi",
           TextMapId = "Mod_AttrTotal",
         },
         Mod_CardUp_Success = {
@@ -58717,7 +58717,7 @@ local r0_0 = {
           TextMapId = "UI_Language_Text_DE",
         },
         UI_Language_Text_EN = {
-          ContentEN = "Italiano (Inglese originariamente)",
+          ContentEN = "Italiano (Inglese orig.)",
           TextMapId = "UI_Language_Text_EN",
         },
         UI_Language_Text_IT = {
@@ -62245,7 +62245,7 @@ local r0_0 = {
           TextMapId = "UI_OPTION_DLSSQuality_2",
         },
         UI_OPTION_DLSSQuality_3 = {
-          ContentEN = "Quality",
+          ContentEN = "Qualità",
           TextMapId = "UI_OPTION_DLSSQuality_3",
         },
         UI_OPTION_DLSSQuality_4 = {

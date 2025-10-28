@@ -465,19 +465,19 @@ local r0_0 = {
           TextMapId = "Access_Collecting_EX01",
         },
         Access_Collecting_Icelake01 = {
-          ContentEN = "Trovato in Eastern District, Icelake - Inner City",
+          ContentEN = "Trovato in Distretto Orientale, Icelake - Città Interna",
           TextMapId = "Access_Collecting_Icelake01",
         },
         Access_Collecting_Icelake02 = {
-          ContentEN = "Trovato in Eastern District, Icelake - Outskirts",
+          ContentEN = "Trovato in Distretto Orientale, Icelake - Outskirts",
           TextMapId = "Access_Collecting_Icelake02",
         },
         Access_Collecting_Icelake03 = {
-          ContentEN = "Trovato in Eastern District, Icelake - Lakeside of Lamenting Lake",
+          ContentEN = "Trovato in Distretto Orientale, Icelake - Riva del Lago Lamentoso",
           TextMapId = "Access_Collecting_Icelake03",
         },
         Access_Collecting_Icelake04 = {
-          ContentEN = "Trovato in Eastern District, Icelake -  Thawing Caverns",
+          ContentEN = "Trovato in Distretto Orientale, Icelake -  Thawing Caverns",
           TextMapId = "Access_Collecting_Icelake04",
         },
         Access_Collecting_Kuangkeng = {
@@ -1843,7 +1843,7 @@ local r0_0 = {
           TextMapId = "Caesura",
         },
         Camp_Name_Diguo = {
-          ContentEN = "The Hyperborean Empire",
+          ContentEN = "L'Impero Hyperboreano",
           TextMapId = "Camp_Name_Diguo",
         },
         Camp_Name_Dongguo = {
@@ -3397,7 +3397,7 @@ local r0_0 = {
           TextMapId = "Content_120114_6",
         },
         Content_120114_7 = {
-          ContentEN = "All signs point to bandits near Lamenting Lake. Go there with {性别:Mr|Miss} Unicorn.",
+          ContentEN = "All signs point to bandits near Lago Lamentoso. Go there with {性别:Mr|Miss} Unicorn.",
           TextMapId = "Content_120114_7",
         },
         Content_120114_8 = {
@@ -3437,7 +3437,7 @@ local r0_0 = {
           TextMapId = "Content_200102_2",
         },
         Content_200102_3 = {
-          ContentEN = "According to Psyche, this special soil can be found in a cave near Lamenting Lake.\nGo collect the right kind of soil for her.",
+          ContentEN = "According to Psyche, this special soil can be found in a cave near Lago Lamentoso.\nGo collect the right kind of soil for her.",
           TextMapId = "Content_200102_3",
         },
         Content_200102_4 = {
@@ -3453,7 +3453,7 @@ local r0_0 = {
           TextMapId = "Content_200103_1",
         },
         Content_200103_2 = {
-          ContentEN = "Rumour has it there\'s a giant pig roaming near Icelake. Could it be true? How big could it be? Best see for yourself...",
+          ContentEN = "Si dice che ci sia un maiale gigante che vaga vicino a Icelake. Sarà vero? Quanto potrebbe essere grande? Meglio vederlo di persona...",
           TextMapId = "Content_200103_2",
         },
         Content_200103_3 = {
@@ -3765,7 +3765,7 @@ local r0_0 = {
           TextMapId = "Content_200210_1",
         },
         Content_200210_2 = {
-          ContentEN = "Follow the black marketeer Harlowe\'s directions to the specified spot near Lamenting Lake to fulfil the commission.",
+          ContentEN = "Follow the black marketeer Harlowe\'s directions to the specified spot near Lago Lamentoso to fulfil the commission.",
           TextMapId = "Content_200210_2",
         },
         Content_200210_3 = {
@@ -3845,7 +3845,7 @@ local r0_0 = {
           TextMapId = "Content_200213_4",
         },
         Content_200215_1 = {
-          ContentEN = "Marcus, a chef with a passion for culinary experiments, is always on the lookout for new ingredients. You know of a good fishing spot near Lamenting Lake. Head there and see if you can reel in something special for him.",
+          ContentEN = "Marcus, a chef with a passion for culinary experiments, is always on the lookout for new ingredients. You know of a good fishing spot near Lago Lamentoso. Head there and see if you can reel in something special for him.",
           TextMapId = "Content_200215_1",
         },
         Content_200215_2 = {
@@ -5788,7 +5788,7 @@ local r0_0 = {
           TextMapId = "DailyTaskDes_10000108",
         },
         DailyTaskDes_10000109 = {
-          ContentEN = "Complete [Commission: Chase] <Highlight>1</> time",
+          ContentEN = "Complete [Commissione: Chase] <Highlight>1</> time",
           TextMapId = "DailyTaskDes_10000109",
         },
         DailyTaskDes_10000110 = {
@@ -5996,7 +5996,7 @@ local r0_0 = {
           TextMapId = "Description_110103_4",
         },
         Description_110103_5 = {
-          ContentEN = "Repel the Filthoids",
+          ContentEN = "Respingi i Filthoid",
           TextMapId = "Description_110103_5",
         },
         Description_110104_1 = {
@@ -6737,7 +6737,7 @@ local r0_0 = {
           TextMapId = "Description_120104_7",
         },
         Description_120104_8 = {
-          ContentEN = "Repel the Filthoids",
+          ContentEN = "Respingi i Filthoid",
           TextMapId = "Description_120104_8",
         },
         Description_120104_9 = {
@@ -7061,7 +7061,7 @@ local r0_0 = {
           TextMapId = "Description_200102_1",
         },
         Description_200102_2 = {
-          ContentEN = "Head to Lamenting Lake to scout for soil",
+          ContentEN = "Head to Lago Lamentoso to scout for soil",
           TextMapId = "Description_200102_2",
         },
         Description_200102_3 = {
@@ -7081,7 +7081,7 @@ local r0_0 = {
           TextMapId = "Description_200103_1",
         },
         Description_200103_2 = {
-          ContentEN = "Head to the Lakeside of Lamenting Lake and look for the giant pig",
+          ContentEN = "Dirigiti verso la riva del Lago Lamentoso e cerca il maiale gigante",
           TextMapId = "Description_200103_2",
         },
         Description_200103_3 = {
@@ -7310,7 +7310,7 @@ local r0_0 = {
           TextMapId = "Description_200206_1",
         },
         Description_200206_2 = {
-          ContentEN = "Talk to Camilla",
+          ContentEN = "Parla con Camilla",
           TextMapId = "Description_200206_2",
         },
         Description_200206_3 = {
@@ -7854,7 +7854,7 @@ local r0_0 = {
           TextMapId = "Description_200234_2",
         },
         Description_200235_1 = {
-          ContentEN = "Try your first assignment — Commission: Hedge is a good place to begin.",
+          ContentEN = "Try your first assignment — Commissione: Hedge is a good place to begin.",
           TextMapId = "Description_200235_1",
         },
         Description_200235_2 = {
@@ -7862,7 +7862,7 @@ local r0_0 = {
           TextMapId = "Description_200235_2",
         },
         Description_200236_1 = {
-          ContentEN = "Complete Covert Commission: [Truffle and Filbert]",
+          ContentEN = "Complete Covert Commissione: [Truffle and Filbert]",
           TextMapId = "Description_200236_1",
         },
         Description_200236_2 = {
@@ -8555,7 +8555,7 @@ local r0_0 = {
           TextMapId = "Enter",
         },
         EntryTitle_101003 = {
-          ContentEN = "The Hyperborean Empire",
+          ContentEN = "L'Impero Hyperboreano",
           TextMapId = "EntryTitle_101003",
         },
         EntryTitle_101004 = {
@@ -8723,7 +8723,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_301004",
         },
         EntryTitle_301005 = {
-          ContentEN = "Lamenting Lake",
+          ContentEN = "Lago Lamentoso",
           TextMapId = "EntryTitle_301005",
         },
         EntryTitle_301006 = {
@@ -8771,7 +8771,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_401001",
         },
         EntryTitle_401002 = {
-          ContentEN = "The Night of Lamenting Lake",
+          ContentEN = "La Notte del Lago Lamentoso",
           TextMapId = "EntryTitle_401002",
         },
         EntryTitle_402001 = {
@@ -9180,7 +9180,7 @@ local r0_0 = {
           TextMapId = "Event_102001_QuestName4",
         },
         Event_Des_101001 = {
-          ContentEN = "Sign in for 7 days during the event to claim rewards",
+          ContentEN = "Accedi per 7 giorni durante l'evento per riscattare le ricompense",
           TextMapId = "Event_Des_101001",
         },
         Event_Des_101002 = {
@@ -9204,7 +9204,7 @@ local r0_0 = {
           TextMapId = "Event_Des_103002",
         },
         Event_Des_103003 = {
-          ContentEN = "Complete the Main Story \"Prey VS Hunter\" to claim your Quest Rewards, including the [Thought: Outsider].",
+          ContentEN = "Completa la storia principale \"Preda contro Cacciatore\" per ottenere le ricompense della missione, tra cui [Thought: Outsider].",
           TextMapId = "Event_Des_103003",
         },
         Event_Des_103004 = {
@@ -9240,7 +9240,7 @@ local r0_0 = {
           TextMapId = "Event_Des_103012",
         },
         Event_Des_103013 = {
-          ContentEN = "Complete the special Side Quests \"Go, Geniemons!\" and \"Tutorial: Covert Commissions\" to earn rewards, including \"Thought: Truffle and Filbert\".",
+          ContentEN = "Complete the special Side Quests \"Vai, Geniemon!\" and \"Tutorial: Covert Commissions\" to earn rewards, including \"Thought: Truffle and Filbert\".",
           TextMapId = "Event_Des_103013",
         },
         Event_Des_105102011 = {
@@ -9308,7 +9308,7 @@ local r0_0 = {
           TextMapId = "Event_STitle_103002",
         },
         Event_Tab_101001 = {
-          ContentEN = "Ode to the Bloom",
+          ContentEN = "Ode alla Fioritura",
           TextMapId = "Event_Tab_101001",
         },
         Event_Tab_101002 = {
@@ -9328,7 +9328,7 @@ local r0_0 = {
           TextMapId = "Event_Tab_103001",
         },
         Event_Tab_103003 = {
-          ContentEN = "Voyage into the Long Night",
+          ContentEN = "Viaggio nella Lunga Notte",
           TextMapId = "Event_Tab_103003",
         },
         Event_Tab_103004 = {
@@ -9404,7 +9404,7 @@ local r0_0 = {
           TextMapId = "Event_Tab_CharTrialEvent",
         },
         Event_Title_101001 = {
-          ContentEN = "Ode to the Bloom",
+          ContentEN = "Ode alla Fioritura",
           TextMapId = "Event_Title_101001",
         },
         Event_Title_101002 = {
@@ -9424,7 +9424,7 @@ local r0_0 = {
           TextMapId = "Event_Title_103001",
         },
         Event_Title_103003 = {
-          ContentEN = "Voyage into the Long Night",
+          ContentEN = "Viaggio nella Lunga Notte",
           TextMapId = "Event_Title_103003",
         },
         Event_Title_103004 = {
@@ -10898,7 +10898,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1005002",
         },
         HomePianoAcc_1005003 = {
-          ContentEN = "Source: Explore the lakeside of Lamenting Lake",
+          ContentEN = "Fonte: Esplora la riva del Lago Lamentoso",
           TextMapId = "HomePianoAcc_1005003",
         },
         HomePianoAcc_1005004 = {
@@ -10938,7 +10938,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1006003",
         },
         HomePianoAcc_1006004 = {
-          ContentEN = "Source: Explore the lakeside of Lamenting Lake",
+          ContentEN = "Fonte: Esplora la riva del Lago Lamentoso",
           TextMapId = "HomePianoAcc_1006004",
         },
         HomePianoAcc_1006005 = {
@@ -11767,7 +11767,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_CURSORACTIVATION",
         },
         MAINUIGUIDE_TITLE_Capture = {
-          ContentEN = "Commission: Capture",
+          ContentEN = "Commissione: Capture",
           TextMapId = "MAINUIGUIDE_TITLE_Capture",
         },
         MAINUIGUIDE_TITLE_DAMAGEMECHANISM = {
@@ -11803,11 +11803,11 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_DYNSTORY",
         },
         MAINUIGUIDE_TITLE_Defence = {
-          ContentEN = "Commission: Defence ∞",
+          ContentEN = "Commissione: Defence ∞",
           TextMapId = "MAINUIGUIDE_TITLE_Defence",
         },
         MAINUIGUIDE_TITLE_DefenceMove = {
-          ContentEN = "Commission: Defence",
+          ContentEN = "Commissione: Defence",
           TextMapId = "MAINUIGUIDE_TITLE_DefenceMove",
         },
         MAINUIGUIDE_TITLE_ELEVATOR = {
@@ -11831,15 +11831,15 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_EXPLORATIONMECHANISM",
         },
         MAINUIGUIDE_TITLE_Excavation = {
-          ContentEN = "Commission: Excavation ∞",
+          ContentEN = "Commissione: Excavation ∞",
           TextMapId = "MAINUIGUIDE_TITLE_Excavation",
         },
         MAINUIGUIDE_TITLE_ExtermPro = {
-          ContentEN = "Commission: Expulsion",
+          ContentEN = "Commissione: Expulsion",
           TextMapId = "MAINUIGUIDE_TITLE_ExtermPro",
         },
         MAINUIGUIDE_TITLE_Exterminate = {
-          ContentEN = "Commission: Termination",
+          ContentEN = "Commissione: Termination",
           TextMapId = "MAINUIGUIDE_TITLE_Exterminate",
         },
         MAINUIGUIDE_TITLE_FIREMECHANISM = {
@@ -11915,7 +11915,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_HPSHIELD",
         },
         MAINUIGUIDE_TITLE_Hijack = {
-          ContentEN = "Commission: Relocation",
+          ContentEN = "Commissione: Relocation",
           TextMapId = "MAINUIGUIDE_TITLE_Hijack",
         },
         MAINUIGUIDE_TITLE_IMPRESSIONCHECK = {
@@ -12035,7 +12035,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_ROUGE",
         },
         MAINUIGUIDE_TITLE_Rescue = {
-          ContentEN = "Commission: Escort",
+          ContentEN = "Commissione: Escort",
           TextMapId = "MAINUIGUIDE_TITLE_Rescue",
         },
         MAINUIGUIDE_TITLE_SHADOW = {
@@ -12079,11 +12079,11 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_SWITCHMASTER",
         },
         MAINUIGUIDE_TITLE_Sabotage = {
-          ContentEN = "Commission: Mediation",
+          ContentEN = "Commissione: Mediation",
           TextMapId = "MAINUIGUIDE_TITLE_Sabotage",
         },
         MAINUIGUIDE_TITLE_SabotagePro = {
-          ContentEN = "Commission: Dismantle",
+          ContentEN = "Commissione: Dismantle",
           TextMapId = "MAINUIGUIDE_TITLE_SabotagePro",
         },
         MAINUIGUIDE_TITLE_Saiqi_1 = {
@@ -15163,7 +15163,7 @@ local r0_0 = {
           TextMapId = "Message_Guide_ChangeWeapon_10",
         },
         Message_Guide_ChangeWeapon_11 = {
-          ContentEN = "Upgrading weapons consumes a certain amount of <H>Coins</> and <H>Weapon Manuals</>",
+          ContentEN = "Il miglioramento delle armi consuma una certa quantità di <H>Monete</> e <H>Manuali delle armi</>",
           TextMapId = "Message_Guide_ChangeWeapon_11",
         },
         Message_Guide_ChangeWeapon_12 = {
@@ -15408,11 +15408,11 @@ local r0_0 = {
           TextMapId = "Message_Guide_Dungeon_18",
         },
         Message_Guide_Dungeon_19 = {
-          ContentEN = "Click to enter <H>Commission: Hedge</>",
+          ContentEN = "Click to enter <H>Commissione: Hedge</>",
           TextMapId = "Message_Guide_Dungeon_19",
         },
         Message_Guide_Dungeon_19_Pad = {
-          ContentEN = "Press to enter <H>Commission: Hedge</>",
+          ContentEN = "Press to enter <H>Commissione: Hedge</>",
           TextMapId = "Message_Guide_Dungeon_19_Pad",
         },
         Message_Guide_Dungeon_1_PC = {
@@ -16473,7 +16473,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_1_4",
         },
         MidTermGoal_Des_2_1 = {
-          ContentEN = "Complete [Commission: Escort] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Escort] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_2_1",
         },
         MidTermGoal_Des_2_2 = {
@@ -16505,11 +16505,11 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_3_4",
         },
         MidTermGoal_Des_4_1 = {
-          ContentEN = "Complete [Commission: Hedge] <highlight>5</> times (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Hedge] <highlight>5</> times (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_4_1",
         },
         MidTermGoal_Des_4_2 = {
-          ContentEN = "Complete [Commission: Hedge] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Hedge] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_4_2",
         },
         MidTermGoal_Des_4_3 = {
@@ -16521,11 +16521,11 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_4_4",
         },
         MidTermGoal_Des_5_1 = {
-          ContentEN = "Complete [Commission: Exploration ∞] <highlight>5</> times (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Exploration ∞] <highlight>5</> times (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_5_1",
         },
         MidTermGoal_Des_5_2 = {
-          ContentEN = "Complete [Commission: Exploration ∞] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Exploration ∞] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_5_2",
         },
         MidTermGoal_Des_5_3 = {
@@ -16537,15 +16537,15 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_5_4",
         },
         MidTermGoal_Des_6_1 = {
-          ContentEN = "Complete [Commission: Termination] <highlight>5</> times (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Termination] <highlight>5</> times (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_6_1",
         },
         MidTermGoal_Des_6_2 = {
-          ContentEN = "Complete [Commission: Termination] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Termination] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_6_2",
         },
         MidTermGoal_Des_6_3 = {
-          ContentEN = "Obtain Weapon Manual Ⅱ <highlight>x4</>",
+          ContentEN = "Ottieni Manuale Arma Ⅱ <highlight>x4</>",
           TextMapId = "MidTermGoal_Des_6_3",
         },
         MidTermGoal_Des_6_4 = {
@@ -16553,11 +16553,11 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_6_4",
         },
         MidTermGoal_Des_7_1 = {
-          ContentEN = "Complete [Commission: Mediation] <highlight>5</> times (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Mediation] <highlight>5</> times (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_7_1",
         },
         MidTermGoal_Des_7_2 = {
-          ContentEN = "Complete [Commission: Mediation] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Mediation] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_7_2",
         },
         MidTermGoal_Des_7_3 = {
@@ -16657,39 +16657,39 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_A2_10",
         },
         MidTermGoal_Des_A2_11 = {
-          ContentEN = "Complete [Commission: Defence ∞] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Defence ∞] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_11",
         },
         MidTermGoal_Des_A2_12 = {
-          ContentEN = "Complete [Commission: Defence] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Defence] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_12",
         },
         MidTermGoal_Des_A2_13 = {
-          ContentEN = "Complete [Commission: Excavation ∞] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Excavation ∞] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_13",
         },
         MidTermGoal_Des_A2_14 = {
-          ContentEN = "Complete [Commission: Capture] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Capture] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_14",
         },
         MidTermGoal_Des_A2_15 = {
-          ContentEN = "Complete [Commission: Exploration ∞] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Exploration ∞] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_15",
         },
         MidTermGoal_Des_A2_16 = {
-          ContentEN = "Complete [Commission: Hedge ∞] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Hedge ∞] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_16",
         },
         MidTermGoal_Des_A2_17 = {
-          ContentEN = "Complete [Commission: Mediation] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Mediation] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_17",
         },
         MidTermGoal_Des_A2_18 = {
-          ContentEN = "Complete [Commission: Relocation] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Relocation] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_18",
         },
         MidTermGoal_Des_A2_19 = {
-          ContentEN = "Complete [Commission: Termination] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Termination] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_19",
         },
         MidTermGoal_Des_A2_2 = {
@@ -16697,7 +16697,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_A2_2",
         },
         MidTermGoal_Des_A2_20 = {
-          ContentEN = "Complete [Commission: Escort] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Escort] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_20",
         },
         MidTermGoal_Des_A2_3 = {
@@ -17915,15 +17915,15 @@ local r0_0 = {
           TextMapId = "Mon_Guide_8515001_01",
         },
         Mon_Guide_9003001_01 = {
-          ContentEN = "<Highlight>Toymakers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at modifying their surrounding environments and setting traps. \nIn <Highlight>\"Commission: Mediation\"</>, once a Toymaker is defeated, <Highlight>Bouncepads</> will appear on the retreat route to facilitate your retreat.",
+          ContentEN = "<Highlight>Toymakers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at modifying their surrounding environments and setting traps. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Toymaker is defeated, <Highlight>Bouncepads</> will appear on the retreat route to facilitate your retreat.",
           TextMapId = "Mon_Guide_9003001_01",
         },
         Mon_Guide_9005001_01 = {
-          ContentEN = "<Highlight>Bombaholics</> belong to the \"Soldiers\" of The Forsakens. They are highly adept at manipulating explosives. \nIn <Highlight>\"Commission: Mediation\"</>, once a Bombaholic is defeated, the Max HP of <Highlight>Finale Flare</> is reduced by 30%.",
+          ContentEN = "<Highlight>Bombaholics</> belong to the \"Soldiers\" of The Forsakens. They are highly adept at manipulating explosives. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Bombaholic is defeated, the Max HP of <Highlight>Finale Flare</> is reduced by 30%.",
           TextMapId = "Mon_Guide_9005001_01",
         },
         Mon_Guide_9006001_01 = {
-          ContentEN = "<Highlight>Deceivers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at disrupting enemy formations and sowing chaos on the battlefield. \nIn <Highlight>\"Commission: Mediation\"</>, once a Deceiver is defeated, elite enemies will no longer spawn.",
+          ContentEN = "<Highlight>Deceivers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at disrupting enemy formations and sowing chaos on the battlefield. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Deceiver is defeated, elite enemies will no longer spawn.",
           TextMapId = "Mon_Guide_9006001_01",
         },
         Mon_Guide_9500001_01 = {
@@ -20802,7 +20802,7 @@ local r0_0 = {
           TextMapId = "Name_100204",
         },
         Name_100205 = {
-          ContentEN = "Prey VS Hunter",
+          ContentEN = "Preda contro Cacciatore",
           TextMapId = "Name_100205",
         },
         Name_100206 = {
@@ -20938,7 +20938,7 @@ local r0_0 = {
           TextMapId = "Name_200102",
         },
         Name_200103 = {
-          ContentEN = "Go, Geniemons!",
+          ContentEN = "Vai, Geniemon!",
           TextMapId = "Name_200103",
         },
         Name_200104 = {
@@ -21223,11 +21223,11 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Donat",
         },
         NpcBiography_Information_Feiyi_1 = {
-          ContentEN = "A young girl who appears to be a student from the inner city. It\'s easy to notice her fine clothes juxtaposed against perpetually untidy hair. Despite her unmistakably Sola appearance, she fervently believes herself to be a Charon with horns.",
+          ContentEN = "A young girl who appears to be a student from the Città Interna. It\'s easy to notice her fine clothes juxtaposed against perpetually untidy hair. Despite her unmistakably Sola appearance, she fervently believes herself to be a Charon with horns.",
           TextMapId = "NpcBiography_Information_Feiyi_1",
         },
         NpcBiography_Information_Feiyi_2 = {
-          ContentEN = "A student from the inner city, once so bullied by her peers that she came to believe she wasn\'t a Sola but a Charon. With {NickName}\'s encouragement and help, she finally mustered the courage to stand up to her tormentors, reclaiming her self-worth and resolving to face life with newfound bravery.",
+          ContentEN = "A student from the Città Interna, once so bullied by her peers that she came to believe she wasn\'t a Sola but a Charon. With {NickName}\'s encouragement and help, she finally mustered the courage to stand up to her tormentors, reclaiming her self-worth and resolving to face life with newfound bravery.",
           TextMapId = "NpcBiography_Information_Feiyi_2",
         },
         NpcBiography_Information_Giselle = {
@@ -21235,7 +21235,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Giselle",
         },
         NpcBiography_Information_Hainuo = {
-          ContentEN = "Heino, a low-ranking soldier tasked with patrolling and maintaining order in Icelake. Known for his fiery temper, Heino harbours a deep-seated loathing for his own kind. From a young age, his aspiration was to join the army, believing it would secure him a comfortable life in the inner city. However, after more than a decade of dedicated service, he remains at the lower echelons of the military hierarchy. Frustrated by his lack of advancement, Heino attributes his stagnant career to his Charon heritage, which fuels his resentment. Consequently, he yearns to assimilate into Solarian society, distancing himself from his roots. Utilizing his military status, he seizes every opportunity to assert his authority over other Charons.",
+          ContentEN = "Heino, a low-ranking soldier tasked with patrolling and maintaining order in Icelake. Known for his fiery temper, Heino harbours a deep-seated loathing for his own kind. From a young age, his aspiration was to join the army, believing it would secure him a comfortable life in the Città Interna. However, after more than a decade of dedicated service, he remains at the lower echelons of the military hierarchy. Frustrated by his lack of advancement, Heino attributes his stagnant career to his Charon heritage, which fuels his resentment. Consequently, he yearns to assimilate into Solarian society, distancing himself from his roots. Utilizing his military status, he seizes every opportunity to assert his authority over other Charons.",
           TextMapId = "NpcBiography_Information_Hainuo",
         },
         NpcBiography_Information_Heerluo = {
@@ -21279,7 +21279,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Liao",
         },
         NpcBiography_Information_Luna = {
-          ContentEN = "Luna, an apprentice healer who has lost the power of speech. Once a minstrel in Icelake, Luna was known for her bold belief in equality between Solas and Charons, insisting that both should coexist as equals. Her poignant lyrics one day ignited the fury of some bigots, who later brutally attacked her, slashing her throat and banishing her from the inner city. Despite the traumatic loss of her voice, Luna remains unrepentant about the views she expressed. A kind-hearted doctor living on the outskirts of Icelake took her in, and she has since devoted herself to learning the healing arts, determined to help the downtrodden in the slums and put her beliefs into action.",
+          ContentEN = "Luna, an apprentice healer who has lost the power of speech. Once a minstrel in Icelake, Luna was known for her bold belief in equality between Solas and Charons, insisting that both should coexist as equals. Her poignant lyrics one day ignited the fury of some bigots, who later brutally attacked her, slashing her throat and banishing her from the Città Interna. Despite the traumatic loss of her voice, Luna remains unrepentant about the views she expressed. A kind-hearted doctor living on the outskirts of Icelake took her in, and she has since devoted herself to learning the healing arts, determined to help the downtrodden in the slums and put her beliefs into action.",
           TextMapId = "NpcBiography_Information_Luna",
         },
         NpcBiography_Information_Mading = {
@@ -21291,7 +21291,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Maer",
         },
         NpcBiography_Information_Makusi = {
-          ContentEN = "A chef from the inner city of Icelake, average in talent but extraordinarily diligent. Frustrated by his lack of progress in the kitchen, he left his restaurant job and embarked on a relentless quest to refine his recipes, determined to create dishes that would delight everyone.",
+          ContentEN = "A chef from the Città Interna of Icelake, average in talent but extraordinarily diligent. Frustrated by his lack of progress in the kitchen, he left his restaurant job and embarked on a relentless quest to refine his recipes, determined to create dishes that would delight everyone.",
           TextMapId = "NpcBiography_Information_Makusi",
         },
         NpcBiography_Information_Sangni = {
@@ -24955,7 +24955,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020412",
         },
         QuestDesc_10020501 = {
-          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check The Asphodel\'s bulletin board and complete Commission: Mediation to gain some experience.",
+          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check The Asphodel\'s bulletin board and complete Commissione: Mediation to gain some experience.",
           TextMapId = "QuestDesc_10020501",
         },
         QuestDesc_10020502 = {
@@ -25019,11 +25019,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020607",
         },
         QuestDesc_10020608 = {
-          ContentEN = "For some reason, Psyche seems upset, though Henrik claims she\'s just feeling a bit under the weather.\nFeeling the need for a private conversation, you invite her for a stroll by Lamenting Lake. It\'s just outside Icelake. Now go and take a walk with Psyche.",
+          ContentEN = "Per qualche ragione, Psyche sembra turbata, anche se Henrik sostiene che si sente solo un po' sottotono. Sentendo il bisogno di una conversazione privata, la inviti a fare una passeggiata al Lago Lamentoso. Si trova appena fuori Icelake. Ora vai a fare una passeggiata con Psyche.",
           TextMapId = "QuestDesc_10020608",
         },
         QuestDesc_10020609 = {
-          ContentEN = "You notice Psyche\'s vision seems severely impaired, but she is reluctant to talk about it.\nPsyche wishes for you to accompany her to the old tree roots by Lamenting Lake, a place laden with her childhood memories.",
+          ContentEN = "You notice Psyche\'s vision seems severely impaired, but she is reluctant to talk about it.\nPsyche wishes for you to accompany her to the old tree roots by Lago Lamentoso, a place laden with her childhood memories.",
           TextMapId = "QuestDesc_10020609",
         },
         QuestDesc_10020610 = {
@@ -25031,7 +25031,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020610",
         },
         QuestDesc_10020611 = {
-          ContentEN = "Psyche gave you the camera she once buried as a child. She can no longer see, but she hopes you\'ll capture the world through its lens.\nIt seems Psyche\'s got more on her mind. Walk with her by Lamenting Lake and hear her out.",
+          ContentEN = "Psyche gave you the camera she once buried as a child. She can no longer see, but she hopes you\'ll capture the world through its lens.\nIt seems Psyche\'s got more on her mind. Walk with her by Lago Lamentoso and hear her out.",
           TextMapId = "QuestDesc_10020611",
         },
         QuestDesc_10020612 = {
@@ -25067,7 +25067,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020704",
         },
         QuestDesc_10020705 = {
-          ContentEN = "Gravely injured, Henrik divulges the truth in his final moments, pleading with you to save Psyche, who has lost her senses. This is the collective wish of everyone at Hypnos\' House.\nSnow directs you to where Psyche fled. Head to Lamenting Lake to find her.",
+          ContentEN = "Gravely injured, Henrik divulges the truth in his final moments, pleading with you to save Psyche, who has lost her senses. This is the collective wish of everyone at Hypnos\' House.\nSnow directs you to where Psyche fled. Head to Lago Lamentoso to find her.",
           TextMapId = "QuestDesc_10020705",
         },
         QuestDesc_10020706 = {
@@ -25075,7 +25075,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020706",
         },
         QuestDesc_10020707 = {
-          ContentEN = "Following the butterflies, you arrive at Lamenting Lake, where raging winds seem intent on blocking your way. \nFortunately, the gusts follow a pattern. Stay vigilant and carefully cross the icy lake.",
+          ContentEN = "Following the butterflies, you arrive at Lago Lamentoso, where raging winds seem intent on blocking your way. \nFortunately, the gusts follow a pattern. Stay vigilant and carefully cross the icy lake.",
           TextMapId = "QuestDesc_10020707",
         },
       }
@@ -25116,7 +25116,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020805",
         },
         QuestDesc_10020806 = {
-          ContentEN = "Together with Outsider, you find a secluded spot near Lamenting Lake to bid Psyche a final farewell.\nYou\'re certain she would have loved this place — a serene, beautiful resting spot away from sorrowful cries or the clamour of machinery. Only the gentle breeze offers its silent tribute.",
+          ContentEN = "Together with Outsider, you find a secluded spot near Lago Lamentoso to bid Psyche a final farewell.\nYou\'re certain she would have loved this place — a serene, beautiful resting spot away from sorrowful cries or the clamour of machinery. Only the gentle breeze offers its silent tribute.",
           TextMapId = "QuestDesc_10020806",
         },
         QuestDesc_10020807 = {
@@ -25380,7 +25380,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10030404",
         },
         QuestDesc_10030501 = {
-          ContentEN = "There was never any glory in becoming a Laurelled Charon — the title was nothing but bait. What awaited in the inner city was the cold slab of the Alchemy Academy\'s operating table. Now, as a monster, all you can do is obey.",
+          ContentEN = "There was never any glory in becoming a Laurelled Charon — the title was nothing but bait. What awaited in the Città Interna was the cold slab of the Alchemy Academy\'s operating table. Now, as a monster, all you can do is obey.",
           TextMapId = "QuestDesc_10030501",
         },
         QuestDesc_10030502 = {
@@ -25600,15 +25600,15 @@ local r0_0 = {
           TextMapId = "QuestDesc_400107",
         },
         QuestDesc_99999801 = {
-          ContentEN = "Head to Lakeside of Lamenting Lake",
+          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso",
           TextMapId = "QuestDesc_99999801",
         },
         QuestDesc_99999802 = {
-          ContentEN = "Head to Lakeside of Lamenting Lake and defeat the powerful enemy",
+          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso e sconfiggi il potente nemico",
           TextMapId = "QuestDesc_99999802",
         },
         QuestDesc_99999803 = {
-          ContentEN = "Leaving Lakeside of Lamenting Lake in 3s",
+          ContentEN = "Leaving Riva del Lago Lamentoso in 3s",
           TextMapId = "QuestDesc_99999803",
         },
         QuestDesc__10020611_1 = {
@@ -25913,7 +25913,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020412",
         },
         QuestName_10020501 = {
-          ContentEN = "Complete [Commission: Mediation] Once",
+          ContentEN = "Complete [Commissione: Mediation] Once",
           TextMapId = "QuestName_10020501",
         },
         QuestName_10020502 = {
@@ -25981,7 +25981,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020607",
         },
         QuestName_10020608 = {
-          ContentEN = "Go to Lamenting Lake and take a walk with Psyche",
+          ContentEN = "Go to Lago Lamentoso and take a walk with Psyche",
           TextMapId = "QuestName_10020608",
         },
         QuestName_10020609 = {
@@ -25993,7 +25993,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020610",
         },
         QuestName_10020611 = {
-          ContentEN = "Take a walk by Lamenting Lake",
+          ContentEN = "Take a walk by Lago Lamentoso",
           TextMapId = "QuestName_10020611",
         },
         QuestName_10020611_1 = {
@@ -26009,7 +26009,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020613",
         },
         QuestName_10020614 = {
-          ContentEN = "Talk to the soldier",
+          ContentEN = "Parla con il soldato",
           TextMapId = "QuestName_10020614",
         },
         QuestName_10020615 = {
@@ -26041,7 +26041,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020706",
         },
         QuestName_10020707 = {
-          ContentEN = "Brave the howling winds across the Lamenting Lake",
+          ContentEN = "Brave the howling winds across the Lago Lamentoso",
           TextMapId = "QuestName_10020707",
         },
         QuestName_10020708 = {
@@ -26069,7 +26069,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020804",
         },
         QuestName_10020805 = {
-          ContentEN = "Head to the Lakeside of Lamenting Lake",
+          ContentEN = "Dirigiti verso le rive del Lago Lamentoso",
           TextMapId = "QuestName_10020805",
         },
         QuestName_10020806 = {
@@ -26089,15 +26089,15 @@ local r0_0 = {
           TextMapId = "QuestName_10020809",
         },
         QuestName_10029701 = {
-          ContentEN = "Raise Your Trial Rank to Continue the Main Story",
+          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029701",
         },
         QuestName_10029801 = {
-          ContentEN = "Raise Your Trial Rank to Continue the Main Story",
+          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029801",
         },
         QuestName_10029901 = {
-          ContentEN = "Raise Your Trial Rank to Continue the Main Story",
+          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029901",
         },
         QuestName_10030101 = {
@@ -26105,11 +26105,11 @@ local r0_0 = {
           TextMapId = "QuestName_10030101",
         },
         QuestName_10030102 = {
-          ContentEN = "Talk to Camilla",
+          ContentEN = "Parla con Camilla",
           TextMapId = "QuestName_10030102",
         },
         QuestName_10030103 = {
-          ContentEN = "Leave the Sanctuary",
+          ContentEN = "Lascia il Santuario",
           TextMapId = "QuestName_10030103",
         },
         QuestName_10030104 = {
@@ -26161,23 +26161,23 @@ local r0_0 = {
           TextMapId = "QuestName_10030201",
         },
         QuestName_10030202 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030202",
         },
         QuestName_10030203 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030203",
         },
         QuestName_10030204 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030204",
         },
         QuestName_10030205 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030205",
         },
         QuestName_10030206 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030206",
         },
         QuestName_10030207 = {
@@ -26185,7 +26185,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030207",
         },
         QuestName_10030208 = {
-          ContentEN = "Keep moving",
+          ContentEN = "Continua a muoverti",
           TextMapId = "QuestName_10030208",
         },
         QuestName_10030210 = {
@@ -26229,23 +26229,23 @@ local r0_0 = {
           TextMapId = "QuestName_10030219",
         },
         QuestName_100302sp101 = {
-          ContentEN = "Unlock the gate",
+          ContentEN = "Sblocca il cancello",
           TextMapId = "QuestName_100302sp101",
         },
         QuestName_100302sp102 = {
-          ContentEN = "Defend the civilian",
+          ContentEN = "Difendi il civile",
           TextMapId = "QuestName_100302sp102",
         },
         QuestName_100302sp103 = {
-          ContentEN = "Unlock the gate",
+          ContentEN = "Sblocca il cancello",
           TextMapId = "QuestName_100302sp103",
         },
         QuestName_100302sp104 = {
-          ContentEN = "Defend the civilian",
+          ContentEN = "Difendi il civile",
           TextMapId = "QuestName_100302sp104",
         },
         QuestName_100302sp201 = {
-          ContentEN = "Rescue the trapped civilian",
+          ContentEN = "Salva il civile intrappolato",
           TextMapId = "QuestName_100302sp201",
         },
         QuestName_100302sp202 = {
@@ -26253,7 +26253,7 @@ local r0_0 = {
           TextMapId = "QuestName_100302sp202",
         },
         QuestName_100302sp203 = {
-          ContentEN = "Rescue the trapped civilian",
+          ContentEN = "Salva il civile intrappolato",
           TextMapId = "QuestName_100302sp203",
         },
         QuestName_100302sp301 = {
@@ -26297,11 +26297,11 @@ local r0_0 = {
           TextMapId = "QuestName_100303sp105",
         },
         QuestName_100303sp201 = {
-          ContentEN = "Head to the designated area",
+          ContentEN = "Dirigiti verso l'area designata",
           TextMapId = "QuestName_100303sp201",
         },
         QuestName_100303sp202 = {
-          ContentEN = "Head to the designated area",
+          ContentEN = "Dirigiti verso l'area designata",
           TextMapId = "QuestName_100303sp202",
         },
         QuestName_100303sp203 = {
@@ -26309,7 +26309,7 @@ local r0_0 = {
           TextMapId = "QuestName_100303sp203",
         },
         QuestName_100303sp204 = {
-          ContentEN = "Head to the designated area",
+          ContentEN = "Dirigiti verso l'area designata",
           TextMapId = "QuestName_100303sp204",
         },
         QuestName_100303sp205 = {
@@ -26449,7 +26449,7 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus16",
         },
         QuestName_1003plus17 = {
-          ContentEN = "Head to the designated area",
+          ContentEN = "Dirigiti verso l'area designata",
           TextMapId = "QuestName_1003plus17",
         },
         QuestName_1003plus18 = {
@@ -26497,11 +26497,11 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus27",
         },
         QuestName_1003plus28 = {
-          ContentEN = "Repel the Filthoids",
+          ContentEN = "Respingi i Filthoid",
           TextMapId = "QuestName_1003plus28",
         },
         QuestName_1003plus29 = {
-          ContentEN = "Repel the Filthoids",
+          ContentEN = "Respingi i Filthoid",
           TextMapId = "QuestName_1003plus29",
         },
         QuestName_1003plus30 = {
@@ -26517,7 +26517,7 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus32",
         },
         QuestName_1003plus33 = {
-          ContentEN = "Rescue the trapped civilian",
+          ContentEN = "Salva il civile intrappolato",
           TextMapId = "QuestName_1003plus33",
         },
         QuestName_1003plus34 = {
@@ -26525,47 +26525,47 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus34",
         },
         QuestName_1003plus35 = {
-          ContentEN = "Repel the snow wolves",
+          ContentEN = "Respingi i lupi delle nevi",
           TextMapId = "QuestName_1003plus35",
         },
         QuestName_400101 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400101",
         },
         QuestName_400102 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400102",
         },
         QuestName_400103 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400103",
         },
         QuestName_400104 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400104",
         },
         QuestName_400105 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400105",
         },
         QuestName_400106 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400106",
         },
         QuestName_400107 = {
-          ContentEN = "Go to the marked location and defeat the Filthoids",
+          ContentEN = "Vai nel luogo segnato e sconfiggi i Filthoid",
           TextMapId = "QuestName_400107",
         },
         QuestName_99999801 = {
-          ContentEN = "Head to Lakeside of Lamenting Lake",
+          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso",
           TextMapId = "QuestName_99999801",
         },
         QuestName_99999802 = {
-          ContentEN = "Head to Lakeside of Lamenting Lake and defeat the powerful enemy",
+          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso e sconfiggi il potente nemico",
           TextMapId = "QuestName_99999802",
         },
         QuestName_99999803 = {
-          ContentEN = "Leaving Lakeside of Lamenting Lake in 3s",
+          ContentEN = "Leaving Riva del Lago Lamentoso in 3s",
           TextMapId = "QuestName_99999803",
         },
         QuestName_999999 = {
@@ -26573,7 +26573,7 @@ local r0_0 = {
           TextMapId = "QuestName_999999",
         },
         QuestName_SaiqiPicFail = {
-          ContentEN = "Capture a photo of Psyche with Icelake in the background",
+          ContentEN = "Scatta una foto di Psyche con Icelake sullo sfondo",
           TextMapId = "QuestName_SaiqiPicFail",
         },
         QuestName_SaiqiPicSucc = {
@@ -27454,7 +27454,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000047",
         },
         READ_TEXT_2000048 = {
-          ContentEN = "<H>Deteriorators Are Exceptionally Dangerous — Do Not Be Fooled by Their Appearance!</>\nOn September 24th, an egregious case of Deterioration occurred in Icelake, with devastating consequences. Following an comprehensive investigation by the 6th Legion\'s Escort Unit, the details of the tragedy have now been confirmed:\nOn September 13th, local residents Mr and Mrs Fischer encountered a gravely injured young man, Robie Brown, collapsed by the roadside near Lamenting Lake. Acting out of compassion, they brought him into their home and cared for him.\nHowever, Robie Brown was a Deteriorator — one who had evaded the Empire\'s routine screenings and fled to the outskirts of the city. While receiving aid from the Fischers, Brown deliberately concealed his condition. Ten days later, he succumbed to the transformation, becoming a Filthoid. The resulting massacre in Icelake\'s southern district claimed the lives of dozens, including Mr and Mrs Fischer. The 6th Legion\'s Escort responded swiftly and succeeded in subduing the threat — but not before the damage was done.\n\nThe incident resulted in 18 deaths (including 3 Solarian citizens) and 34 injuries. Citizens are reminded: under no circumstances should you provide shelter to unidentified Charon individuals. If you suspect someone of being a Deteriorator, report them to the Security Bureau immediately. Deteriorators are — and will remain — humanity\'s enemies. No exceptions. Harbouring Deteriorators or concealing their condition is a capital offence under Article 54 of the Hyperborean Criminal Code, punishable by death.",
+          ContentEN = "<H>Deteriorators Are Exceptionally Dangerous — Do Not Be Fooled by Their Appearance!</>\nOn September 24th, an egregious case of Deterioration occurred in Icelake, with devastating consequences. Following an comprehensive investigation by the 6th Legion\'s Escort Unit, the details of the tragedy have now been confirmed:\nOn September 13th, local residents Mr and Mrs Fischer encountered a gravely injured young man, Robie Brown, collapsed by the roadside near Lago Lamentoso. Acting out of compassion, they brought him into their home and cared for him.\nHowever, Robie Brown was a Deteriorator — one who had evaded the Empire\'s routine screenings and fled to the outskirts of the city. While receiving aid from the Fischers, Brown deliberately concealed his condition. Ten days later, he succumbed to the transformation, becoming a Filthoid. The resulting massacre in Icelake\'s southern district claimed the lives of dozens, including Mr and Mrs Fischer. The 6th Legion\'s Escort responded swiftly and succeeded in subduing the threat — but not before the damage was done.\n\nThe incident resulted in 18 deaths (including 3 Solarian citizens) and 34 injuries. Citizens are reminded: under no circumstances should you provide shelter to unidentified Charon individuals. If you suspect someone of being a Deteriorator, report them to the Security Bureau immediately. Deteriorators are — and will remain — humanity\'s enemies. No exceptions. Harbouring Deteriorators or concealing their condition is a capital offence under Article 54 of the Hyperborean Criminal Code, punishable by death.",
           TextMapId = "READ_TEXT_2000048",
         },
         READ_TEXT_2000049 = {
@@ -27462,7 +27462,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000049",
         },
         READ_TEXT_2000050 = {
-          ContentEN = "...\nFinally put all the stuff Rhythm stored away back where it belongs. Come on — a secret base is supposed to be messy! If we follow her neat-freak rules, this whole place will end up looking like some boring museum.\nWhen will my fussy big sis finally get it? The real thrill\'s stumbling on long-lost treasure hidden under clutter one day!\n...\nPassed the 6th Legion\'s entrance test — yay! And my request to officially use this abandoned maintenance room got approved too — double yay!\nCan\'t believe the higher-ups said yes — just like that. No more sneaking in and out. Nice.\n...\nGave the key to Rhythm today. We\'ve already made a plan: once I get back from the 6th Legion, we\'re gonna make this place bigger. One room just for my tapes, with the biggest stereo, loudest mic, and the best harmonica money can buy! No real performer skimps on gear!\nAnother room for the posters I copied, my paints, sketchboards, and stuff. Aside from acting, I think I\'ve actually got a bit of talent at drawing... Maybe a stage-prop designer isn\'t such a bad career choice either? Whatever — I\'ll just try everything whenever I get the chance!\nOh, and definitely a room just for our medals. A few years from now, I\'m sure we\'ll both be Laurelled Charons with medals piled high. Gotta reserve an entire room just to display them properly.\nAnd I also want to—! ...Ah. Looks like this journal\'s full already. Guess I\'ll have to pick up another one once I reach the inner city.",
+          ContentEN = "...\nFinally put all the stuff Rhythm stored away back where it belongs. Come on — a secret base is supposed to be messy! If we follow her neat-freak rules, this whole place will end up looking like some boring museum.\nWhen will my fussy big sis finally get it? The real thrill\'s stumbling on long-lost treasure hidden under clutter one day!\n...\nPassed the 6th Legion\'s entrance test — yay! And my request to officially use this abandoned maintenance room got approved too — double yay!\nCan\'t believe the higher-ups said yes — just like that. No more sneaking in and out. Nice.\n...\nGave the key to Rhythm today. We\'ve already made a plan: once I get back from the 6th Legion, we\'re gonna make this place bigger. One room just for my tapes, with the biggest stereo, loudest mic, and the best harmonica money can buy! No real performer skimps on gear!\nAnother room for the posters I copied, my paints, sketchboards, and stuff. Aside from acting, I think I\'ve actually got a bit of talent at drawing... Maybe a stage-prop designer isn\'t such a bad career choice either? Whatever — I\'ll just try everything whenever I get the chance!\nOh, and definitely a room just for our medals. A few years from now, I\'m sure we\'ll both be Laurelled Charons with medals piled high. Gotta reserve an entire room just to display them properly.\nAnd I also want to—! ...Ah. Looks like this journal\'s full already. Guess I\'ll have to pick up another one once I reach the Città Interna.",
           TextMapId = "READ_TEXT_2000050",
         },
         READ_TEXT_2000051 = {
@@ -27498,11 +27498,11 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000058",
         },
         READ_TEXT_2000059 = {
-          ContentEN = "Ⅲ. The Gift of Fate\n \n From revelry did tragedy arise;\n \n From the eternal was born what must pass.\n \n South of Lamenting Lake, the snows lay deep.\n \n And those from gentler lands had never beheld such boundless white.\n \n Fallen feathers, ashen earth, lips pale as the ivory lake\'s milk-stone.\n \n What once was marvel at the snow became dread of death.\n \n Empty bellies growled, heralds of despair unborn.\n \n Even Soranus, fairest and steadfast,\n \n Scoured desperately for a single morsel.\n \n But not even Soranus could conjure wheat from icefields.\n \n He gnawed upon blocks of snow,\n \n Leant upon his longsword as a crutch,\n \n And ventured into the blizzard for one last charge,\n \n Hoping fate concealed a gift beyond the winter\'s end.\n \n When the storm at last relented,\n \n A village appeared above Lamenting Lake.\n \n With the last of his strength, Soranus knocked upon its gate,\n \n And gave thanks for fate\'s final, merciful gift.\n \n Yet perhaps, for he and his brother had spurned the gods,\n \n He knew not in that hour the first verse of his downfall was already writ.",
+          ContentEN = "Ⅲ. The Gift of Fate\n \n From revelry did tragedy arise;\n \n From the eternal was born what must pass.\n \n South of Lago Lamentoso, the snows lay deep.\n \n And those from gentler lands had never beheld such boundless white.\n \n Fallen feathers, ashen earth, lips pale as the ivory lake\'s milk-stone.\n \n What once was marvel at the snow became dread of death.\n \n Empty bellies growled, heralds of despair unborn.\n \n Even Soranus, fairest and steadfast,\n \n Scoured desperately for a single morsel.\n \n But not even Soranus could conjure wheat from icefields.\n \n He gnawed upon blocks of snow,\n \n Leant upon his longsword as a crutch,\n \n And ventured into the blizzard for one last charge,\n \n Hoping fate concealed a gift beyond the winter\'s end.\n \n When the storm at last relented,\n \n A village appeared above Lago Lamentoso.\n \n With the last of his strength, Soranus knocked upon its gate,\n \n And gave thanks for fate\'s final, merciful gift.\n \n Yet perhaps, for he and his brother had spurned the gods,\n \n He knew not in that hour the first verse of his downfall was already writ.",
           TextMapId = "READ_TEXT_2000059",
         },
         READ_TEXT_2000060 = {
-          ContentEN = "Ⅳ. The Snow-Owl\'s Ballad, Canto Ⅰ\n \n The snow-owl rejoiced, the snow-owl sang,\n \n Thrice it wheeled through the nighted sky,\n \n Seeking fattened mice to still its hunger.\n \n Yet beneath the vault of the Far North,\n \n No breath of life was to be found...\n \n Save for that place — \n \n A hamlet of snow, a village of ice.\n \n The Charon hastened upon the lake\'s edge ,\n \n While from the south the Solarian sang.\n \n The fish cast off its cloak of brine,\n \n Unfolding blossoms of glistening fat,\n \n More fragrant than the buds of a springvine.\n \n The mash unveiled as its froth fell away,\n \n Revealing crimson draperies of the closing day,\n \n More splendid than autumn\'s dusk.\n \n Since the day Soranus struck the door of that village by Lamenting Lake,\n \n The feast where strangers became kin has never ceased.\n \n Every Sola laid down their sword,\n \n And embraced the Charon newly met,\n \n Praising their bounty,\n \n Giving thanks for their shelter.\n \n Even Dis Galea, ever wary,\n \n Exchanged oaths with the Charon\'s chief,\n \n Swearing to treat the Charon as brothers, as dear as Soranus himself,\n \n To stand as one against Filthoids, against winter, against every foe to come.\n \n Even the snow-owl, vigilant hunter, raised its voice in joy,\n \n And sought to alight upon the laden platters that it, too, would share the feast.",
+          ContentEN = "Ⅳ. The Snow-Owl\'s Ballad, Canto Ⅰ\n \n The snow-owl rejoiced, the snow-owl sang,\n \n Thrice it wheeled through the nighted sky,\n \n Seeking fattened mice to still its hunger.\n \n Yet beneath the vault of the Far North,\n \n No breath of life was to be found...\n \n Save for that place — \n \n A hamlet of snow, a village of ice.\n \n The Charon hastened upon the lake\'s edge ,\n \n While from the south the Solarian sang.\n \n The fish cast off its cloak of brine,\n \n Unfolding blossoms of glistening fat,\n \n More fragrant than the buds of a springvine.\n \n The mash unveiled as its froth fell away,\n \n Revealing crimson draperies of the closing day,\n \n More splendid than autumn\'s dusk.\n \n Since the day Soranus struck the door of that village by Lago Lamentoso,\n \n The feast where strangers became kin has never ceased.\n \n Every Sola laid down their sword,\n \n And embraced the Charon newly met,\n \n Praising their bounty,\n \n Giving thanks for their shelter.\n \n Even Dis Galea, ever wary,\n \n Exchanged oaths with the Charon\'s chief,\n \n Swearing to treat the Charon as brothers, as dear as Soranus himself,\n \n To stand as one against Filthoids, against winter, against every foe to come.\n \n Even the snow-owl, vigilant hunter, raised its voice in joy,\n \n And sought to alight upon the laden platters that it, too, would share the feast.",
           TextMapId = "READ_TEXT_2000060",
         },
       }
@@ -27527,11 +27527,11 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000063",
         },
         READ_TEXT_2000064 = {
-          ContentEN = "Ⅷ. The Iron Hooves in Their Charge\n \n The host stirred and swelled like waters brought to the boil.\n \n Far-sighted was Dis Galea,\n \n Prudent was Dis Galea!\n \n And so they mourned with Dis Galea for Solanus,\n \n For Solanus, revered and feared, had fallen.\n \n Dirges rose and tears fell,\n \n As though a thousand stars descended all at once.\n \n The night lay veiled in mist; no guiding star remained.\n \n This day we endure the bitterness of deceit;\n \n Yet when the tide of the Great Migration next sweeps the snowbound plain:\n \n Though death descends as equal fate on every soul, Sola and Charon alike,\n \n The demons\' blood shall drench the earth.\n \n Their bones shall be wrought into goblets;\n \n Their houses shall become graveyards;\n \n Their horns shall be broken and cast into Lamenting Lake, until its waters brim with ruin.\n \n And this land, bright with Phoxene, shall rise as offering unto Soranus.\n \n Thus, feeding on hatred,\n \n Dis Galea and his host endured the winter.\n \n They unsheathed their swords and seized the hamlets;\n \n They tightened their reins and trampled the houses.\n \n Yet endless massacre slowly dulled their wrath,\n \n And the Solarian, guided by reason, turned from the path of carnage and blood, \n \n And sought instead a road of concord.",
+          ContentEN = "Ⅷ. The Iron Hooves in Their Charge\n \n The host stirred and swelled like waters brought to the boil.\n \n Far-sighted was Dis Galea,\n \n Prudent was Dis Galea!\n \n And so they mourned with Dis Galea for Solanus,\n \n For Solanus, revered and feared, had fallen.\n \n Dirges rose and tears fell,\n \n As though a thousand stars descended all at once.\n \n The night lay veiled in mist; no guiding star remained.\n \n This day we endure the bitterness of deceit;\n \n Yet when the tide of the Great Migration next sweeps the snowbound plain:\n \n Though death descends as equal fate on every soul, Sola and Charon alike,\n \n The demons\' blood shall drench the earth.\n \n Their bones shall be wrought into goblets;\n \n Their houses shall become graveyards;\n \n Their horns shall be broken and cast into Lago Lamentoso, until its waters brim with ruin.\n \n And this land, bright with Phoxene, shall rise as offering unto Soranus.\n \n Thus, feeding on hatred,\n \n Dis Galea and his host endured the winter.\n \n They unsheathed their swords and seized the hamlets;\n \n They tightened their reins and trampled the houses.\n \n Yet endless massacre slowly dulled their wrath,\n \n And the Solarian, guided by reason, turned from the path of carnage and blood, \n \n And sought instead a road of concord.",
           TextMapId = "READ_TEXT_2000064",
         },
         READ_TEXT_2000065 = {
-          ContentEN = "Ⅸ. The Dissolving of Hatred\n \n Ten times did the ice of Lamenting Lake melt, and ten times it froze anew.\n \n And in the villages the Charon\'s dread deepened day by day —\n \n For ten years past it was they who had plotted a massacre that failed,\n \n And it was they who must now taste its bitter fruit.\n \n Dis Galea, clinging to life by Fate\'s frail thread,\n \n Endured the harsh winters of the North by means unknown,\n \n And with the silver tide of his host he laid waste to every land round about.\n \n At last he came,\n \n And with his coming an ending surely fell.\n \n With his host he cast down in swift might the fortress reared upon Soranus\'s grave.\n \n The Charon, in despair, murmured prayers to Mother Embla,\n \n Believing that this day would see them sink into the Misty Sea\'s embrace.\n \n Yet what came was neither slaughter nor conquest,\n \n But leniency beyond all measure.\n \n Dis Galea cursed Fate,\n \n Yet ten years of war had bent his heart toward peace.\n \n In his letters he wrote thus, grave and rational:\n \n \"Vengeance is scarlet, fair to behold — yet it only ends in withering.\n \n Peace is silver, grievous to bear — yet it composes the song of prosperity.\n \n Even if we let the Charon\'s blood sink into the stone, yet the stone shall one day crumble to desert.\n \n But once the seeds of peace are sown, for centuries, for millennia, flowers shall bloom.\"\n \n \"My Solarian brothers, burdened with hatred — let us together cast scorn upon Fate.\n \n To deny anger its dominion over the mind — that is the very proof of our humanity.\n \n These Charon, once branded Children of the Demon, \n \n Are righteous folk who rose against the Church.\n \n Rather than cross swords and raise the dirge,\n \n Let Soranus be the first and last sacrifice.\n \n And the Charon shall mourn him with us as sisters and brothers.\n \n So long as Lamenting Lake endures,\n \n So long as the mountains stand,\n \n The name of Soranus shall be sung without end, echoing between mountain and lake.",
+          ContentEN = "Ⅸ. The Dissolving of Hatred\n \n Ten times did the ice of Lago Lamentoso melt, and ten times it froze anew.\n \n And in the villages the Charon\'s dread deepened day by day —\n \n For ten years past it was they who had plotted a massacre that failed,\n \n And it was they who must now taste its bitter fruit.\n \n Dis Galea, clinging to life by Fate\'s frail thread,\n \n Endured the harsh winters of the North by means unknown,\n \n And with the silver tide of his host he laid waste to every land round about.\n \n At last he came,\n \n And with his coming an ending surely fell.\n \n With his host he cast down in swift might the fortress reared upon Soranus\'s grave.\n \n The Charon, in despair, murmured prayers to Mother Embla,\n \n Believing that this day would see them sink into the Misty Sea\'s embrace.\n \n Yet what came was neither slaughter nor conquest,\n \n But leniency beyond all measure.\n \n Dis Galea cursed Fate,\n \n Yet ten years of war had bent his heart toward peace.\n \n In his letters he wrote thus, grave and rational:\n \n \"Vengeance is scarlet, fair to behold — yet it only ends in withering.\n \n Peace is silver, grievous to bear — yet it composes the song of prosperity.\n \n Even if we let the Charon\'s blood sink into the stone, yet the stone shall one day crumble to desert.\n \n But once the seeds of peace are sown, for centuries, for millennia, flowers shall bloom.\"\n \n \"My Solarian brothers, burdened with hatred — let us together cast scorn upon Fate.\n \n To deny anger its dominion over the mind — that is the very proof of our humanity.\n \n These Charon, once branded Children of the Demon, \n \n Are righteous folk who rose against the Church.\n \n Rather than cross swords and raise the dirge,\n \n Let Soranus be the first and last sacrifice.\n \n And the Charon shall mourn him with us as sisters and brothers.\n \n So long as Lago Lamentoso endures,\n \n So long as the mountains stand,\n \n The name of Soranus shall be sung without end, echoing between mountain and lake.",
           TextMapId = "READ_TEXT_2000065",
         },
         READ_TEXT_2000066 = {
@@ -27539,7 +27539,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000066",
         },
         READ_TEXT_2000067 = {
-          ContentEN = "Charon brothers, Charon sisters — remember that verse they drilled into us when we were kids?\n\"Have you heard of such a carnival, where blasphemers clasp the hands of Demon\'s Children?\"\nYeah, that one. The Silvercandle Hymn. We\'ve heard it so many times our ears grew numb.\nEvery year, when that day comes, we Charon — scraping through bitter lives — stitch together masks and costumes. Because only then do the Solarian pretend to treat us as human. Only then do they hold back their scorn. They dance, they laugh — and they blast that cursed Hymn at us a hundred times over.\nAnd I know many of you can recite its lines, maybe even feel sorry for the \"kind-hearted\" Dis I and his brother Soranus. Some even believe — because our ancestors supposedly killed Soranus — that we\'re bound to serve the Solarian forever. They say it\'s our destiny. To repay a blood debt. I say that\'s all lies.\nDon\'t buy it.\nDon\'t buy it!\nDon\'t buy it!!!\nThe Silvercandle Carnival is a lie from start to finish. There never was a carnival. Only a massacre. And Soranus? He wasn\'t some poor victim. He was the butcher — the worst of them all!\n \nListen, I\'ll tell you another story. The truth.\n \nOur ancestors, the Charon, lived in the North. Because of Deterioration, they didn\'t build great cities — just small scattered villages. One clan lived by Lamenting Lake, warming themselves with Phoxene from the Heaventree nearby, living on what little they had.\nThen came rumours from the South — trouble in the Elysian Church, rebels driven out, exiles wandering north. At first it was just gossip. Elysium was too far to matter. Until Solarian soldiers showed up, armed, on our lake shore.\nOur ancestors pitied them. Thought they\'d never survive the northern winter. So they took them in, gave them food.\nThat winter was cruel, as if Father Ask and Mother Embla cursed us with the storm. But the cold didn\'t kill them — it only fed their greed. Galea, their leader, seemed harmless enough. But his brother? A greedy wolf. The first time he stepped into the village, his eyes went straight to our granaries. Already he was thinking of plunder.\nAnd on the night meant for peace, that brute Soranus had his blades and shields ready. At the feast our ancestors prepared, he struck.\nBy dawn, except for a handful of hunters out in the wilds, none were left alive... Galea built Icelake on our ancestors\' graves, and from it rose his Empire. His men enslaved us, lied to us, branded us sinners.\n \nThink about it! Really think about it! The Hymn — every line is about the Solarian. Not once does it name a single Charon. Why? Because they didn\'t know? Or because they never cared?\nThe Silvercandle Carnival? A sham. The Hymn? Lies. They boast, \"On this day we\'re equal; on this day we dance together.\" Liars! That wall between Solarian and Charon? They built it! And Soranus? He wasn\'t a hero or martyr. He was a filthy butcher!\nDon\'t be fooled. Boycott the Silvercandle Carnival!",
+          ContentEN = "Charon brothers, Charon sisters — remember that verse they drilled into us when we were kids?\n\"Have you heard of such a carnival, where blasphemers clasp the hands of Demon\'s Children?\"\nYeah, that one. The Silvercandle Hymn. We\'ve heard it so many times our ears grew numb.\nEvery year, when that day comes, we Charon — scraping through bitter lives — stitch together masks and costumes. Because only then do the Solarian pretend to treat us as human. Only then do they hold back their scorn. They dance, they laugh — and they blast that cursed Hymn at us a hundred times over.\nAnd I know many of you can recite its lines, maybe even feel sorry for the \"kind-hearted\" Dis I and his brother Soranus. Some even believe — because our ancestors supposedly killed Soranus — that we\'re bound to serve the Solarian forever. They say it\'s our destiny. To repay a blood debt. I say that\'s all lies.\nDon\'t buy it.\nDon\'t buy it!\nDon\'t buy it!!!\nThe Silvercandle Carnival is a lie from start to finish. There never was a carnival. Only a massacre. And Soranus? He wasn\'t some poor victim. He was the butcher — the worst of them all!\n \nListen, I\'ll tell you another story. The truth.\n \nOur ancestors, the Charon, lived in the North. Because of Deterioration, they didn\'t build great cities — just small scattered villages. One clan lived by Lago Lamentoso, warming themselves with Phoxene from the Heaventree nearby, living on what little they had.\nThen came rumours from the South — trouble in the Elysian Church, rebels driven out, exiles wandering north. At first it was just gossip. Elysium was too far to matter. Until Solarian soldiers showed up, armed, on our lake shore.\nOur ancestors pitied them. Thought they\'d never survive the northern winter. So they took them in, gave them food.\nThat winter was cruel, as if Father Ask and Mother Embla cursed us with the storm. But the cold didn\'t kill them — it only fed their greed. Galea, their leader, seemed harmless enough. But his brother? A greedy wolf. The first time he stepped into the village, his eyes went straight to our granaries. Already he was thinking of plunder.\nAnd on the night meant for peace, that brute Soranus had his blades and shields ready. At the feast our ancestors prepared, he struck.\nBy dawn, except for a handful of hunters out in the wilds, none were left alive... Galea built Icelake on our ancestors\' graves, and from it rose his Empire. His men enslaved us, lied to us, branded us sinners.\n \nThink about it! Really think about it! The Hymn — every line is about the Solarian. Not once does it name a single Charon. Why? Because they didn\'t know? Or because they never cared?\nThe Silvercandle Carnival? A sham. The Hymn? Lies. They boast, \"On this day we\'re equal; on this day we dance together.\" Liars! That wall between Solarian and Charon? They built it! And Soranus? He wasn\'t a hero or martyr. He was a filthy butcher!\nDon\'t be fooled. Boycott the Silvercandle Carnival!",
           TextMapId = "READ_TEXT_2000067",
         },
         READ_TEXT_2000068 = {
@@ -27575,7 +27575,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_20605",
         },
         READ_TEXT_20608 = {
-          ContentEN = "Sorry, babe, there\'s been a hiccup at home, so I can\'t take you to the inner city this month as I promised. But hang tight, I\'ll come for you as soon as I sort things out. Trust me one more time, okay?\n As a little something to make it up to you, I\'ve hidden some cash <H>under the grass on the left side of the pathway</> to the inner city. Don\'t forget to pick it up. Love you!\n \n <W>You liar! You jerk! Every time you lie to me, you just throw money at me like I\'m some kind of pet you own! I\'d rather starve or drop dead in the street than take another coin from you! You can rot with your filthy money for all I care!</>",
+          ContentEN = "Sorry, babe, there\'s been a hiccup at home, so I can\'t take you to the Città Interna this month as I promised. But hang tight, I\'ll come for you as soon as I sort things out. Trust me one more time, okay?\n As a little something to make it up to you, I\'ve hidden some cash <H>under the grass on the left side of the pathway</> to the Città Interna. Don\'t forget to pick it up. Love you!\n \n <W>You liar! You jerk! Every time you lie to me, you just throw money at me like I\'m some kind of pet you own! I\'d rather starve or drop dead in the street than take another coin from you! You can rot with your filthy money for all I care!</>",
           TextMapId = "READ_TEXT_20608",
         },
         READ_TEXT_20609 = {
@@ -27603,7 +27603,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_20614",
         },
         READ_TEXT_20615 = {
-          ContentEN = "Do you remember that day we left the city and wandered along the <H>lakeside of Lamenting Lake</>, wading barefoot through the shallows?\n\"Look at that tree with red leaves,\" you said.\n\"They\'re orange,\" I corrected.\n\"I said red,\" you insisted.\n\nI\'d saved up a few pieces of Phoxene — I was going to trade them for a real red-leafed plant, as a gift for you.\nIn the end, I buried them <H>beneath that tree with the orange leaves</>.\n\n...Yes, I still think they\'re orange. I\'m sorry. Leaves don\'t turn red just because you say they are — just like you won\'t come back just because I keep saying you will.\n\nMaybe, when spring comes, the Phoxene will sprout and grow — like the feelings I still carry for you. Or maybe some lucky passerby will dig them up instead.\n\nEither way, I think that would be a good thing. You always said good things are meant to be shared. If this gift I never gave ends up helping someone else... maybe that\'s a kind of happy ending, too.",
+          ContentEN = "Do you remember that day we left the city and wandered along the <H>Riva del Lago Lamentoso</>, wading barefoot through the shallows?\n\"Look at that tree with red leaves,\" you said.\n\"They\'re orange,\" I corrected.\n\"I said red,\" you insisted.\n\nI\'d saved up a few pieces of Phoxene — I was going to trade them for a real red-leafed plant, as a gift for you.\nIn the end, I buried them <H>beneath that tree with the orange leaves</>.\n\n...Yes, I still think they\'re orange. I\'m sorry. Leaves don\'t turn red just because you say they are — just like you won\'t come back just because I keep saying you will.\n\nMaybe, when spring comes, the Phoxene will sprout and grow — like the feelings I still carry for you. Or maybe some lucky passerby will dig them up instead.\n\nEither way, I think that would be a good thing. You always said good things are meant to be shared. If this gift I never gave ends up helping someone else... maybe that\'s a kind of happy ending, too.",
           TextMapId = "READ_TEXT_20615",
         },
         READ_TEXT_20616 = {
@@ -28816,7 +28816,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_DESC_3000009",
         },
         RESOURCE_DESC_3000010 = {
-          ContentEN = "An abstract portrait gifted to you by Faye, who insists it\'s your likeness. The interplay of red and white might vaguely suggest a human form, gender indistinguishable, but if Faye sees you in it, then so be it. Perhaps the aesthetic sensibilities of Inner City denizens are an acquired taste.",
+          ContentEN = "An abstract portrait gifted to you by Faye, who insists it\'s your likeness. The interplay of red and white might vaguely suggest a human form, gender indistinguishable, but if Faye sees you in it, then so be it. Perhaps the aesthetic sensibilities of Città Interna denizens are an acquired taste.",
           TextMapId = "RESOURCE_DESC_3000010",
         },
         RESOURCE_DESC_3000011 = {
@@ -28868,7 +28868,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_DESC_3010",
         },
         RESOURCE_DESC_30101 = {
-          ContentEN = "A dye made by blending various raw materials, capable of producing hues akin to those of the waters of Lamenting Lake.",
+          ContentEN = "A dye made by blending various raw materials, capable of producing hues akin to those of the waters of Lago Lamentoso.",
           TextMapId = "RESOURCE_DESC_30101",
         },
         RESOURCE_DESC_30102 = {
@@ -30879,15 +30879,15 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_2004",
         },
         RESOURCE_NAME_2007 = {
-          ContentEN = "Weapon Manual Ⅰ",
+          ContentEN = "Manuale Arma Ⅰ",
           TextMapId = "RESOURCE_NAME_2007",
         },
         RESOURCE_NAME_2008 = {
-          ContentEN = "Weapon Manual Ⅱ",
+          ContentEN = "Manuale Arma Ⅱ",
           TextMapId = "RESOURCE_NAME_2008",
         },
         RESOURCE_NAME_2009 = {
-          ContentEN = "Weapon Manual Ⅲ",
+          ContentEN = "Manuale Arma Ⅲ",
           TextMapId = "RESOURCE_NAME_2009",
         },
         RESOURCE_NAME_201 = {
@@ -30895,7 +30895,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_201",
         },
         RESOURCE_NAME_2010 = {
-          ContentEN = "Weapon Manual Ⅳ",
+          ContentEN = "Manuale Arma Ⅳ",
           TextMapId = "RESOURCE_NAME_2010",
         },
         RESOURCE_NAME_2011 = {
@@ -31111,7 +31111,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_3010",
         },
         RESOURCE_NAME_30101 = {
-          ContentEN = "Premium Dye: Lamenting Lake",
+          ContentEN = "Premium Dye: Lago Lamentoso",
           TextMapId = "RESOURCE_NAME_30101",
         },
         RESOURCE_NAME_30102 = {
@@ -31764,11 +31764,11 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_5023021",
         },
         RESOURCE_NAME_5023030 = {
-          ContentEN = "Lamenting Lake Trout",
+          ContentEN = "Lago Lamentoso Trout",
           TextMapId = "RESOURCE_NAME_5023030",
         },
         RESOURCE_NAME_5023031 = {
-          ContentEN = "Lamenting Lake Trout Variant",
+          ContentEN = "Lago Lamentoso Trout Variant",
           TextMapId = "RESOURCE_NAME_5023031",
         },
         RESOURCE_NAME_5023040 = {
@@ -32757,7 +32757,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_4020004",
         },
         RESOURCE_TEXT_4020005 = {
-          ContentEN = "\"Troubles to stones, \'plop, plop\' as they go, where they\'re gone from sight, in Lamenting Lake they\'re beyond.\" \n\n— A folk ballad of Icelake",
+          ContentEN = "\"Troubles to stones, \'plop, plop\' as they go, where they\'re gone from sight, in Lago Lamentoso they\'re beyond.\" \n\n— A folk ballad of Icelake",
           TextMapId = "RESOURCE_TEXT_4020005",
         },
         RESOURCE_TEXT_5000000 = {
@@ -32913,7 +32913,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_5110300",
         },
         RESOURCE_TEXT_5110400 = {
-          ContentEN = "I remember — it was just past midnight. A Lamenting Lake Trout had taken the bait. Couldn\'t see a thing, but I knew it had to weigh at least eight kilos. Too bad my rod snapped clean in half through the fight! But hey... that\'s fishing. It\'s not about the catch — it\'s a kind of spiritual practice. A test of patience. The result doesn\'t matter. Honestly, I\'d forgotten all about that night... until you brought it up. Anyway — check out this new rod! Solid as a rock. Unless it\'s the Lake Monster itself, nothing\'s breaking this one. Hehe...\n\n— A teary-eyed veteran angler",
+          ContentEN = "I remember — it was just past midnight. A Lago Lamentoso Trout had taken the bait. Couldn\'t see a thing, but I knew it had to weigh at least eight kilos. Too bad my rod snapped clean in half through the fight! But hey... that\'s fishing. It\'s not about the catch — it\'s a kind of spiritual practice. A test of patience. The result doesn\'t matter. Honestly, I\'d forgotten all about that night... until you brought it up. Anyway — check out this new rod! Solid as a rock. Unless it\'s the Lake Monster itself, nothing\'s breaking this one. Hehe...\n\n— A teary-eyed veteran angler",
           TextMapId = "RESOURCE_TEXT_5110400",
         },
         RESOURCE_TEXT_5110500 = {
@@ -45825,7 +45825,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_2052",
         },
         UI_Achievement_Des_2053 = {
-          ContentEN = "Inflict Paralysis on any enemy <H>#1</> times in solo-mode [Commission: Capture]",
+          ContentEN = "Inflict Paralysis on any enemy <H>#1</> times in solo-mode [Commissione: Capture]",
           TextMapId = "UI_Achievement_Des_2053",
         },
         UI_Achievement_Des_210010101 = {
@@ -46109,7 +46109,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5015",
         },
         UI_Achievement_Des_5021 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Capture] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Capture] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5021",
         },
       }
@@ -46122,43 +46122,43 @@ local r0_0 = {
       -- line: [48954, 49757] id: 58
       return {
         UI_Achievement_Des_5022 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Mediation] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Mediation] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5022",
         },
         UI_Achievement_Des_5023 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Defence] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Defence] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5023",
         },
         UI_Achievement_Des_5024 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Termination] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Termination] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5024",
         },
         UI_Achievement_Des_5025 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Escort] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Escort] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5025",
         },
         UI_Achievement_Des_5026 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Relocation] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Relocation] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5026",
         },
         UI_Achievement_Des_5027 = {
-          ContentEN = "Secured victory in solo-mode \"Commission: Expulsion\" on the highest difficulty <highlight>without summoning any Combat Partners</>",
+          ContentEN = "Secured victory in solo-mode \"Commissione: Expulsion\" on the highest difficulty <highlight>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5027",
         },
         UI_Achievement_Des_50308 = {
-          ContentEN = "Complete [Commission: Capture] within 3 minutes",
+          ContentEN = "Complete [Commissione: Capture] within 3 minutes",
           TextMapId = "UI_Achievement_Des_50308",
         },
         UI_Achievement_Des_50309 = {
-          ContentEN = "Complete [Commission: Mediation] within 3 minutes",
+          ContentEN = "Complete [Commissione: Mediation] within 3 minutes",
           TextMapId = "UI_Achievement_Des_50309",
         },
         UI_Achievement_Des_5031 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Exploration ∞] on the highest difficulty with at least <H>#1</> enemies defeated",
+          ContentEN = "Secure victory in solo-mode [Commissione: Exploration ∞] on the highest difficulty with at least <H>#1</> enemies defeated",
           TextMapId = "UI_Achievement_Des_5031",
         },
         UI_Achievement_Des_5032 = {
-          ContentEN = "Secure victory in solo-mode [Commission: Defence ∞] on the highest difficulty with at least <H>#1</> enemies defeated",
+          ContentEN = "Secure victory in solo-mode [Commissione: Defence ∞] on the highest difficulty with at least <H>#1</> enemies defeated",
           TextMapId = "UI_Achievement_Des_5032",
         },
         UI_Achievement_Des_50401 = {
@@ -46250,63 +46250,63 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5055",
         },
         UI_Achievement_Des_5061001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commission: Capture] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Capture] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5061001",
         },
         UI_Achievement_Des_5061002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commission: Capture] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Capture] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5061002",
         },
         UI_Achievement_Des_5061003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commission: Capture] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commissione: Capture] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5061003",
         },
         UI_Achievement_Des_5062001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commission: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Mediation] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062001",
         },
         UI_Achievement_Des_5062002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commission: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Mediation] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062002",
         },
         UI_Achievement_Des_5062003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commission: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commissione: Mediation] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062003",
         },
         UI_Achievement_Des_5063001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commission: Termination] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commissione: Termination] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5063001",
         },
         UI_Achievement_Des_5063002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commission: Termination] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Termination] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5063002",
         },
         UI_Achievement_Des_5063003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commission: Termination] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Termination] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5063003",
         },
         UI_Achievement_Des_5064001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commission: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commissione: Escort] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064001",
         },
         UI_Achievement_Des_5064002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commission: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Escort] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064002",
         },
         UI_Achievement_Des_5064003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commission: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Escort] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064003",
         },
         UI_Achievement_Des_5065001 = {
-          ContentEN = "Secured victory within <highlight>420</>s in solo-mode \"Commission: Expulsion\" on the highest difficulty",
+          ContentEN = "Secured victory within <highlight>420</>s in solo-mode \"Commissione: Expulsion\" on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5065001",
         },
         UI_Achievement_Des_5065002 = {
-          ContentEN = "Secured victory within <highlight>300</>s in solo-mode \"Commission: Expulsion\" on the highest difficulty",
+          ContentEN = "Secured victory within <highlight>300</>s in solo-mode \"Commissione: Expulsion\" on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5065002",
         },
         UI_Achievement_Des_5065003 = {
-          ContentEN = "Secured victory within <highlight>180</>s in solo-mode \"Commission: Expulsion\" on the highest difficulty",
+          ContentEN = "Secured victory within <highlight>180</>s in solo-mode \"Commissione: Expulsion\" on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5065003",
         },
         UI_Achievement_Des_5071 = {
@@ -46322,83 +46322,83 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5073",
         },
         UI_Achievement_Des_50901 = {
-          ContentEN = "Complete [Commission: Defence ∞] for the first time",
+          ContentEN = "Complete [Commissione: Defence ∞] for the first time",
           TextMapId = "UI_Achievement_Des_50901",
         },
         UI_Achievement_Des_50902 = {
-          ContentEN = "Complete [Commission: Defence] for the first time",
+          ContentEN = "Complete [Commissione: Defence] for the first time",
           TextMapId = "UI_Achievement_Des_50902",
         },
         UI_Achievement_Des_50903 = {
-          ContentEN = "Complete [Commission: Excavation ∞] for the first time",
+          ContentEN = "Complete [Commissione: Excavation ∞] for the first time",
           TextMapId = "UI_Achievement_Des_50903",
         },
         UI_Achievement_Des_50904 = {
-          ContentEN = "Complete [Commission: Capture] for the first time",
+          ContentEN = "Complete [Commissione: Capture] for the first time",
           TextMapId = "UI_Achievement_Des_50904",
         },
         UI_Achievement_Des_50905 = {
-          ContentEN = "Complete [Commission: Exploration ∞] for the first time",
+          ContentEN = "Complete [Commissione: Exploration ∞] for the first time",
           TextMapId = "UI_Achievement_Des_50905",
         },
         UI_Achievement_Des_50906 = {
-          ContentEN = "Complete [Commission: Hedge] for the first time",
+          ContentEN = "Complete [Commissione: Hedge] for the first time",
           TextMapId = "UI_Achievement_Des_50906",
         },
         UI_Achievement_Des_50907 = {
-          ContentEN = "Complete [Commission: Mediation] for the first time",
+          ContentEN = "Complete [Commissione: Mediation] for the first time",
           TextMapId = "UI_Achievement_Des_50907",
         },
         UI_Achievement_Des_50908 = {
-          ContentEN = "Complete [Commission: Relocation] for the first time",
+          ContentEN = "Complete [Commissione: Relocation] for the first time",
           TextMapId = "UI_Achievement_Des_50908",
         },
         UI_Achievement_Des_50909 = {
-          ContentEN = "Complete [Commission: Termination] for the first time",
+          ContentEN = "Complete [Commissione: Termination] for the first time",
           TextMapId = "UI_Achievement_Des_50909",
         },
         UI_Achievement_Des_50910 = {
-          ContentEN = "Complete [Commission: Escort] for the first time",
+          ContentEN = "Complete [Commissione: Escort] for the first time",
           TextMapId = "UI_Achievement_Des_50910",
         },
         UI_Achievement_Des_50920 = {
-          ContentEN = "Complete [Commission: Defence ∞] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Defence ∞] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50920",
         },
         UI_Achievement_Des_50921 = {
-          ContentEN = "Complete [Commission: Defence] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Defence] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50921",
         },
         UI_Achievement_Des_50922 = {
-          ContentEN = "Complete [Commission: Excavation ∞] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Excavation ∞] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50922",
         },
         UI_Achievement_Des_50923 = {
-          ContentEN = "Complete [Commission: Capture] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Capture] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50923",
         },
         UI_Achievement_Des_50924 = {
-          ContentEN = "Complete [Commission: Exploration ∞] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Exploration ∞] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50924",
         },
         UI_Achievement_Des_50925 = {
-          ContentEN = "Complete [Commission: Hedge] a total of <highlight>#1</> times",
+          ContentEN = "Complete [Commissione: Hedge] a total of <highlight>#1</> times",
           TextMapId = "UI_Achievement_Des_50925",
         },
         UI_Achievement_Des_50926 = {
-          ContentEN = "Complete [Commission: Mediation] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Mediation] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50926",
         },
         UI_Achievement_Des_50927 = {
-          ContentEN = "Complete [Commission: Relocation] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Relocation] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50927",
         },
         UI_Achievement_Des_50928 = {
-          ContentEN = "Complete [Commission: Termination] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Termination] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50928",
         },
         UI_Achievement_Des_50929 = {
-          ContentEN = "Complete [Commission: Escort] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Escort] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50929",
         },
         UI_Achievement_Des_50930 = {
@@ -46410,27 +46410,27 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50931",
         },
         UI_Achievement_Des_51301 = {
-          ContentEN = "Complete [Commission: Mediation] without using Bouncepad 1 time",
+          ContentEN = "Complete [Commissione: Mediation] without using Bouncepad 1 time",
           TextMapId = "UI_Achievement_Des_51301",
         },
         UI_Achievement_Des_51401 = {
-          ContentEN = "Fill up 3 different Potion Stations in a single [Commission: Hedge]",
+          ContentEN = "Fill up 3 different Potion Stations in a single [Commissione: Hedge]",
           TextMapId = "UI_Achievement_Des_51401",
         },
         UI_Achievement_Des_51501 = {
-          ContentEN = "Complete [Commission: Escort] without triggering the target execution countdown",
+          ContentEN = "Complete [Commissione: Escort] without triggering the target execution countdown",
           TextMapId = "UI_Achievement_Des_51501",
         },
         UI_Achievement_Des_51601 = {
-          ContentEN = "In [Commission: Escort], successfully rescue the target by breaking just ONE cell",
+          ContentEN = "In [Commissione: Escort], successfully rescue the target by breaking just ONE cell",
           TextMapId = "UI_Achievement_Des_51601",
         },
         UI_Achievement_Des_51701 = {
-          ContentEN = "In [Commission: Escort], successfully rescue the target with less than 5s remaining on the execution countdown",
+          ContentEN = "In [Commissione: Escort], successfully rescue the target with less than 5s remaining on the execution countdown",
           TextMapId = "UI_Achievement_Des_51701",
         },
         UI_Achievement_Des_51801 = {
-          ContentEN = "Defeat all Patrollers in a single [Commission: Escort]",
+          ContentEN = "Defeat all Patrollers in a single [Commissione: Escort]",
           TextMapId = "UI_Achievement_Des_51801",
         },
         UI_Achievement_Des_519001 = {
@@ -46438,11 +46438,11 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_519001",
         },
         UI_Achievement_Des_51901 = {
-          ContentEN = "Complete [Commission: Relocation] without activating any explosion of the Magnetix Drones",
+          ContentEN = "Complete [Commissione: Relocation] without activating any explosion of the Magnetix Drones",
           TextMapId = "UI_Achievement_Des_51901",
         },
         UI_Achievement_Des_52001 = {
-          ContentEN = "Complete [Commission: Defence] without allowing the Defence Core\'s HP to be reduced",
+          ContentEN = "Complete [Commissione: Defence] without allowing the Defence Core\'s HP to be reduced",
           TextMapId = "UI_Achievement_Des_52001",
         },
         UI_Achievement_Des_520100 = {
@@ -46466,7 +46466,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_521004",
         },
         UI_Achievement_Des_52101 = {
-          ContentEN = "Complete [Commission: Defence ∞] without allowing the Defence Core\'s HP to be reduced",
+          ContentEN = "Complete [Commissione: Defence ∞] without allowing the Defence Core\'s HP to be reduced",
           TextMapId = "UI_Achievement_Des_52101",
         },
         UI_Achievement_Des_522001 = {
@@ -46474,23 +46474,23 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_522001",
         },
         UI_Achievement_Des_52201 = {
-          ContentEN = "Complete any [Commission: Exploration ∞] without interacting with a Serum Storage Point",
+          ContentEN = "Complete any [Commissione: Exploration ∞] without interacting with a Serum Storage Point",
           TextMapId = "UI_Achievement_Des_52201",
         },
         UI_Achievement_Des_52301 = {
-          ContentEN = "In any [Commission: Escort], rescue the target on your fourth puzzle attempt after three consecutive failures",
+          ContentEN = "In any [Commissione: Escort], rescue the target on your fourth puzzle attempt after three consecutive failures",
           TextMapId = "UI_Achievement_Des_52301",
         },
         UI_Achievement_Des_52401 = {
-          ContentEN = "Earn the top-tier reward in any [Commission: Mediation]",
+          ContentEN = "Earn the top-tier reward in any [Commissione: Mediation]",
           TextMapId = "UI_Achievement_Des_52401",
         },
         UI_Achievement_Des_52501 = {
-          ContentEN = "Complete any [Commission: Mediation] without defeating any Forsaken bosses",
+          ContentEN = "Complete any [Commissione: Mediation] without defeating any Forsaken bosses",
           TextMapId = "UI_Achievement_Des_52501",
         },
         UI_Achievement_Des_52601 = {
-          ContentEN = "Complete any [Commission: Mediation] after defeating all Forsaken bosses",
+          ContentEN = "Complete any [Commissione: Mediation] after defeating all Forsaken bosses",
           TextMapId = "UI_Achievement_Des_52601",
         },
         UI_Achievement_Des_52701 = {
@@ -48192,7 +48192,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_50100401",
         },
         UI_Achievement_Name_5010101 = {
-          ContentEN = "Commission: Fantastic Treasure and Where to Find It",
+          ContentEN = "Commissione: Fantastic Treasure and Where to Find It",
           TextMapId = "UI_Achievement_Name_5010101",
         },
         UI_Achievement_Name_501101 = {
@@ -48613,7 +48613,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_52000101",
         },
         UI_Achievement_Name_52000201 = {
-          ContentEN = "Stray Birds: Eastern District, Icelake",
+          ContentEN = "Stray Birds: Distretto Orientale, Icelake",
           TextMapId = "UI_Achievement_Name_52000201",
         },
         UI_Achievement_Name_52000301 = {
@@ -49454,7 +49454,7 @@ local r0_0 = {
           TextMapId = "UI_Archive_Tab_ChurchEnemy",
         },
         UI_Archive_Tab_EmpireEnemy = {
-          ContentEN = "The Hyperborean Empire",
+          ContentEN = "L'Impero Hyperboreano",
           TextMapId = "UI_Archive_Tab_EmpireEnemy",
         },
         UI_Archive_Tab_HxEnemy = {
@@ -50647,11 +50647,11 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_11030202",
         },
         UI_CHAR_DATA_TEXT_11030203 = {
-          ContentEN = "The banquet had begun.\nUnder the dazzling lights, the wineglasses in people\'s hands and the jewels on their gowns shimmered like tiny lanterns, scattering golden reflections across the banquet hall. As with all gatherings of its kind, the room pulsed with the worship of wealth and the hunger for status, gilded over with empty courtesies and polished flattery. And yet, amid all the glitter and pretence, a fairytale romance was quietly about to unfold.\nIt was his first time attending a banquet of such grandeur. He was dressed impeccably, his manner carefully composed — yet the unease in his eyes and the stiffness in his posture betrayed him. Young and sharp, he was a self-made businessman whose fortune in the steel trade had finally earned him a seat among the city\'s elite. Yet no tailoring could mask the humble roots he wore so plainly, and everyone in the hall — himself included — could see it. Eyes followed him with quiet amusement. Polite smiles met his greetings — just a shade too condescending — only to give way, behind his back, to snickers over his outdated taste and clumsy small talk. After being coaxed by a sharp-tongued noble into downing three glasses of biting spirits, he quietly slipped into a shadowed corner and murmured a request for a glass of plain water.\nShe was a darling of the inner city\'s social scene — no stranger to banquets like this. She navigated the endless stream of admirers with practised ease, making each one feel like the only one. With a few carefully chosen words, she even managed to calm two young gentlemen who had nearly come to blows over her. From the corner of her eye, she caught sight of a baron — the same one who had given her an extravagant necklace only a few days earlier. He was with another woman now: young, beautiful, someone she didn\'t recognise. It hardly surprised her. In the eyes of these nobles, she was no different from a fine porcelain vase — expensive, ornamental, replaceable. Crack it, stain it, grow bored of it, and there would always be another. But unlike a vase, she could do what no ornament ever could — speak, and smile. With grace, wit, and charm, she could always make herself sought after again. It was a game she played to perfection — and always won. Just as she gathered her skirts, poised to rejoin the game with all her polished art, a sudden wave of dizziness caught her off guard. Perhaps it was the wine she had just downed. She turned towards the refreshment table instead and caught sight of a plate of freshly sliced lemons. She picked one up — a small habit of hers. A sharp jolt of sourness always helped to clear her head.\nTo avoid staining her white gown, she popped the whole lemon wedge into her mouth. When she looked up, she found the man staring at her, water glass in hand, utterly bewildered.\n\"...Isn\'t that sour?\" he asked.\nShe could only nod, cheeks puffed full, and managed a muffled \"Mhm.\"\n\"Then why eat it?\"\nShe tapped her temple lightly, meaning to say: to wake herself up.\nThe man stared at her for a moment — it was hard to tell whether he understood or not. But then, he picked up a wedge himself, mimicked her exactly — and the instant he bit down, his features twisted into a full, miserable grimace.\nShe chuckled softly, covering her mouth with a handkerchief as she gracefully spat out the rind. Then, with practised composure, she asked, \"Feeling a bit more awake now, sir?\"\n\"Y—Yes... thank you, miss. You\'re... very beautiful,\" he stammered, nearly choking on his water. The words could easily have sounded like sarcasm — but to her, they were the most sincere thing she had heard all evening.\n\"My name is Herzeleide Snowfield,\" she said. \"I don\'t believe we\'ve met. And you are?\"\n\"Morris Glenville. I\'m a merchant.\"\n\"A merchant?\" she echoed, tilting her head slightly, her gaze curious but free of the slightest condescension. \"And what kind of trade are you in?\"\nHe smiled. \"A bit of everything. Though lately, I\'ve been thinking of trying fruit imports — maybe something a little less sour than these.\"\nShe laughed. And so did he.\nAnd so, in a hall of blinding splendour, two kindred souls found each other — in a corner softened by shadow, where the gilded light could not quite reach. Like a lemon sinking into a glass of water, the bitterness softened — just enough to leave a hint of sweetness.\nFairytales are fairytales because they end just in time — while the illusion of \"happily ever after\" still holds, shielding the reader from the ugly truth that waits beyond the beauty. Once the curtain falls, all that remains is the cold weight of reality.",
+          ContentEN = "The banquet had begun.\nUnder the dazzling lights, the wineglasses in people\'s hands and the jewels on their gowns shimmered like tiny lanterns, scattering golden reflections across the banquet hall. As with all gatherings of its kind, the room pulsed with the worship of wealth and the hunger for status, gilded over with empty courtesies and polished flattery. And yet, amid all the glitter and pretence, a fairytale romance was quietly about to unfold.\nIt was his first time attending a banquet of such grandeur. He was dressed impeccably, his manner carefully composed — yet the unease in his eyes and the stiffness in his posture betrayed him. Young and sharp, he was a self-made businessman whose fortune in the steel trade had finally earned him a seat among the city\'s elite. Yet no tailoring could mask the humble roots he wore so plainly, and everyone in the hall — himself included — could see it. Eyes followed him with quiet amusement. Polite smiles met his greetings — just a shade too condescending — only to give way, behind his back, to snickers over his outdated taste and clumsy small talk. After being coaxed by a sharp-tongued noble into downing three glasses of biting spirits, he quietly slipped into a shadowed corner and murmured a request for a glass of plain water.\nShe was a darling of the Città Interna\'s social scene — no stranger to banquets like this. She navigated the endless stream of admirers with practised ease, making each one feel like the only one. With a few carefully chosen words, she even managed to calm two young gentlemen who had nearly come to blows over her. From the corner of her eye, she caught sight of a baron — the same one who had given her an extravagant necklace only a few days earlier. He was with another woman now: young, beautiful, someone she didn\'t recognise. It hardly surprised her. In the eyes of these nobles, she was no different from a fine porcelain vase — expensive, ornamental, replaceable. Crack it, stain it, grow bored of it, and there would always be another. But unlike a vase, she could do what no ornament ever could — speak, and smile. With grace, wit, and charm, she could always make herself sought after again. It was a game she played to perfection — and always won. Just as she gathered her skirts, poised to rejoin the game with all her polished art, a sudden wave of dizziness caught her off guard. Perhaps it was the wine she had just downed. She turned towards the refreshment table instead and caught sight of a plate of freshly sliced lemons. She picked one up — a small habit of hers. A sharp jolt of sourness always helped to clear her head.\nTo avoid staining her white gown, she popped the whole lemon wedge into her mouth. When she looked up, she found the man staring at her, water glass in hand, utterly bewildered.\n\"...Isn\'t that sour?\" he asked.\nShe could only nod, cheeks puffed full, and managed a muffled \"Mhm.\"\n\"Then why eat it?\"\nShe tapped her temple lightly, meaning to say: to wake herself up.\nThe man stared at her for a moment — it was hard to tell whether he understood or not. But then, he picked up a wedge himself, mimicked her exactly — and the instant he bit down, his features twisted into a full, miserable grimace.\nShe chuckled softly, covering her mouth with a handkerchief as she gracefully spat out the rind. Then, with practised composure, she asked, \"Feeling a bit more awake now, sir?\"\n\"Y—Yes... thank you, miss. You\'re... very beautiful,\" he stammered, nearly choking on his water. The words could easily have sounded like sarcasm — but to her, they were the most sincere thing she had heard all evening.\n\"My name is Herzeleide Snowfield,\" she said. \"I don\'t believe we\'ve met. And you are?\"\n\"Morris Glenville. I\'m a merchant.\"\n\"A merchant?\" she echoed, tilting her head slightly, her gaze curious but free of the slightest condescension. \"And what kind of trade are you in?\"\nHe smiled. \"A bit of everything. Though lately, I\'ve been thinking of trying fruit imports — maybe something a little less sour than these.\"\nShe laughed. And so did he.\nAnd so, in a hall of blinding splendour, two kindred souls found each other — in a corner softened by shadow, where the gilded light could not quite reach. Like a lemon sinking into a glass of water, the bitterness softened — just enough to leave a hint of sweetness.\nFairytales are fairytales because they end just in time — while the illusion of \"happily ever after\" still holds, shielding the reader from the ugly truth that waits beyond the beauty. Once the curtain falls, all that remains is the cold weight of reality.",
           TextMapId = "UI_CHAR_DATA_TEXT_11030203",
         },
         UI_CHAR_DATA_TEXT_11030204 = {
-          ContentEN = "Years ago, the name Herzeleide was known across all of Icelake\'s high society. She was the muse of countless fantasies, the bellwether of fashion, the star of every ballroom. Some adored her — hopelessly smitten, longing to set her upon a pedestal and proclaim her the perfect woman. Others loathed her — sneering that she was nothing but a lowborn seductress who had clawed her way up by charming powerful men, eager to see her dragged back into the dirt.\nBut who was she, really?\nShe was born into an ordinary Charon household. Orphaned young, she took work as a maid in an inn to fend for herself. She was clever, meticulous, hard-working — until the night her beauty caught the wrong kind of attention from a nobleman staying at the inn.\nThe hearts of Icelake\'s folk were like the lake itself — cold to the core. No one pitied this lowborn Charon girl, even knowing full well she was the victim. She was cast out in disgrace, branded with shame, and left to scrape by in the slums.\nShe thought she would rot there, forgotten. But fate wasn\'t finished toying with her yet.\nYears later, the same nobleman returned — sickly, dying — and, perhaps seeking to soothe his conscience before the end, he showered her with gifts: wealth, a home in the inner city, even the hollow honour of a Laurelled Charon\'s title.\nTo the world, it looked as though she had struck gold overnight. To her, however, it was nothing but a sick joke. No apology, no fortune could ever mend the hollow torn open inside her. No one could imagine the life she had been forced to endure — the pain that clung to her like a second skin. She came to despise mirrors, and anything that dared reflect her face. She hated her beauty. She hated her own naivety. Because the world had taught her it was her fault: Why hadn\'t she been plainer? Why hadn\'t she known better?\nThen, everything turned on its head overnight. Her beauty — once a curse that had damned her — became a prize nobles worshipped. After a brief stunned hesitation, she steeled herself — and chose revenge. She would learn their games, speak their tongue, and wound them where it hurt most. She crafted herself a surname of elegance. She immersed herself in etiquette, literature, the arts, and current affairs. Before long, her beauty and sharpened mind made her the most coveted courtesan in all the inner city.\nShe drifted from gala to gala, relishing the quiet satisfaction of turning nobles into puppets of their own longing — pulling at their strings with effortless grace. Her heart, day by day, froze into something unrecognisable. She all but forgot the girl she had once been. Until the day she met him.\nHe wasn\'t a noble. He, too, wore a mask at every glittering gathering. And because of that, he saw through hers — glimpsed the loneliness buried beneath the dazzle. She believed it to be fate\'s final mercy — a chance to reclaim the self she had lost to the world. Beneath the hush of a tender night, she laid bare her heart. In his presence, even amid the glittering halls and their hollow splendour, her heart could beat warm and alive once more.\nMonths later, when she discovered she was carrying his child, her heart overflowed with joy. But the man grew hesitant. His business had already soared; wealth alone no longer satisfied him. What he craved now was standing — privilege, acceptance. And she, a Charon, could offer him none of it. She was like a fish flung from its tank, left gasping on cold floor. She pleaded. She reasoned. She said she had connections, that she could help grow his ventures. She cried. She humbled herself. At last, he relented — and made a single, conditional promise: If the child was born Solarian, he would make her his wife.\nOn an autumn night beneath the silver moon, her child was born. He was a beautiful boy — fair-skinned, delicate, lovely — and on his brow, a pair of small, black horns. They were beautiful horns, gleaming faintly at the tips — rare even among Charons. It was believed that children born with such horns were destined to awaken as Daimons.\nShe stared at those tiny horns, her heart sinking into despair. With trembling hands, she fumbled for a knife. If only the horns were gone. It was all their fault. If she were to cut them away... she could still have her happy ending.\nBut just as the blade caught the cold gleam of the moonlight, the baby opened his eyes — and looked at her. In those clear, bright eyes, she saw her own reflection.\nShe, too, bore horns. Horns just like his. Only then did she realise: after all these years, she had never truly stopped hating herself — or denying who she was.\nSlowly, she set the knife down.\nShe gathered the child into her arms and whispered:\n\"Come, my little one. Let\'s leave this place.\"\nThus ended the tale of Herzeleide — once a belle among the glittering halls of the inner city.",
+          ContentEN = "Years ago, the name Herzeleide was known across all of Icelake\'s high society. She was the muse of countless fantasies, the bellwether of fashion, the star of every ballroom. Some adored her — hopelessly smitten, longing to set her upon a pedestal and proclaim her the perfect woman. Others loathed her — sneering that she was nothing but a lowborn seductress who had clawed her way up by charming powerful men, eager to see her dragged back into the dirt.\nBut who was she, really?\nShe was born into an ordinary Charon household. Orphaned young, she took work as a maid in an inn to fend for herself. She was clever, meticulous, hard-working — until the night her beauty caught the wrong kind of attention from a nobleman staying at the inn.\nThe hearts of Icelake\'s folk were like the lake itself — cold to the core. No one pitied this lowborn Charon girl, even knowing full well she was the victim. She was cast out in disgrace, branded with shame, and left to scrape by in the slums.\nShe thought she would rot there, forgotten. But fate wasn\'t finished toying with her yet.\nYears later, the same nobleman returned — sickly, dying — and, perhaps seeking to soothe his conscience before the end, he showered her with gifts: wealth, a home in the Città Interna, even the hollow honour of a Laurelled Charon\'s title.\nTo the world, it looked as though she had struck gold overnight. To her, however, it was nothing but a sick joke. No apology, no fortune could ever mend the hollow torn open inside her. No one could imagine the life she had been forced to endure — the pain that clung to her like a second skin. She came to despise mirrors, and anything that dared reflect her face. She hated her beauty. She hated her own naivety. Because the world had taught her it was her fault: Why hadn\'t she been plainer? Why hadn\'t she known better?\nThen, everything turned on its head overnight. Her beauty — once a curse that had damned her — became a prize nobles worshipped. After a brief stunned hesitation, she steeled herself — and chose revenge. She would learn their games, speak their tongue, and wound them where it hurt most. She crafted herself a surname of elegance. She immersed herself in etiquette, literature, the arts, and current affairs. Before long, her beauty and sharpened mind made her the most coveted courtesan in all the Città Interna.\nShe drifted from gala to gala, relishing the quiet satisfaction of turning nobles into puppets of their own longing — pulling at their strings with effortless grace. Her heart, day by day, froze into something unrecognisable. She all but forgot the girl she had once been. Until the day she met him.\nHe wasn\'t a noble. He, too, wore a mask at every glittering gathering. And because of that, he saw through hers — glimpsed the loneliness buried beneath the dazzle. She believed it to be fate\'s final mercy — a chance to reclaim the self she had lost to the world. Beneath the hush of a tender night, she laid bare her heart. In his presence, even amid the glittering halls and their hollow splendour, her heart could beat warm and alive once more.\nMonths later, when she discovered she was carrying his child, her heart overflowed with joy. But the man grew hesitant. His business had already soared; wealth alone no longer satisfied him. What he craved now was standing — privilege, acceptance. And she, a Charon, could offer him none of it. She was like a fish flung from its tank, left gasping on cold floor. She pleaded. She reasoned. She said she had connections, that she could help grow his ventures. She cried. She humbled herself. At last, he relented — and made a single, conditional promise: If the child was born Solarian, he would make her his wife.\nOn an autumn night beneath the silver moon, her child was born. He was a beautiful boy — fair-skinned, delicate, lovely — and on his brow, a pair of small, black horns. They were beautiful horns, gleaming faintly at the tips — rare even among Charons. It was believed that children born with such horns were destined to awaken as Daimons.\nShe stared at those tiny horns, her heart sinking into despair. With trembling hands, she fumbled for a knife. If only the horns were gone. It was all their fault. If she were to cut them away... she could still have her happy ending.\nBut just as the blade caught the cold gleam of the moonlight, the baby opened his eyes — and looked at her. In those clear, bright eyes, she saw her own reflection.\nShe, too, bore horns. Horns just like his. Only then did she realise: after all these years, she had never truly stopped hating herself — or denying who she was.\nSlowly, she set the knife down.\nShe gathered the child into her arms and whispered:\n\"Come, my little one. Let\'s leave this place.\"\nThus ended the tale of Herzeleide — once a belle among the glittering halls of the Città Interna.",
           TextMapId = "UI_CHAR_DATA_TEXT_11030204",
         },
         UI_CHAR_DATA_TEXT_11030205 = {
@@ -50679,7 +50679,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_11030305",
         },
         UI_CHAR_DATA_TEXT_11030401 = {
-          ContentEN = "I was born in the outer city, into what you\'d probably call an ordinary household — though in truth, it wasn\'t all that ordinary. I never knew my father. My mother raised me on her own.\nBefore she grew too sick to leave her bed, I remember her as full of energy. She worked cleaning and tending to the Galea Theatre — arranging the scenery, sweeping the seats, checking the lights and fittings — whatever needed doing. Because of her job, she heard every kind of opera there was. And when she came home, she\'d sing. She loved singing. Whether she was resting or scrubbing the floors, there was always a tune on her lips. Simply by being there — listening day after day — I started to sing along with her.\nWe lived a modest life — but with music always in the air, somehow, it felt like enough. Until she fell ill. I can\'t remember exactly when it began, but I do remember that winter. It was one of the coldest winters in my memory, and her health suddenly took a sharp turn for the worse. Before, a few days\' rest would be enough for her to recover. But that time, even as the snows melted and spring returned, she remained bedridden. The doctor said it was the result of a frail constitution and the wear and tear of years spent working too hard. There was no cure. All we could do was let her rest — and hope for the best.\nWith Mother no longer able to work, the strain at home grew heavier with each passing day. One day, she called me over, her voice more serious than I had ever heard. She asked me to bring out a box from under the bed — one I had never seen before. It looked far too fine — far too out of place in our modest home. I was even more taken aback when I opened it:\nInside were a few pieces of ornate jewellery — each one looking far more valuable than anything we had ever owned. And at the centre of it all, nestled among the necklaces and bracelets, was a badge. Engraved upon it were the words \"Laurelled Charon\" — and Mother\'s name. I realised then that her past might have been far more complicated than I had ever imagined.\n\"Take these pieces of jewellery and sell them,\" she said. \"It should last us a while. But don\'t go by yourself — ask someone from the theatre to help. Otherwise, you might be taken advantage of.\"\nI nodded and carefully took the jewellery from the box. There were letters in there too — quite a few, in fact — but she glanced over and simply told me to leave them and put the box away.\nI didn\'t ask any questions. But she must have seen the curiosity in my eyes — because she spoke again: \"Just some old things... from the days when I still lived in the inner city.\"\n\"Mother... were you rich?\" I asked.\n\"If you mean in terms of money,\" she said, almost absently, as if dismissing some long-forgotten dream, \"then yes. There were always gorgeous gowns in my wardrobe — and if one ever got torn or stained, I never minded. There were always new ones waiting. I had enough jewellery to wear something different every day. And if I fancied something new, I never had to buy it myself. I\'d just mention it at a ball, and a few days later, someone would bring it to my door in a ribboned box. All I had to do was dance with them once or twice. If I hadn\'t left the inner city, the house would probably be filled with flowers and expensive tonics by now.\"\nAs she spoke, the last of the sunlight brushed across her face. She looked beautiful — worn thin by time, yet touched with a fragile grace. I couldn\'t read her expression. Was it nostalgia? Or regret?\n\"Mother... do you ever regret leaving the inner city?\" I asked.\n\"Regret?\" She smiled — and somehow, that smile made her look all the more fragile, all the more beautiful. \"Those ten years I spent in the inner city... they were like soap bubbles in the sun — gleaming, shimmering, yet couldn\'t withstand a single touch. Sometimes I even wonder if they ever truly happened at all.\"\n\"But the days I spent after I left — the life I built here — every moment of it was real. I remember the day I first learned the layout of the theatre, and the moment I knew by heart where every tool belonged. I remember when I dressed the entire auditorium by myself. I remember the first callus on my hand, the first ache in my knees, and the first wrinkle at the corner of my eye.\" She reached out and touched my cheek. Her palm was roughened by time, but it carried nothing but warmth. \"And I remember you, Parsifal. The first time you sang along with me. The first time you memorised an entire score. The first time you sang through a whole act without missing a note.\"\n\"I have never once regretted leaving the inner city.\" She looked into my eyes, her voice steady with quiet sincerity. \"It was the best decision I ever made.\"\nI don\'t know much about the inner city. I could never quite picture what life there might have been like. But I believe her. Even though Mother gave up many things, they were losses she had chosen — willingly — for a life that felt right to her. I want to live as she did: walking a path of my own choosing, with no regrets.",
+          ContentEN = "I was born in the outer city, into what you\'d probably call an ordinary household — though in truth, it wasn\'t all that ordinary. I never knew my father. My mother raised me on her own.\nBefore she grew too sick to leave her bed, I remember her as full of energy. She worked cleaning and tending to the Galea Theatre — arranging the scenery, sweeping the seats, checking the lights and fittings — whatever needed doing. Because of her job, she heard every kind of opera there was. And when she came home, she\'d sing. She loved singing. Whether she was resting or scrubbing the floors, there was always a tune on her lips. Simply by being there — listening day after day — I started to sing along with her.\nWe lived a modest life — but with music always in the air, somehow, it felt like enough. Until she fell ill. I can\'t remember exactly when it began, but I do remember that winter. It was one of the coldest winters in my memory, and her health suddenly took a sharp turn for the worse. Before, a few days\' rest would be enough for her to recover. But that time, even as the snows melted and spring returned, she remained bedridden. The doctor said it was the result of a frail constitution and the wear and tear of years spent working too hard. There was no cure. All we could do was let her rest — and hope for the best.\nWith Mother no longer able to work, the strain at home grew heavier with each passing day. One day, she called me over, her voice more serious than I had ever heard. She asked me to bring out a box from under the bed — one I had never seen before. It looked far too fine — far too out of place in our modest home. I was even more taken aback when I opened it:\nInside were a few pieces of ornate jewellery — each one looking far more valuable than anything we had ever owned. And at the centre of it all, nestled among the necklaces and bracelets, was a badge. Engraved upon it were the words \"Laurelled Charon\" — and Mother\'s name. I realised then that her past might have been far more complicated than I had ever imagined.\n\"Take these pieces of jewellery and sell them,\" she said. \"It should last us a while. But don\'t go by yourself — ask someone from the theatre to help. Otherwise, you might be taken advantage of.\"\nI nodded and carefully took the jewellery from the box. There were letters in there too — quite a few, in fact — but she glanced over and simply told me to leave them and put the box away.\nI didn\'t ask any questions. But she must have seen the curiosity in my eyes — because she spoke again: \"Just some old things... from the days when I still lived in the Città Interna.\"\n\"Mother... were you rich?\" I asked.\n\"If you mean in terms of money,\" she said, almost absently, as if dismissing some long-forgotten dream, \"then yes. There were always gorgeous gowns in my wardrobe — and if one ever got torn or stained, I never minded. There were always new ones waiting. I had enough jewellery to wear something different every day. And if I fancied something new, I never had to buy it myself. I\'d just mention it at a ball, and a few days later, someone would bring it to my door in a ribboned box. All I had to do was dance with them once or twice. If I hadn\'t left the Città Interna, the house would probably be filled with flowers and expensive tonics by now.\"\nAs she spoke, the last of the sunlight brushed across her face. She looked beautiful — worn thin by time, yet touched with a fragile grace. I couldn\'t read her expression. Was it nostalgia? Or regret?\n\"Mother... do you ever regret leaving the Città Interna?\" I asked.\n\"Regret?\" She smiled — and somehow, that smile made her look all the more fragile, all the more beautiful. \"Those ten years I spent in the Città Interna... they were like soap bubbles in the sun — gleaming, shimmering, yet couldn\'t withstand a single touch. Sometimes I even wonder if they ever truly happened at all.\"\n\"But the days I spent after I left — the life I built here — every moment of it was real. I remember the day I first learned the layout of the theatre, and the moment I knew by heart where every tool belonged. I remember when I dressed the entire auditorium by myself. I remember the first callus on my hand, the first ache in my knees, and the first wrinkle at the corner of my eye.\" She reached out and touched my cheek. Her palm was roughened by time, but it carried nothing but warmth. \"And I remember you, Parsifal. The first time you sang along with me. The first time you memorised an entire score. The first time you sang through a whole act without missing a note.\"\n\"I have never once regretted leaving the Città Interna.\" She looked into my eyes, her voice steady with quiet sincerity. \"It was the best decision I ever made.\"\nI don\'t know much about the Città Interna. I could never quite picture what life there might have been like. But I believe her. Even though Mother gave up many things, they were losses she had chosen — willingly — for a life that felt right to her. I want to live as she did: walking a path of my own choosing, with no regrets.",
           TextMapId = "UI_CHAR_DATA_TEXT_11030401",
         },
         UI_CHAR_DATA_TEXT_11030402 = {
@@ -50687,11 +50687,11 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_11030402",
         },
         UI_CHAR_DATA_TEXT_11030403 = {
-          ContentEN = "After being barred from performing, I turned to my teacher for help — to take me into the inner city, in search of my birth father, Morris Glenville.\nI found his name while clearing out Mother\'s belongings after she passed away. She had never spoken of him while she was alive. Of course, I had asked about my father once when I was little, but she had only given me a blank look and said, \"I don\'t know.\" I imagine there were memories too painful for her to revisit. If I hadn\'t been utterly out of options, I would never have considered turning to that man.\nBut I truly had no other choice. We all want art to be just art — pure, untouched by the hypocrisy and prejudice of the world. But in Icelake, that\'s a dream as fragile as a snowflake — delicate, fleeting, and quick to vanish.\nI stood for a long time in front of the grand estate, gathering all the courage I had before finally pressing the doorbell. A maid answered. She told me Mr Glenville wasn\'t home and wouldn\'t be back that day, then closed the door with quiet finality. I lingered there for a moment, the winter wind slicing against my cheeks. I was just about to leave when I heard a girl\'s voice:\n\"Give my Mr White Bird back... please...\"\nShe sounded sad — desperate, even. It was a tone I knew all too well. I didn\'t need to see her face to know how helpless she must have felt. Without thinking, I hurried towards the voice, circling around to the back of the house. Suddenly, a flash of white came tumbling down from above. I caught it by reflex — soft, warm, as if it had wrapped me in a gentle embrace. It was a plush white bird, nearly half my height: round, puffy, and a little comical, like something out of a storybook. I figured this must be \"Mr White Bird.\"\n\"Hah — looks like he ran off,\" came a shrill, mocking voice from the balcony above. \"Guess he didn\'t like you much, huh?\"\nIt was the maid.\nI heard frantic little footsteps scurrying away. A door slammed somewhere upstairs, cutting the sound short. Silence fell — and then, faintly, came the soft sound of a little girl quietly sobbing from the balcony.\n\"...Mr White Bird...\"\nI stepped out of the shadows, the plush bird nestled against my chest, and edged closer until she came into view.\nShe couldn\'t have been more than twelve or thirteen, with snow-white hair and sapphire eyes — like the young heroine of a fairy tale. And to my surprise, she was Charon. Morris Glenville was Solarian, which could only mean he had married a Charon woman. The thought gave me a sliver of hope: If he already had a Charon child... maybe he wouldn\'t turn me away either.\nThe girl spotted me and froze mid-step. I put a finger to my lips, signalling her to keep quiet, then steadied myself and tossed the plush bird back towards the balcony. (Thank you, Dennis, for forcing me into endless games of catch with your little siblings — without that training, I would never have made the throw.)\nShe caught Mr White Bird against her chest. The doll was soft and light, but even so, the force of it sent her stumbling. She dropped to her knees with a small thud, then scrambled upright again, clutching the doll close, her eyes shining with pure joy.\nShe mouthed a silent, heartfelt \"Thank you.\"\nI nodded and made to leave — but before I could turn away, she began waving her arms in an excited, frantic series of gestures I couldn\'t quite decipher. Then, without a word, she vanished back inside. I hesitated, lingering there in the cold. A minute later, she reappeared on the balcony, clutching something small. She tossed it down — a square of paper, neatly folded.\nI caught it, unfolded it carefully, and found a simple sketch inside: a boy holding a white bird aloft. It took me a moment to realise — she had drawn me. At the bottom, in careful, elegant handwriting, it said: \"Thank you, big brother! You\'re so kind!\"\nBig brother.\nThe words struck harder than I expected. In that instant, I realised — yes, I suppose she really was my little sister.\nI tucked the little drawing carefully into my coat pocket, then dipped into a deep, theatrical bow — just like a storybook fairy granting the heroine\'s wish.\nShe giggled.\nAnd just then, a quiet thought bloomed inside me: I\'d make a good big brother. I would read her fairy tales by the fire. I would play dolls with her. I would tell her how wonderful her drawings were. I would sing her lullabies when she couldn\'t sleep. And if she ever wanted, I would teach her to sing.\nBut that little fantasy melted the instant I came face-to-face with Mr Glenville — as fast as snow vanishing against bare skin. Looking back, it should have been obvious: If that girl had ever been truly cherished in the Glenville house, no servant would have dared to treat her that way. I should\'ve known.\nI could never be her big brother. There was nothing I could offer her, nothing I could change. She and I were the same — two children trapped in separate cages, both dreaming of a sky we could never reach.",
+          ContentEN = "After being barred from performing, I turned to my teacher for help — to take me into the Città Interna, in search of my birth father, Morris Glenville.\nI found his name while clearing out Mother\'s belongings after she passed away. She had never spoken of him while she was alive. Of course, I had asked about my father once when I was little, but she had only given me a blank look and said, \"I don\'t know.\" I imagine there were memories too painful for her to revisit. If I hadn\'t been utterly out of options, I would never have considered turning to that man.\nBut I truly had no other choice. We all want art to be just art — pure, untouched by the hypocrisy and prejudice of the world. But in Icelake, that\'s a dream as fragile as a snowflake — delicate, fleeting, and quick to vanish.\nI stood for a long time in front of the grand estate, gathering all the courage I had before finally pressing the doorbell. A maid answered. She told me Mr Glenville wasn\'t home and wouldn\'t be back that day, then closed the door with quiet finality. I lingered there for a moment, the winter wind slicing against my cheeks. I was just about to leave when I heard a girl\'s voice:\n\"Give my Mr White Bird back... please...\"\nShe sounded sad — desperate, even. It was a tone I knew all too well. I didn\'t need to see her face to know how helpless she must have felt. Without thinking, I hurried towards the voice, circling around to the back of the house. Suddenly, a flash of white came tumbling down from above. I caught it by reflex — soft, warm, as if it had wrapped me in a gentle embrace. It was a plush white bird, nearly half my height: round, puffy, and a little comical, like something out of a storybook. I figured this must be \"Mr White Bird.\"\n\"Hah — looks like he ran off,\" came a shrill, mocking voice from the balcony above. \"Guess he didn\'t like you much, huh?\"\nIt was the maid.\nI heard frantic little footsteps scurrying away. A door slammed somewhere upstairs, cutting the sound short. Silence fell — and then, faintly, came the soft sound of a little girl quietly sobbing from the balcony.\n\"...Mr White Bird...\"\nI stepped out of the shadows, the plush bird nestled against my chest, and edged closer until she came into view.\nShe couldn\'t have been more than twelve or thirteen, with snow-white hair and sapphire eyes — like the young heroine of a fairy tale. And to my surprise, she was Charon. Morris Glenville was Solarian, which could only mean he had married a Charon woman. The thought gave me a sliver of hope: If he already had a Charon child... maybe he wouldn\'t turn me away either.\nThe girl spotted me and froze mid-step. I put a finger to my lips, signalling her to keep quiet, then steadied myself and tossed the plush bird back towards the balcony. (Thank you, Dennis, for forcing me into endless games of catch with your little siblings — without that training, I would never have made the throw.)\nShe caught Mr White Bird against her chest. The doll was soft and light, but even so, the force of it sent her stumbling. She dropped to her knees with a small thud, then scrambled upright again, clutching the doll close, her eyes shining with pure joy.\nShe mouthed a silent, heartfelt \"Thank you.\"\nI nodded and made to leave — but before I could turn away, she began waving her arms in an excited, frantic series of gestures I couldn\'t quite decipher. Then, without a word, she vanished back inside. I hesitated, lingering there in the cold. A minute later, she reappeared on the balcony, clutching something small. She tossed it down — a square of paper, neatly folded.\nI caught it, unfolded it carefully, and found a simple sketch inside: a boy holding a white bird aloft. It took me a moment to realise — she had drawn me. At the bottom, in careful, elegant handwriting, it said: \"Thank you, big brother! You\'re so kind!\"\nBig brother.\nThe words struck harder than I expected. In that instant, I realised — yes, I suppose she really was my little sister.\nI tucked the little drawing carefully into my coat pocket, then dipped into a deep, theatrical bow — just like a storybook fairy granting the heroine\'s wish.\nShe giggled.\nAnd just then, a quiet thought bloomed inside me: I\'d make a good big brother. I would read her fairy tales by the fire. I would play dolls with her. I would tell her how wonderful her drawings were. I would sing her lullabies when she couldn\'t sleep. And if she ever wanted, I would teach her to sing.\nBut that little fantasy melted the instant I came face-to-face with Mr Glenville — as fast as snow vanishing against bare skin. Looking back, it should have been obvious: If that girl had ever been truly cherished in the Glenville house, no servant would have dared to treat her that way. I should\'ve known.\nI could never be her big brother. There was nothing I could offer her, nothing I could change. She and I were the same — two children trapped in separate cages, both dreaming of a sky we could never reach.",
           TextMapId = "UI_CHAR_DATA_TEXT_11030403",
         },
         UI_CHAR_DATA_TEXT_11030404 = {
-          ContentEN = "Back when we lived in the sewers, Blues used to talk about a light. He said it sat atop the watchtower — the highest point in all of Icelake — and he liked to imagine himself standing right beneath it, looking out over the whole city.\nI never cared much for going outside and rarely bothered to look up at the sky. Honestly, I hadn\'t even noticed Icelake had such a beacon. Yet whenever he spoke of it, I always pictured something golden and warm — a light that would settle gently on your head, just like sunlight.\nAfter he died, I decided to visit the inner city. If I was going to impersonate him, I thought... at least I could help see his dream through.\nLate on a moonless night, I slipped past the guards and made my way up the tower, floor after floor. And when I finally reached the top, there it was: the light Blues had always talked about.\nI was disappointed.\nIt was just a lamp. Large, yes — but otherwise ordinary. Its beam was cold, pale, almost clinical. Dust caked its housing, and its motor hummed with an irritating whine.\nWhat a fool, I thought. To chase something like this. To give up everything for it. To die for it.\n\nBut on my way back down, I stopped and looked up again.\nUp there, against the night sky, the light still shone. And I realised something: from down here, it actually wasn\'t half bad. No one could hear the motor\'s whir from the ground. No one could see the dust. And that pale, lifeless beam — once stretched across the dark — became something softer. It had taken the moon\'s place, faithfully lending what light it could to the city.\nSo why had I been so disappointed?\nI remembered the way Blues had described it. And finally, I understood.\nIt wasn\'t the light that had let me down. The moment Blues mentioned an unreachable light, I had already decided what it should be — golden, warm, gentle. But what I had pictured wasn\'t a searchlight at all.\nAll along, what I was really seeing in my mind... was the spotlight that hangs above the stage in Galea Theatre.\nSo in the end, I wasn\'t any different from him. I was just another fool who gave up everything — chasing after a light.",
+          ContentEN = "Back when we lived in the sewers, Blues used to talk about a light. He said it sat atop the watchtower — the highest point in all of Icelake — and he liked to imagine himself standing right beneath it, looking out over the whole city.\nI never cared much for going outside and rarely bothered to look up at the sky. Honestly, I hadn\'t even noticed Icelake had such a beacon. Yet whenever he spoke of it, I always pictured something golden and warm — a light that would settle gently on your head, just like sunlight.\nAfter he died, I decided to visit the Città Interna. If I was going to impersonate him, I thought... at least I could help see his dream through.\nLate on a moonless night, I slipped past the guards and made my way up the tower, floor after floor. And when I finally reached the top, there it was: the light Blues had always talked about.\nI was disappointed.\nIt was just a lamp. Large, yes — but otherwise ordinary. Its beam was cold, pale, almost clinical. Dust caked its housing, and its motor hummed with an irritating whine.\nWhat a fool, I thought. To chase something like this. To give up everything for it. To die for it.\n\nBut on my way back down, I stopped and looked up again.\nUp there, against the night sky, the light still shone. And I realised something: from down here, it actually wasn\'t half bad. No one could hear the motor\'s whir from the ground. No one could see the dust. And that pale, lifeless beam — once stretched across the dark — became something softer. It had taken the moon\'s place, faithfully lending what light it could to the city.\nSo why had I been so disappointed?\nI remembered the way Blues had described it. And finally, I understood.\nIt wasn\'t the light that had let me down. The moment Blues mentioned an unreachable light, I had already decided what it should be — golden, warm, gentle. But what I had pictured wasn\'t a searchlight at all.\nAll along, what I was really seeing in my mind... was the spotlight that hangs above the stage in Galea Theatre.\nSo in the end, I wasn\'t any different from him. I was just another fool who gave up everything — chasing after a light.",
           TextMapId = "UI_CHAR_DATA_TEXT_11030404",
         },
         UI_CHAR_DATA_TEXT_11030405 = {
@@ -50955,7 +50955,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_18010404",
         },
         UI_CHAR_DATA_TEXT_18010405 = {
-          ContentEN = "Fina and Outsider together buried her stepfather and his golden cane beneath a pine tree by Lamenting Lake.\nShe closed her eyes. Once, she had been consumed by deep hatred and fear for the man who had brought so much misfortune into her life. But now, memories of him had melted away like snowflakes caught in her hair, dissolving into distant oblivion.\nHer hair had grown longer, and Outsider had helped to dye her silver locks a beautiful shade of azure, like the waters of Lamenting Lake or the colour of her eyes. This new appearance allowed her to walk among the crowd without being recognised. The name \"Serafina Glenville\" had been carried away by the winds over Icelake, leaving behind only Fina, Outsider\'s sister. A new chapter of her story was ready to unfold.\n\nOn a clear afternoon, Fina opened a blank notebook, picked up a quill, and carefully wrote down the title of her new story: The Song of the Niveous Nightingale.\nSuddenly, a clattering noise interrupted her thoughts. She set down the pen, intending to ask her brother to be a bit quieter, only to see him approaching with a cardboard box in his hands. \"You might want to go over these,\" Outsider said as he placed the box on the table. \"I forgot to mention — I found this bundle near you in the sewer. Thought it might belong to you.\"\n\"This is...\" Fina gasped as she lifted a small box from the carton. Though caked in mud and dust, the intricate craftsmanship was evident. \"The family heirloom Mommy left to me.\"\n\"Wow, that sounds awesome! Let\'s see what\'s inside — maybe it\'ll turn us into rich folks, so we can buy a bigger house.\" Outsider joked as he wiped away the grime. \"Huh, there\'s a combination lock on it...\"\n\"Wait!\" Fina suddenly remembered her mother\'s warning. \"Don\'t open it! Mommy said it could explode if the wrong password is entered!\"\nShe jumped up, trying to grab the box, but before she could, there was a soft click.\n\"It didn\'t explode,\" Outsider said, puzzled. \"I just tried a random number and it opened. But there\'s nothing much inside, just a piece of paper.\" Realising the potential significance of this thing, he immediately handed the box to Fina. \"Maybe you should read it yourself.\"\n\n—What could it be?\n\"Could it be... a treasure map?\" Fina wondered, tilting her head as she unfolded the paper. Suddenly, she choked up, and her hands began to tremble. Outsider leaned over, only to find a thin letter, with just one line of elegant handwriting:\n<H>My dearest child, may you find your own happiness.</>\n\nFina\'s thoughts drifted back to a night many years ago, when she had been jolted awake by a nightmare. Frantically, she had run downstairs in search of her mother, only to pause outside the bedroom, overhearing a conversation between her mother and stepfather.\n\"Morris, I promised I would give you the treasure in the box someday. But it’s not today — it\'ll be the day when Serafina comes of age,\" her mother said, her voice calm and resolute. \"In exchange, I\'ll need your assurance — you must ensure Serafina grows up safe and well.\"",
+          ContentEN = "Fina and Outsider together buried her stepfather and his golden cane beneath a pine tree by Lago Lamentoso.\nShe closed her eyes. Once, she had been consumed by deep hatred and fear for the man who had brought so much misfortune into her life. But now, memories of him had melted away like snowflakes caught in her hair, dissolving into distant oblivion.\nHer hair had grown longer, and Outsider had helped to dye her silver locks a beautiful shade of azure, like the waters of Lago Lamentoso or the colour of her eyes. This new appearance allowed her to walk among the crowd without being recognised. The name \"Serafina Glenville\" had been carried away by the winds over Icelake, leaving behind only Fina, Outsider\'s sister. A new chapter of her story was ready to unfold.\n\nOn a clear afternoon, Fina opened a blank notebook, picked up a quill, and carefully wrote down the title of her new story: The Song of the Niveous Nightingale.\nSuddenly, a clattering noise interrupted her thoughts. She set down the pen, intending to ask her brother to be a bit quieter, only to see him approaching with a cardboard box in his hands. \"You might want to go over these,\" Outsider said as he placed the box on the table. \"I forgot to mention — I found this bundle near you in the sewer. Thought it might belong to you.\"\n\"This is...\" Fina gasped as she lifted a small box from the carton. Though caked in mud and dust, the intricate craftsmanship was evident. \"The family heirloom Mommy left to me.\"\n\"Wow, that sounds awesome! Let\'s see what\'s inside — maybe it\'ll turn us into rich folks, so we can buy a bigger house.\" Outsider joked as he wiped away the grime. \"Huh, there\'s a combination lock on it...\"\n\"Wait!\" Fina suddenly remembered her mother\'s warning. \"Don\'t open it! Mommy said it could explode if the wrong password is entered!\"\nShe jumped up, trying to grab the box, but before she could, there was a soft click.\n\"It didn\'t explode,\" Outsider said, puzzled. \"I just tried a random number and it opened. But there\'s nothing much inside, just a piece of paper.\" Realising the potential significance of this thing, he immediately handed the box to Fina. \"Maybe you should read it yourself.\"\n\n—What could it be?\n\"Could it be... a treasure map?\" Fina wondered, tilting her head as she unfolded the paper. Suddenly, she choked up, and her hands began to tremble. Outsider leaned over, only to find a thin letter, with just one line of elegant handwriting:\n<H>My dearest child, may you find your own happiness.</>\n\nFina\'s thoughts drifted back to a night many years ago, when she had been jolted awake by a nightmare. Frantically, she had run downstairs in search of her mother, only to pause outside the bedroom, overhearing a conversation between her mother and stepfather.\n\"Morris, I promised I would give you the treasure in the box someday. But it’s not today — it\'ll be the day when Serafina comes of age,\" her mother said, her voice calm and resolute. \"In exchange, I\'ll need your assurance — you must ensure Serafina grows up safe and well.\"",
           TextMapId = "UI_CHAR_DATA_TEXT_18010405",
         },
         UI_CHAR_DATA_TEXT_21010101 = {
@@ -51144,7 +51144,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_31010202",
         },
         UI_CHAR_DATA_TEXT_31010203 = {
-          ContentEN = "While the Solarian children in the Empire were still attending middle school, Lynn had already entered the workforce. She had worked in the mines collecting Phoxenes, carried barrels in taverns, and served as a maid in wealthy households. Later on, she became a Phohunter, an assassin for hire. Her exceptional talent and refined skills quickly earned her a reputation, and more and more clients approached her with assignments. These commissions evolved from mundane hunting tasks to progressively more covert operations. Some even skipped The Asphodel, inviting Lynn to take on some \"private jobs\" directly.\nAnd so, during the two years between the ages of eighteen and twenty, Lynn was publicly known as a \"courier\". Night after night, she received \"letters\" from employers inside the gilded carriages arriving from the inner city. Lynn carried out the employers\' thick, fervent, and sometimes near-crazed longings with the barrels of her guns. Then, before dawn, she embarked on her \"delivery\" journey, returning after many days, weathering both wind and snow in the process. In Camilla Scarlet\'s memories, the young girl named Lynn would always stride into the tavern at dusk, shaking the snowflakes from her cloak. She would buy the cheapest drink, sit alone by the window, and remain silent until closing time. On one rare occasion, Lynn started talking to Camilla and asked her for a towel. \"I don\'t want my family to see,\" she whispered softly, \"I got... something on my face.\" Camilla looked at the dark red stain on her face and frowned. She had a keen sense of smell and could detect the pungent odour emanating from the stain. \"Thank you,\" Lynn said as she accepted the towel Camilla handed her. Her frosty face cracked into a faint smile, then she disappeared into the wind and snow.",
+          ContentEN = "While the Solarian children in the Empire were still attending middle school, Lynn had already entered the workforce. She had worked in the mines collecting Phoxenes, carried barrels in taverns, and served as a maid in wealthy households. Later on, she became a Phohunter, an assassin for hire. Her exceptional talent and refined skills quickly earned her a reputation, and more and more clients approached her with assignments. These commissions evolved from mundane hunting tasks to progressively more covert operations. Some even skipped The Asphodel, inviting Lynn to take on some \"private jobs\" directly.\nAnd so, during the two years between the ages of eighteen and twenty, Lynn was publicly known as a \"courier\". Night after night, she received \"letters\" from employers inside the gilded carriages arriving from the Città Interna. Lynn carried out the employers\' thick, fervent, and sometimes near-crazed longings with the barrels of her guns. Then, before dawn, she embarked on her \"delivery\" journey, returning after many days, weathering both wind and snow in the process. In Camilla Scarlet\'s memories, the young girl named Lynn would always stride into the tavern at dusk, shaking the snowflakes from her cloak. She would buy the cheapest drink, sit alone by the window, and remain silent until closing time. On one rare occasion, Lynn started talking to Camilla and asked her for a towel. \"I don\'t want my family to see,\" she whispered softly, \"I got... something on my face.\" Camilla looked at the dark red stain on her face and frowned. She had a keen sense of smell and could detect the pungent odour emanating from the stain. \"Thank you,\" Lynn said as she accepted the towel Camilla handed her. Her frosty face cracked into a faint smile, then she disappeared into the wind and snow.",
           TextMapId = "UI_CHAR_DATA_TEXT_31010203",
         },
         UI_CHAR_DATA_TEXT_31010204 = {
@@ -51180,7 +51180,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_31010402",
         },
         UI_CHAR_DATA_TEXT_31010403 = {
-          ContentEN = "When Lynn was little, she was once a \"big shot\" in the streets. As the leader of a small gang, she gave orders and led a group of children of the same age into \"battle\". There, they sought justice by stopping thieves, sewing sheets and giving them to beggars, and disrupting illegal trades organised by the rich. They called themselves the \"Fighters of Justice\" and aimed to destroy all sins and crimes in the slums. After a day\'s work, they would gather to review their successes, boosting their spirits for the coming day. When corrupt security guards came to chase them away, she always stood in front of the other kids, despite being just as frail as they were.\nBut Lynn wanted to achieve more than that. She told her followers that when she grew up, she would drive away those bossy and incompetent guys in the inner city and make bread, milk, and honey affordable for everyone. She would be the \"heroine\" of the streets.",
+          ContentEN = "When Lynn was little, she was once a \"big shot\" in the streets. As the leader of a small gang, she gave orders and led a group of children of the same age into \"battle\". There, they sought justice by stopping thieves, sewing sheets and giving them to beggars, and disrupting illegal trades organised by the rich. They called themselves the \"Fighters of Justice\" and aimed to destroy all sins and crimes in the slums. After a day\'s work, they would gather to review their successes, boosting their spirits for the coming day. When corrupt security guards came to chase them away, she always stood in front of the other kids, despite being just as frail as they were.\nBut Lynn wanted to achieve more than that. She told her followers that when she grew up, she would drive away those bossy and incompetent guys in the Città Interna and make bread, milk, and honey affordable for everyone. She would be the \"heroine\" of the streets.",
           TextMapId = "UI_CHAR_DATA_TEXT_31010403",
         },
         UI_CHAR_DATA_TEXT_31010404 = {
@@ -51480,7 +51480,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_33010403",
         },
         UI_CHAR_DATA_TEXT_33010404 = {
-          ContentEN = "When Margie first stood before the city gates of Icelake, she was completely captivated by its sheer enormity.\nHer already blurry memories of her homeland, further clouded by a high fever, had faded into a vague haze. To her, the world had consisted solely of endless snowfields, extreme cold, predators and prey, starry skies, and the lonely warmth of a campfire shared with her father — her only companion.\nBut then Icelake, the destination her father had spoken of, abruptly appeared before her. At that moment, she could only describe her impression of the city in the simplest of terms: \"Wow! What a big camp! So many people! So many new smells!\"\nMargie felt like a lost child who had finally found her tribe. She was neither scared nor nervous. Instead, an overwhelming sense of belonging took root in her heart — she realised, for the first time, that the world wasn\'t just her and her father. And when night fell, the city\'s transformation was nothing short of breathtaking for Margie. If a single campfire at night had once sufficed to warm her, the myriad lights twinkling from the city\'s windows would now surely bathe her in an unimaginable glow of warmth.\nSo, when her father asked if she wanted to live there, she nodded without hesitation. Shortly thereafter, a woman named Camilla provided a long list of \"dos & don\'ts and off-limit places within Icelake\", which overwhelmed young Margie into drowsiness. When she was awakened by Camilla for the fourth time, she finally blurted her confusion out, \"There weren\'t this many rules living on the snowfields! Is it more dangerous here than in the wild?\"\nCamilla and her father fell into a long, silent pause. Just as Margie was about to doze off again, her father gently patted her head and murmured, \"Sweetie, perhaps you\'re right.\"\n\nThe second time Margie stood at the gates of Icelake, she was leaving. The towering city she once marvelled at had transformed in her eyes — it now resembled a silent, hulking beast, its gates a gaping maw. The joy and excitement of her initial visit had dissipated, replaced by a mix of confusion and disillusionment.\nShe couldn\'t understand why being impervious to the cold and having horns was enough to make her a target of scorn. She didn\'t understand why sneaking into the \"inner city\" out of curiosity could warrant harsh punishment. Most terrifyingly, everyone else seemed to accept this as normal — even the Sola children would unhesitatingly throw stones at her, as if she were an outright monster. It was then that Margie realised, belatedly, that what she had thought was her haven had never truly welcomed her.\nPerhaps a child born of the snowfields is destined to return to the endless white.\nTurning back, fighting the tears that threatened to fall, she embarked on a solitary adventure.",
+          ContentEN = "When Margie first stood before the city gates of Icelake, she was completely captivated by its sheer enormity.\nHer already blurry memories of her homeland, further clouded by a high fever, had faded into a vague haze. To her, the world had consisted solely of endless snowfields, extreme cold, predators and prey, starry skies, and the lonely warmth of a campfire shared with her father — her only companion.\nBut then Icelake, the destination her father had spoken of, abruptly appeared before her. At that moment, she could only describe her impression of the city in the simplest of terms: \"Wow! What a big camp! So many people! So many new smells!\"\nMargie felt like a lost child who had finally found her tribe. She was neither scared nor nervous. Instead, an overwhelming sense of belonging took root in her heart — she realised, for the first time, that the world wasn\'t just her and her father. And when night fell, the city\'s transformation was nothing short of breathtaking for Margie. If a single campfire at night had once sufficed to warm her, the myriad lights twinkling from the city\'s windows would now surely bathe her in an unimaginable glow of warmth.\nSo, when her father asked if she wanted to live there, she nodded without hesitation. Shortly thereafter, a woman named Camilla provided a long list of \"dos & don\'ts and off-limit places within Icelake\", which overwhelmed young Margie into drowsiness. When she was awakened by Camilla for the fourth time, she finally blurted her confusion out, \"There weren\'t this many rules living on the snowfields! Is it more dangerous here than in the wild?\"\nCamilla and her father fell into a long, silent pause. Just as Margie was about to doze off again, her father gently patted her head and murmured, \"Sweetie, perhaps you\'re right.\"\n\nThe second time Margie stood at the gates of Icelake, she was leaving. The towering city she once marvelled at had transformed in her eyes — it now resembled a silent, hulking beast, its gates a gaping maw. The joy and excitement of her initial visit had dissipated, replaced by a mix of confusion and disillusionment.\nShe couldn\'t understand why being impervious to the cold and having horns was enough to make her a target of scorn. She didn\'t understand why sneaking into the \"Città Interna\" out of curiosity could warrant harsh punishment. Most terrifyingly, everyone else seemed to accept this as normal — even the Sola children would unhesitatingly throw stones at her, as if she were an outright monster. It was then that Margie realised, belatedly, that what she had thought was her haven had never truly welcomed her.\nPerhaps a child born of the snowfields is destined to return to the endless white.\nTurning back, fighting the tears that threatened to fall, she embarked on a solitary adventure.",
           TextMapId = "UI_CHAR_DATA_TEXT_33010404",
         },
         UI_CHAR_DATA_TEXT_33010405 = {
@@ -51913,7 +51913,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_53010204",
         },
         UI_CHAR_DATA_TEXT_53010205 = {
-          ContentEN = "The girl with the radiant smile was now nothing more than a cold, lifeless entry in an official report.\n\"...Large Filthoid, female. Believed to be a former Deteriorator. Specific identity still under investigation... Neutralised on the night of November 21st in the Lamenting Lake area. No casualties reported.\"",
+          ContentEN = "The girl with the radiant smile was now nothing more than a cold, lifeless entry in an official report.\n\"...Large Filthoid, female. Believed to be a former Deteriorator. Specific identity still under investigation... Neutralised on the night of November 21st in the Lago Lamentoso area. No casualties reported.\"",
           TextMapId = "UI_CHAR_DATA_TEXT_53010205",
         },
         UI_CHAR_DATA_TEXT_53010301 = {
@@ -55237,7 +55237,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_CONTENT_SABOTAGEPRO_1",
         },
         UI_DUNGEON_CONTENT_SABOTAGE_1 = {
-          ContentEN = "\"Lunatics of The Forsakens have concocted a bomb they call \'Finale Flare\', and the consequences of it detonating go far beyond people\'s deaths. The rift between The Forsaken and the other factions will intensify, and the living conditions of civilians will only deteriorate further. Hence, I\'m entrusting you with this commission: disable the detonator of \'Finale Flare\', prevent the explosion, and if possible, teach those fanatics a lesson. Remember, time is of the essence. I have little time to remain here and personally deliver your reward.\" — An Anonymous Client",
+          ContentEN = "\"Lunatics of The Forsakens have concocted a bomb they call \'Finale Flare\', and the consequences of it detonating go far beyond people\'s deaths. The rift between The Forsaken and the other factions will intensify, and the living conditions of civilians will only deteriorate further. Hence, I\'m entrusting you with this Commissione: disable the detonator of \'Finale Flare\', prevent the explosion, and if possible, teach those fanatics a lesson. Remember, time is of the essence. I have little time to remain here and personally deliver your reward.\" — An Anonymous Client",
           TextMapId = "UI_DUNGEON_CONTENT_SABOTAGE_1",
         },
         UI_DUNGEON_CONTENT_SURVIVALPRO_1 = {
@@ -60912,7 +60912,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_DreamMaerke",
         },
         UI_Npc_EnemySoldier = {
-          ContentEN = "Soldier",
+          ContentEN = "Soldato",
           TextMapId = "UI_Npc_EnemySoldier",
         },
         UI_Npc_HelpVoice = {
@@ -61108,7 +61108,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_Name_Cat",
         },
         UI_Npc_Name_Chapter01_shibing1 = {
-          ContentEN = "Soldier",
+          ContentEN = "Soldato",
           TextMapId = "UI_Npc_Name_Chapter01_shibing1",
         },
         UI_Npc_Name_CheckDiary = {
@@ -61533,7 +61533,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_Name_Man_2",
         },
         UI_Npc_Name_Man_3 = {
-          ContentEN = "Soldier",
+          ContentEN = "Soldato",
           TextMapId = "UI_Npc_Name_Man_3",
         },
         UI_Npc_Name_Man_4 = {
@@ -64000,7 +64000,7 @@ local r0_0 = {
           TextMapId = "UI_REGION_NAME_1001",
         },
         UI_REGION_NAME_1011 = {
-          ContentEN = "Eastern District, Icelake",
+          ContentEN = "Distretto Orientale, Icelake",
           TextMapId = "UI_REGION_NAME_1011",
         },
         UI_REGION_NAME_1012 = {
@@ -65293,7 +65293,7 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_NAME_101102",
         },
         UI_SUBREGION_NAME_101103 = {
-          ContentEN = "Lakeside of Lamenting Lake",
+          ContentEN = "Riva del Lago Lamentoso",
           TextMapId = "UI_SUBREGION_NAME_101103",
         },
         UI_SUBREGION_NAME_101104 = {
@@ -66451,7 +66451,7 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_NAME_101102_3",
         },
         UI_TELEPORTPOINT_NAME_101103_1 = {
-          ContentEN = "Lakeside of Lamenting Lake",
+          ContentEN = "Riva del Lago Lamentoso",
           TextMapId = "UI_TELEPORTPOINT_NAME_101103_1",
         },
         UI_TELEPORTPOINT_NAME_101103_2 = {
@@ -68401,7 +68401,7 @@ local r0_0 = {
           TextMapId = "UI_WEAPON_PASSIVE",
         },
         UI_WORLDMAP_CURRENTLOCATION = {
-          ContentEN = "Current Location",
+          ContentEN = "Posizione attuale",
           TextMapId = "UI_WORLDMAP_CURRENTLOCATION",
         },
         UI_WORLDMAP_ESC = {
@@ -69743,7 +69743,7 @@ local r0_0 = {
           TextMapId = "WikiText_20100601",
         },
         WikiText_20100602 = {
-          ContentEN = "Once a renowned physician in Icelake, Henrik was celebrated for his exceptional skill — his patients even included nobles from the inner city. After the early death of his wife, he raised their only daughter, Hayley, on his own.\nSeveral years ago, during a journey to Scarletriver, he was arrested and imprisoned for murder. As the victim was a Charon exhibiting signs of Deterioration, Henrik served only a brief sentence before being released. He returned to Icelake alone. Hayley was never seen again.",
+          ContentEN = "Once a renowned physician in Icelake, Henrik was celebrated for his exceptional skill — his patients even included nobles from the Città Interna. After the early death of his wife, he raised their only daughter, Hayley, on his own.\nSeveral years ago, during a journey to Scarletriver, he was arrested and imprisoned for murder. As the victim was a Charon exhibiting signs of Deterioration, Henrik served only a brief sentence before being released. He returned to Icelake alone. Hayley was never seen again.",
           TextMapId = "WikiText_20100602",
         },
         WikiText_20100603 = {
@@ -69879,7 +69879,7 @@ local r0_0 = {
           TextMapId = "WikiText_20102101",
         },
         WikiText_20102102 = {
-          ContentEN = "As imperial records attest, in the turbulent years following the Night of Lamenting Lake, Dis Ⅰ led the Solarian in rising against the Charon\'s atrocities. Yet in the wake of securing victory, he chose not vengeance, but forgiveness — and so began the great era known as the Silver Peace.",
+          ContentEN = "As imperial records attest, in the turbulent years following the Night of Lago Lamentoso, Dis Ⅰ led the Solarian in rising against the Charon\'s atrocities. Yet in the wake of securing victory, he chose not vengeance, but forgiveness — and so began the great era known as the Silver Peace.",
           TextMapId = "WikiText_20102102",
         },
         WikiText_20102201 = {
@@ -70047,7 +70047,7 @@ local r0_0 = {
           TextMapId = "WikiText_40100101",
         },
         WikiText_40100201 = {
-          ContentEN = "One of the most pivotal events in early Hyperborean history.\nAccording to official imperial records, near the end of the Great Migration a millennium ago, a band of migrants led by Dis Galea — later crowned as Dis Ⅰ — pressed northward into the southern tundras of the Vidofnir Mountains, now part of the Cocytus Region. There, they clashed intermittently with the local Charon tribes. Seeking peace, the magnanimous Dis Galea brokered an accord with the Charon tribes: a celebration would be held beside Lamenting Lake to mark the dawn of peace. But the gathering became a blood-soaked snare. Feigning goodwill, the Charon launched a massacre that very night. Nearly all the Solarian were slain. Only Dis escaped — shielded by the final sacrifice of his brother, Soranus Galea.\nIn the wake of the \"Night of Lamenting Lake,\" Dis buried Soranus with a heavy heart and withdrew to the southern Hyperborean plains. Over the next decade, he rebuilt his forces. With overwhelming numbers and honed tactics, he repelled the raiding Charon and led countless triumphs against the mighty Deteriorators. Through fire, blood, and tears, he unified the plains — and then turned north once more. Dis marched again upon Lamenting Lake, crushed the tribes that had betrayed him, and raised the fortress of Icelake Keep upon its shores — the precursor to what would later become the city of Icelake. There, in the year 20 of the New Calendar, he was crowned Dis Ⅰ, and the Hyperborean Empire was born.\nYet as he stood before his sworn enemies, Dis Ⅰ chose neither vengeance nor retribution. He chose peace — and forgiveness. Through the Edict of Icelake Keep, he proclaimed the Charon to be children of Hyperborea all the same, and bound them beneath the Empire\'s banner.\nTo honour the peacemaker who founded their homeland, the citizens of Icelake gather each year on the day of the Edict\'s decree to celebrate the Silvercandle Carnival — a festival of peace and unity.",
+          ContentEN = "One of the most pivotal events in early Hyperborean history.\nAccording to official imperial records, near the end of the Great Migration a millennium ago, a band of migrants led by Dis Galea — later crowned as Dis Ⅰ — pressed northward into the southern tundras of the Vidofnir Mountains, now part of the Cocytus Region. There, they clashed intermittently with the local Charon tribes. Seeking peace, the magnanimous Dis Galea brokered an accord with the Charon tribes: a celebration would be held beside Lago Lamentoso to mark the dawn of peace. But the gathering became a blood-soaked snare. Feigning goodwill, the Charon launched a massacre that very night. Nearly all the Solarian were slain. Only Dis escaped — shielded by the final sacrifice of his brother, Soranus Galea.\nIn the wake of the \"Night of Lago Lamentoso,\" Dis buried Soranus with a heavy heart and withdrew to the southern Hyperborean plains. Over the next decade, he rebuilt his forces. With overwhelming numbers and honed tactics, he repelled the raiding Charon and led countless triumphs against the mighty Deteriorators. Through fire, blood, and tears, he unified the plains — and then turned north once more. Dis marched again upon Lago Lamentoso, crushed the tribes that had betrayed him, and raised the fortress of Icelake Keep upon its shores — the precursor to what would later become the city of Icelake. There, in the year 20 of the New Calendar, he was crowned Dis Ⅰ, and the Hyperborean Empire was born.\nYet as he stood before his sworn enemies, Dis Ⅰ chose neither vengeance nor retribution. He chose peace — and forgiveness. Through the Edict of Icelake Keep, he proclaimed the Charon to be children of Hyperborea all the same, and bound them beneath the Empire\'s banner.\nTo honour the peacemaker who founded their homeland, the citizens of Icelake gather each year on the day of the Edict\'s decree to celebrate the Silvercandle Carnival — a festival of peace and unity.",
           TextMapId = "WikiText_40100201",
         },
         WikiText_40200101 = {
@@ -70135,11 +70135,11 @@ local r0_0 = {
           TextMapId = "WikiText_40500503",
         },
         WikiText_40500504 = {
-          ContentEN = "After initially escaping, the perpetrator shifted to a new pattern of attacks. Infiltrating the inner city, it killed several Solarian citizens and left behind graffiti bearing anti-Solarian slogans. This escalation drew the attention of Hyperborea\'s upper echelons, prompting direct intervention by the 13th Legion.",
+          ContentEN = "After initially escaping, the perpetrator shifted to a new pattern of attacks. Infiltrating the Città Interna, it killed several Solarian citizens and left behind graffiti bearing anti-Solarian slogans. This escalation drew the attention of Hyperborea\'s upper echelons, prompting direct intervention by the 13th Legion.",
           TextMapId = "WikiText_40500504",
         },
         WikiText_40500505 = {
-          ContentEN = "The two assailants were later revealed to be subjects of a covert experiment conducted by the 6th Legion — Charon individuals who had undergone forced alchemical augmentation. In an effort to expose the truth behind these experiments, one of them — still retaining fragments of reason — aligned with the Forsakens and carried out targeted attacks in the inner city, aiming to provoke a formal investigation by the 13th Legion. However, upon realising that the Legion intended to suppress the truth, the assailant turned on their Forsaken allies, killing their own handlers.",
+          ContentEN = "The two assailants were later revealed to be subjects of a covert experiment conducted by the 6th Legion — Charon individuals who had undergone forced alchemical augmentation. In an effort to expose the truth behind these experiments, one of them — still retaining fragments of reason — aligned with the Forsakens and carried out targeted attacks in the Città Interna, aiming to provoke a formal investigation by the 13th Legion. However, upon realising that the Legion intended to suppress the truth, the assailant turned on their Forsaken allies, killing their own handlers.",
           TextMapId = "WikiText_40500505",
         },
         WikiText_40500506 = {
@@ -70187,7 +70187,7 @@ local r0_0 = {
           TextMapId = "WikiText_40800201",
         },
         WikiText_40800301 = {
-          ContentEN = "The largest city in northern Hyperborea. Situated south of the Vidofnir Mountains, it falls under the jurisdiction of Cocytus Province. The city takes its name from the nearby Lamenting Lake, which remains frozen for most of the year due to the harsh climate. Only during the three-month-long \"Thawing Season\" does the ice begin to melt.\n\nFounded during the Great Migration by Dis I, the Empire\'s first sovereign, Icelake was among the earliest cities established in Hyperborea. For centuries, it served as a fortress city guarding the Empire\'s northern border.",
+          ContentEN = "The largest city in northern Hyperborea. Situated south of the Vidofnir Mountains, it falls under the jurisdiction of Cocytus Province. The city takes its name from the nearby Lago Lamentoso, which remains frozen for most of the year due to the harsh climate. Only during the three-month-long \"Thawing Season\" does the ice begin to melt.\n\nFounded during the Great Migration by Dis I, the Empire\'s first sovereign, Icelake was among the earliest cities established in Hyperborea. For centuries, it served as a fortress city guarding the Empire\'s northern border.",
           TextMapId = "WikiText_40800301",
         },
         WikiText_40800302 = {
@@ -70195,7 +70195,7 @@ local r0_0 = {
           TextMapId = "WikiText_40800302",
         },
         WikiText_40800303 = {
-          ContentEN = "The city is divided into the inner city and four surrounding districts.\n\nThe inner city, also known as the Old Quarter, houses the Council Hall, the Alchemy Academy, and military headquarters. Access and residency are tightly restricted: only nobles, senior officials, wealthy merchants, and those in their service are permitted to enter.",
+          ContentEN = "The city is divided into the Città Interna and four surrounding districts.\n\nThe Città Interna, also known as the Old Quarter, houses the Council Hall, the Alchemy Academy, and military headquarters. Access and residency are tightly restricted: only nobles, senior officials, wealthy merchants, and those in their service are permitted to enter.",
           TextMapId = "WikiText_40800303",
         },
         WikiText_40800304 = {
@@ -71841,7 +71841,7 @@ local r0_0 = {
           TextMapId = "voice_ch_char_Lise_vo_be_hit_heavy_r01",
         },
         voice_ch_char_Lise_vo_birthday = {
-          ContentEN = "Birthday celebrations? It\'s been ages since I last attended one... When I was little, my family always made elaborate preparations for birthdays. But as the years went by, my brother and I hardly saw each other, and birthdays lost their meaning. \nI used to dream that one day, when we had both achieved something great, we\'d host a grand celebration — like those extravagant parties in the inner city, with crystal chandeliers, a towering cake, silk gowns... everything perfect. But now, that dream will never come true...\nAh, I\'m so sorry! I didn\'t mean to spoil the mood with my rambling on such a joyful occasion... Please, don\'t let my words dampen the day. While I may not celebrate my own birthday, I still want to extend my heartfelt wishes to you: may your day be filled with happiness, cherished memories, and the warmth of those you hold dear.",
+          ContentEN = "Birthday celebrations? It\'s been ages since I last attended one... When I was little, my family always made elaborate preparations for birthdays. But as the years went by, my brother and I hardly saw each other, and birthdays lost their meaning. \nI used to dream that one day, when we had both achieved something great, we\'d host a grand celebration — like those extravagant parties in the Città Interna, with crystal chandeliers, a towering cake, silk gowns... everything perfect. But now, that dream will never come true...\nAh, I\'m so sorry! I didn\'t mean to spoil the mood with my rambling on such a joyful occasion... Please, don\'t let my words dampen the day. While I may not celebrate my own birthday, I still want to extend my heartfelt wishes to you: may your day be filled with happiness, cherished memories, and the warmth of those you hold dear.",
           TextMapId = "voice_ch_char_Lise_vo_birthday",
         },
         voice_ch_char_Lise_vo_companio_01 = {
@@ -73111,7 +73111,7 @@ local r0_0 = {
           TextMapId = "voice_ch_char_Tuosi_vo_topic_04_3",
         },
         voice_ch_char_Tuosi_vo_topic_05_1 = {
-          ContentEN = "It stands, enduring time far beyond my years. On one side of its towering walls lies the imposing inner city — majestic as storm clouds, yet colder.",
+          ContentEN = "It stands, enduring time far beyond my years. On one side of its towering walls lies the imposing Città Interna — majestic as storm clouds, yet colder.",
           TextMapId = "voice_ch_char_Tuosi_vo_topic_05_1",
         },
         voice_ch_char_Tuosi_vo_topic_05_2 = {

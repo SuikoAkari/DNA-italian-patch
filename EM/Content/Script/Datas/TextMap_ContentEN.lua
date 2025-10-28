@@ -7085,7 +7085,7 @@ local r0_0 = {
           TextMapId = "Description_200103_2",
         },
         Description_200103_3 = {
-          ContentEN = "Trust the giant pig and drive off the shady characters",
+          ContentEN = "Fidati del maiale gigante e scaccia i loschi individui",
           TextMapId = "Description_200103_3",
         },
         Description_200103_4 = {
@@ -11927,7 +11927,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_IMPRESSIONSHOP",
         },
         MAINUIGUIDE_TITLE_IMPRESSIONSYSTEM = {
-          ContentEN = "Impressions",
+          ContentEN = "Impressioni",
           TextMapId = "MAINUIGUIDE_TITLE_IMPRESSIONSYSTEM",
         },
         MAINUIGUIDE_TITLE_LAYEREDMAP = {
@@ -12936,7 +12936,7 @@ local r0_0 = {
           TextMapId = "MESSAGE_TITLE_LOADING_21_PC",
         },
         MESSAGE_TITLE_LOADING_22_PC = {
-          ContentEN = "Impressions",
+          ContentEN = "Impressioni",
           TextMapId = "MESSAGE_TITLE_LOADING_22_PC",
         },
         MESSAGE_TITLE_LOADING_23_PC = {
@@ -43987,7 +43987,7 @@ local r0_0 = {
           TextMapId = "UIGuide_Title_ImpressionShop",
         },
         UIGuide_Title_ImpressionSystem_1 = {
-          ContentEN = "Impressions",
+          ContentEN = "Impressioni",
           TextMapId = "UIGuide_Title_ImpressionSystem_1",
         },
         UIGuide_Title_ImpressionSystem_2 = {
@@ -61785,7 +61785,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_Name_Songlu",
         },
         UI_Npc_Name_SongluVoice = {
-          ContentEN = "Lively Voice",
+          ContentEN = "Voce vivace",
           TextMapId = "UI_Npc_Name_SongluVoice",
         },
         UI_Npc_Name_StableGirl = {
@@ -61985,7 +61985,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_Name_Wuzishibing",
         },
         UI_Npc_Name_Xiaocilang = {
-          ContentEN = "Dog-Loving Geniemon Hunter",
+          ContentEN = "Cacciatore di Geniemon amante dei cani",
           TextMapId = "UI_Npc_Name_Xiaocilang",
         },
         UI_Npc_Name_Xiaonanhai = {

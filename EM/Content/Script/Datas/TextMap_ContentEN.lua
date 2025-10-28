@@ -17839,7 +17839,7 @@ local r0_0 = {
           TextMapId = "Mon_DesDetail_9809001",
         },
         Mon_FirstSeen_Label = {
-          ContentEN = "New Enemy",
+          ContentEN = "Nuovo Nemico",
           TextMapId = "Mon_FirstSeen_Label",
         },
         Mon_Guide_115_01 = {

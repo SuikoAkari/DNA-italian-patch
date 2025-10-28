@@ -7093,7 +7093,7 @@ local r0_0 = {
           TextMapId = "Description_200103_4",
         },
         Description_200103_5 = {
-          ContentEN = "Obtain a Geniemon",
+          ContentEN = "Ottieni un Geniemon",
           TextMapId = "Description_200103_5",
         },
         Description_200104_1 = {
@@ -11607,7 +11607,7 @@ local r0_0 = {
           TextMapId = "Impression_UI_CheckSucc",
         },
         Impression_UI_CheckSuccRate = {
-          ContentEN = "Success Rate",
+          ContentEN = "Tasso di successo",
           TextMapId = "Impression_UI_CheckSuccRate",
         },
         Impression_UI_CheckTarget = {
@@ -12288,7 +12288,7 @@ local r0_0 = {
           TextMapId = "MAIN_UI_PARTY",
         },
         MAIN_UI_PET = {
-          ContentEN = "Geniemons",
+          ContentEN = "Geniemon",
           TextMapId = "MAIN_UI_PET",
         },
         MAIN_UI_PHOTOCAMERA = {
@@ -16012,7 +16012,7 @@ local r0_0 = {
           TextMapId = "Message_Guide_Pet_01",
         },
         Message_Guide_Pet_02 = {
-          ContentEN = "You can attract Geniemons using Treats of varying qualities. The higher the quality, the better your chances of befriending a Geniemon.",
+          ContentEN = "Puoi attirare i Geniemon usando dolcetti di diverse qualità. Più alta è la qualità, maggiori sono le tue possibilità di fare amicizia con un Geniemon.",
           TextMapId = "Message_Guide_Pet_02",
         },
         Message_Guide_Pet_03 = {
@@ -16020,7 +16020,7 @@ local r0_0 = {
           TextMapId = "Message_Guide_Pet_03",
         },
         Message_Guide_Pet_04 = {
-          ContentEN = "Select here to feed",
+          ContentEN = "Seleziona qui per nutrire",
           TextMapId = "Message_Guide_Pet_04",
         },
         Message_Guide_Pet_05 = {
@@ -23710,7 +23710,7 @@ local r0_0 = {
           TextMapId = "Pet_Affix_Replace_ReConfirm",
         },
         Pet_Affix_Type = {
-          ContentEN = "Type",
+          ContentEN = "Tipo",
           TextMapId = "Pet_Affix_Type",
         },
         Pet_Affix_UnableFuse_Locked = {
@@ -23722,11 +23722,11 @@ local r0_0 = {
           TextMapId = "Pet_Affix_Without",
         },
         Pet_BattlePet = {
-          ContentEN = "Active Geniemon",
+          ContentEN = "Geniemon Attivo",
           TextMapId = "Pet_BattlePet",
         },
         Pet_BreakLevelUp_Success = {
-          ContentEN = "Geniemon Ascended",
+          ContentEN = "Geniemon Asceso",
           TextMapId = "Pet_BreakLevelUp_Success",
         },
         Pet_Break_CostToast = {
@@ -25748,7 +25748,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020223",
         },
         QuestName_10020224 = {
-          ContentEN = "Obtain a Geniemon",
+          ContentEN = "Ottieni un Geniemon",
           TextMapId = "QuestName_10020224",
         },
         QuestName_10020225 = {
@@ -40707,7 +40707,7 @@ local r0_0 = {
           TextMapId = "System_Des_Notice",
         },
         System_Des_Pet = {
-          ContentEN = "<Highlight>Geniemons</> is now unlocked. Embark on an adventure with these marvellous creatures!",
+          ContentEN = "<Highlight>Geniemon</> sono ora sbloccati. Parti per un'avventura con queste meravigliose creature!",
           TextMapId = "System_Des_Pet",
         },
         System_Des_PhotoCamera = {
@@ -43847,7 +43847,7 @@ local r0_0 = {
           TextMapId = "UIGuide_Temple_3",
         },
         UIGuide_Title_203001 = {
-          ContentEN = "Geniemon Feeding",
+          ContentEN = "Nutri Geniemon",
           TextMapId = "UIGuide_Title_203001",
         },
         UIGuide_Title_203501 = {
@@ -53731,7 +53731,7 @@ local r0_0 = {
           TextMapId = "UI_CONFIRM_OPENSHOP",
         },
         UI_CONFIRM_PETCAPTURE = {
-          ContentEN = "Feed",
+          ContentEN = "Nutri",
           TextMapId = "UI_CONFIRM_PETCAPTURE",
         },
         UI_CONFIRM_PLAY = {
@@ -63431,7 +63431,7 @@ local r0_0 = {
           TextMapId = "UI_Pet_CaptureSuccess",
         },
         UI_Pet_ChooseSnacks = {
-          ContentEN = "Select a Treat",
+          ContentEN = "Seleziona un dolcetto",
           TextMapId = "UI_Pet_ChooseSnacks",
         },
         UI_Pet_FoodLV0 = {
@@ -63463,7 +63463,7 @@ local r0_0 = {
           TextMapId = "UI_Pet_Skill_CD",
         },
         UI_Pet_SuccessRate = {
-          ContentEN = "Success Rate",
+          ContentEN = "Tasso di successo",
           TextMapId = "UI_Pet_SuccessRate",
         },
         UI_Pet_ThrowFood_PC = {
@@ -63475,7 +63475,7 @@ local r0_0 = {
           TextMapId = "UI_Pet_ThrowFood_Phone",
         },
         UI_Pet_Title = {
-          ContentEN = "Geniemon Feeding",
+          ContentEN = "Nutri Geniemon",
           TextMapId = "UI_Pet_Title",
         },
         UI_Pet_Toast_LowSuccRate = {

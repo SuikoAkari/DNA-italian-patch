@@ -729,7 +729,7 @@ local r0_0 = {
           TextMapId = "Attr_MaxHp_Name",
         },
         Attr_MaxSp_Name = {
-          ContentEN = "Max Sanity",
+          ContentEN = "Sanity massima",
           TextMapId = "Attr_MaxSp_Name",
         },
         Attr_ModSlotNum_Name = {
@@ -765,7 +765,7 @@ local r0_0 = {
           TextMapId = "Attr_ReloadBulletNoLoss_Name",
         },
         Attr_SkillEfficiency_Name = {
-          ContentEN = "Skill Efficiency",
+          ContentEN = "Efficienza Abilità",
           TextMapId = "Attr_SkillEfficiency_Name",
         },
         Attr_SkillIntensity_Name = {
@@ -773,11 +773,11 @@ local r0_0 = {
           TextMapId = "Attr_SkillIntensity_Name",
         },
         Attr_SkillRange_Name = {
-          ContentEN = "Skill Range",
+          ContentEN = "Raggio Abilità",
           TextMapId = "Attr_SkillRange_Name",
         },
         Attr_SkillSustain_Name = {
-          ContentEN = "Skill Duration",
+          ContentEN = "Durata Abilità",
           TextMapId = "Attr_SkillSustain_Name",
         },
         Attr_SlideAttackRate_Name = {
@@ -21343,7 +21343,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_ProbeFailedTip1",
         },
         NpcBiography_UI_Probe = {
-          ContentEN = "Story",
+          ContentEN = "Storia",
           TextMapId = "NpcBiography_UI_Probe",
         },
         NumLock = {
@@ -24663,7 +24663,7 @@ local r0_0 = {
           TextMapId = "Positioning_Name_Heal",
         },
         Positioning_Name_MaxSP = {
-          ContentEN = "Max Sanity",
+          ContentEN = "Sanity massima",
           TextMapId = "Positioning_Name_MaxSP",
         },
         Positioning_Name_Minion = {
@@ -39617,7 +39617,7 @@ local r0_0 = {
           TextMapId = "SKILL_DESC_MaxShootRange",
         },
         SKILL_DESC_MaxSp = {
-          ContentEN = "Max Sanity",
+          ContentEN = "Sanity massima",
           TextMapId = "SKILL_DESC_MaxSp",
         },
         SKILL_DESC_MeleeTriggerProb = {
@@ -40390,7 +40390,7 @@ local r0_0 = {
           TextMapId = "StoryEventName_34",
         },
         StoryEventType_1 = {
-          ContentEN = "Story",
+          ContentEN = "Storia",
           TextMapId = "StoryEventType_1",
         },
         StoryEvent_Failed01 = {
@@ -41892,7 +41892,7 @@ local r0_0 = {
           TextMapId = "Tag_SPReduce",
         },
         Tag_SkillEfficiency = {
-          ContentEN = "Skill Efficiency",
+          ContentEN = "Efficienza Abilità",
           TextMapId = "Tag_SkillEfficiency",
         },
         Tag_SkillIntensity = {
@@ -41900,11 +41900,11 @@ local r0_0 = {
           TextMapId = "Tag_SkillIntensity",
         },
         Tag_SkillRange = {
-          ContentEN = "Skill Range",
+          ContentEN = "Raggio Abilità",
           TextMapId = "Tag_SkillRange",
         },
         Tag_SkillSustain = {
-          ContentEN = "Skill Duration",
+          ContentEN = "Durata Abilità",
           TextMapId = "Tag_SkillSustain",
         },
         Tag_SlideAttack = {
@@ -44291,7 +44291,7 @@ local r0_0 = {
           TextMapId = "UI_Aaccessory_Locked",
         },
         UI_Ability = {
-          ContentEN = "Traits",
+          ContentEN = "Tratti",
           TextMapId = "UI_Ability",
         },
         UI_AbyssRoom_BattleStart = {
@@ -45369,7 +45369,7 @@ local r0_0 = {
           TextMapId = "UI_AchievementToast_Progress",
         },
         UI_AchievementType_Quest = {
-          ContentEN = "Story",
+          ContentEN = "Storia",
           TextMapId = "UI_AchievementType_Quest",
         },
         UI_Achievement_Des_1001 = {
@@ -54356,7 +54356,7 @@ local r0_0 = {
           TextMapId = "UI_CharVoice_Battle",
         },
         UI_CharVoice_Normal = {
-          ContentEN = "Story",
+          ContentEN = "Storia",
           TextMapId = "UI_CharVoice_Normal",
         },
         UI_CharVoice_Tab = {
@@ -54392,7 +54392,7 @@ local r0_0 = {
           TextMapId = "UI_Char_Enhancement",
         },
         UI_Char_Locked = {
-          ContentEN = "This character is not owned",
+          ContentEN = "Non possiedi questo Personaggio",
           TextMapId = "UI_Char_Locked",
         },
         UI_Char_Skin = {
@@ -54424,7 +54424,7 @@ local r0_0 = {
           TextMapId = "UI_Chardata_Char_Female",
         },
         UI_Chardata_Char_Force = {
-          ContentEN = "Allegiance",
+          ContentEN = "Fedeltà",
           TextMapId = "UI_Chardata_Char_Force",
         },
         UI_Chardata_Char_Male = {
@@ -57836,7 +57836,7 @@ local r0_0 = {
           TextMapId = "UI_GameEvent_TrialPortal",
         },
         UI_GameEvent_TrialReward = {
-          ContentEN = "Try and you will obtain",
+          ContentEN = "Prova e otterrai",
           TextMapId = "UI_GameEvent_TrialReward",
         },
         UI_GameEvent_TrialRewardClaim = {
@@ -64112,7 +64112,7 @@ local r0_0 = {
           TextMapId = "UI_RLArchiveTitle_Review",
         },
         UI_RLArchiveTitle_Story = {
-          ContentEN = "Story",
+          ContentEN = "Storia",
           TextMapId = "UI_RLArchiveTitle_Story",
         },
         UI_RLArchiveTitle_Treasure = {
@@ -65930,7 +65930,7 @@ local r0_0 = {
           TextMapId = "UI_Skin_Des_1503",
         },
         UI_Skin_Des_1601 = {
-          ContentEN = "Drifting through night and sea, in robes of white, to meet the dawn.",
+          ContentEN = "Alla deriva nella notte e nel mare, vestiti di bianco, per incontrare l'alba.",
           TextMapId = "UI_Skin_Des_1601",
         },
         UI_Skin_Des_1801 = {
@@ -66174,15 +66174,15 @@ local r0_0 = {
           TextMapId = "UI_Squad_Adjust_Sort",
         },
         UI_Squad_Appearance_TITLE1 = {
-          ContentEN = "Plan 1",
+          ContentEN = "Piano 1",
           TextMapId = "UI_Squad_Appearance_TITLE1",
         },
         UI_Squad_Appearance_TITLE2 = {
-          ContentEN = "Plan 2",
+          ContentEN = "Piano 2",
           TextMapId = "UI_Squad_Appearance_TITLE2",
         },
         UI_Squad_Appearance_TITLE3 = {
-          ContentEN = "Plan 3",
+          ContentEN = "Piano 3",
           TextMapId = "UI_Squad_Appearance_TITLE3",
         },
         UI_Squad_BattleWheel_TITLE1 = {
@@ -69599,7 +69599,7 @@ local r0_0 = {
           TextMapId = "VoiceDes154",
         },
         VoiceLocked_Dialogue = {
-          ContentEN = "Unlock after small talks in Sanctuary",
+          ContentEN = "Si sblocca dopo piccole chiacchiere nel Santuario",
           TextMapId = "VoiceLocked_Dialogue",
         },
         WALNUT_FUNCTION = {
@@ -69607,27 +69607,27 @@ local r0_0 = {
           TextMapId = "WALNUT_FUNCTION",
         },
         WeaponType_Almighty = {
-          ContentEN = "All Types",
+          ContentEN = "Tutti i tipi",
           TextMapId = "WeaponType_Almighty",
         },
         WeaponType_Bow = {
-          ContentEN = "Bow",
+          ContentEN = "Arco",
           TextMapId = "WeaponType_Bow",
         },
         WeaponType_Cannon = {
-          ContentEN = "Grenade Launcher",
+          ContentEN = "Lanciagranate",
           TextMapId = "WeaponType_Cannon",
         },
         WeaponType_Claymore = {
-          ContentEN = "Greatsword",
+          ContentEN = "Spadone",
           TextMapId = "WeaponType_Claymore",
         },
         WeaponType_Crossbow = {
-          ContentEN = "Dual Pistols",
+          ContentEN = "Doppie pistole",
           TextMapId = "WeaponType_Crossbow",
         },
         WeaponType_Dualblade = {
-          ContentEN = "Dual Blades",
+          ContentEN = "Doppie lame",
           TextMapId = "WeaponType_Dualblade",
         },
         WeaponType_Katana = {
@@ -69635,11 +69635,11 @@ local r0_0 = {
           TextMapId = "WeaponType_Katana",
         },
         WeaponType_Machinegun = {
-          ContentEN = "Assault Rifle",
+          ContentEN = "Fucile d'assalto",
           TextMapId = "WeaponType_Machinegun",
         },
         WeaponType_Pistol = {
-          ContentEN = "Pistol",
+          ContentEN = "Pistola",
           TextMapId = "WeaponType_Pistol",
         },
         WeaponType_Polearm = {
@@ -69651,7 +69651,7 @@ local r0_0 = {
           TextMapId = "WeaponType_Shotgun",
         },
         WeaponType_Sword = {
-          ContentEN = "Sword",
+          ContentEN = "Spada",
           TextMapId = "WeaponType_Sword",
         },
         WeaponType_Swordwhip = {
@@ -69659,11 +69659,11 @@ local r0_0 = {
           TextMapId = "WeaponType_Swordwhip",
         },
         Weapon_BreakLevelUp_Success = {
-          ContentEN = "Weapon Ascended",
+          ContentEN = "Arma Ascesa",
           TextMapId = "Weapon_BreakLevelUp_Success",
         },
         Weapon_LevelUp_Success = {
-          ContentEN = "Weapon Upgraded",
+          ContentEN = "Arma migliorata",
           TextMapId = "Weapon_LevelUp_Success",
         },
         WikiText_10100301 = {

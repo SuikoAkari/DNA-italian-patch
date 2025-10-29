@@ -24911,11 +24911,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020401",
         },
         QuestDesc_10020402 = {
-          ContentEN = "You were invited to a modest yet sweet \"tea party\" with Outsider and his sister Fina.\nAfter the meal, Outsider wanted to discuss some serious matters with you in private.",
+          ContentEN = "Sei stato invitato a un modesto ma dolce \"tea party\" con Outsider e sua sorella Fina.\nDopo il pasto, Outsider ha voluto discutere con te in privato di alcune questioni serie.",
           TextMapId = "QuestDesc_10020402",
         },
         QuestDesc_10020403 = {
-          ContentEN = "You were invited to a modest yet sweet \"tea party\" with Outsider and his sister Fina.\nAfter the meal, Outsider wanted to discuss some serious matters with you in private.",
+          ContentEN = "Sei stato invitato a un modesto ma dolce \"tea party\" con Outsider e sua sorella Fina.\nDopo il pasto, Outsider ha voluto discutere con te in privato di alcune questioni serie.",
           TextMapId = "QuestDesc_10020403",
         },
         QuestDesc_10020404 = {

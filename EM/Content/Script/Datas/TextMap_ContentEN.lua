@@ -9256,7 +9256,7 @@ local r0_0 = {
           TextMapId = "Event_Des_105102013",
         },
         Event_Des_106001 = {
-          ContentEN = "Raggiungi Ranghi di Prova più alti per ottenere ricche ricompense.",
+          ContentEN = "Raggiungi Gradi Prova più alti per ottenere ricche ricompense.",
           TextMapId = "Event_Des_106001",
         },
         Event_Des_106101 = {
@@ -24899,11 +24899,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020314",
         },
         QuestDesc_10020315 = {
-          ContentEN = "Your first adventure in Fossa di Glevum concludes successfully — despite the unpleasant complications with Outsider.\nOutsider took the Crystallo di Stella. He seems eager to speak with you. You\'ve agreed to meet him at his residence.",
+          ContentEN = "La tua prima avventura alla Fossa di Glevum si conclude con successo, nonostante le spiacevoli complicazioni con Outsider. Outsider ha preso il Cristallo di Stella. Sembra ansioso di parlare con te. Hai accettato di incontrarlo a casa sua.,
           TextMapId = "QuestDesc_10020315",
         },
         QuestDesc_10020316 = {
-          ContentEN = "Your first adventure in Fossa di Glevum concludes successfully — despite an unpleasant complication involving Outsider.\nOutsider took the Crystallo di Stella. He seems eager to speak with you, and you\'ve agreed to meet him at his residence.\nMeanwhile, someone is waiting at the gates of Icelake — and he looks none too pleased...",
+          ContentEN = "La tua prima avventura alla Fossa di Glevum si conclude con successo, nonostante le spiacevoli complicazioni con Outsider.\nOutsider ha preso il Cristallo di Stella. Sembra ansioso di parlare con te e hai accettato di incontrarlo a casa sua.\nNel frattempo, qualcuno ti aspetta alle porte di Icelake, e non sembra per niente contento...",
           TextMapId = "QuestDesc_10020316",
         },
         QuestDesc_10020401 = {
@@ -37299,7 +37299,7 @@ local r0_0 = {
           TextMapId = "SKILL_10301_DESC",
         },
         SKILL_10302_DESC = {
-          ContentEN = "Tasso di CRIT. +<H>#1</>. Quando infliggi danni con quest'arma si attiva l'effetto bonus, c'è una probabilità del <H>#1</> di aumentare il livello combo al massimo.",
+          ContentEN = "Tasso CRIT. +<H>#1</>. Quando infliggi danni con quest'arma si attiva l'effetto bonus, c'è una probabilità del <H>#1</> di aumentare il livello combo al massimo.",
           TextMapId = "SKILL_10302_DESC",
         },
         SKILL_10303_DESC = {

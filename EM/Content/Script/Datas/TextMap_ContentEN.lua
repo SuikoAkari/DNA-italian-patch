@@ -24899,7 +24899,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020314",
         },
         QuestDesc_10020315 = {
-          ContentEN = "La tua prima avventura alla Fossa di Glevum si conclude con successo, nonostante le spiacevoli complicazioni con Outsider. Outsider ha preso il Cristallo di Stella. Sembra ansioso di parlare con te. Hai accettato di incontrarlo a casa sua.,
+          ContentEN = "La tua prima avventura alla Fossa di Glevum si conclude con successo, nonostante le spiacevoli complicazioni con Outsider. Outsider ha preso il Cristallo di Stella. Sembra ansioso di parlare con te. Hai accettato di incontrarlo a casa sua.",
           TextMapId = "QuestDesc_10020315",
         },
         QuestDesc_10020316 = {

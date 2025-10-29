@@ -1194,7 +1194,7 @@ local r0_0 = {
           TextMapId = "BattleWheel_Apply",
         },
         BattleWheel_JumptoArmory = {
-          ContentEN = "Weapon Progression",
+          ContentEN = "Progressione Arma",
           TextMapId = "BattleWheel_JumptoArmory",
         },
         BattleWheel_PhantomWeaponHasEquiped = {
@@ -1206,7 +1206,7 @@ local r0_0 = {
           TextMapId = "BattleWheel_RemoveAllConfirm",
         },
         BattleWheel_SwitchWheel = {
-          ContentEN = "Switch Backpack",
+          ContentEN = "Cambia Zaino",
           TextMapId = "BattleWheel_SwitchWheel",
         },
         BossSkillToast_Jushi_Skill07 = {
@@ -4510,7 +4510,7 @@ local r0_0 = {
           TextMapId = "DROP_QUEST_FeinaFengxi",
         },
         DROP_QUEST_FeinaLeave = {
-          ContentEN = "Leave Outsider\'s house",
+          ContentEN = "Lascia la casa di Outsider",
           TextMapId = "DROP_QUEST_FeinaLeave",
         },
         DROP_QUEST_FeinaMagicBook = {
@@ -6356,7 +6356,7 @@ local r0_0 = {
           TextMapId = "Description_110113_2_5",
         },
         Description_110113_2_6 = {
-          ContentEN = "Move forward",
+          ContentEN = "Vai avanti",
           TextMapId = "Description_110113_2_6",
         },
         Description_110113_2_7 = {
@@ -6468,7 +6468,7 @@ local r0_0 = {
           TextMapId = "Description_120003_7",
         },
         Description_120003_8 = {
-          ContentEN = "Head to the city gate",
+          ContentEN = "Dirigiti verso il cancello della città",
           TextMapId = "Description_120003_8",
         },
       }
@@ -7370,7 +7370,7 @@ local r0_0 = {
           TextMapId = "Description_200207_7",
         },
         Description_200208_1 = {
-          ContentEN = "Head to the Hypnos\' House",
+          ContentEN = "Dirigiti alla casa di Hypnos",
           TextMapId = "Description_200208_1",
         },
         Description_200208_2 = {
@@ -7546,7 +7546,7 @@ local r0_0 = {
           TextMapId = "Description_200215_6",
         },
         Description_200215_7 = {
-          ContentEN = "Head to the city gate",
+          ContentEN = "Dirigiti verso il cancello della città",
           TextMapId = "Description_200215_7",
         },
         Description_200215_8 = {
@@ -8803,7 +8803,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_404002",
         },
         EntryTitle_405001 = {
-          ContentEN = "Sanctuary",
+          ContentEN = "Santuario",
           TextMapId = "EntryTitle_405001",
         },
         EntryTitle_405002 = {
@@ -8944,39 +8944,39 @@ local r0_0 = {
           TextMapId = "Episode_00_03",
         },
         Episode_01 = {
-          ContentEN = "Black Iron and White Flower",
+          ContentEN = "Ferro Nero e Fiore Bianco",
           TextMapId = "Episode_01",
         },
         Episode_01_01 = {
-          ContentEN = "Black Iron and White Flower (Ⅰ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅰ)",
           TextMapId = "Episode_01_01",
         },
         Episode_01_02 = {
-          ContentEN = "Black Iron and White Flower (Ⅱ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅱ)",
           TextMapId = "Episode_01_02",
         },
         Episode_01_03 = {
-          ContentEN = "Black Iron and White Flower (Ⅲ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅲ)",
           TextMapId = "Episode_01_03",
         },
         Episode_01_04 = {
-          ContentEN = "Black Iron and White Flower (Ⅳ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅳ)",
           TextMapId = "Episode_01_04",
         },
         Episode_01_05 = {
-          ContentEN = "Black Iron and White Flower (Ⅴ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅴ)",
           TextMapId = "Episode_01_05",
         },
         Episode_01_06 = {
-          ContentEN = "Black Iron and White Flower (Ⅵ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅵ)",
           TextMapId = "Episode_01_06",
         },
         Episode_01_07 = {
-          ContentEN = "Black Iron and White Flower (Ⅶ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅶ)",
           TextMapId = "Episode_01_07",
         },
         Episode_01_08 = {
-          ContentEN = "Black Iron and White Flower (Ⅷ)",
+          ContentEN = "Ferro Nero e Fiore Bianco (Ⅷ)",
           TextMapId = "Episode_01_08",
         },
         Episode_02 = {
@@ -9128,7 +9128,7 @@ local r0_0 = {
           TextMapId = "Escape",
         },
         EventDungeonPass_Title1 = {
-          ContentEN = "Challenge Cleared",
+          ContentEN = "Sfida superata",
           TextMapId = "EventDungeonPass_Title1",
         },
         EventDungeonPass_Title2 = {
@@ -9272,7 +9272,7 @@ local r0_0 = {
           TextMapId = "Event_Des_107002",
         },
         Event_Des_107003 = {
-          ContentEN = "Co-op areas will be available upon completion of \"Black Iron and White Flower\" of the Chapter Noctoyager. Go to Icelake Square to participate in co-op game and receive amazing rewards.",
+          ContentEN = "Co-op areas will be available upon completion of \"Ferro Nero e Fiore Bianco\" of the Chapter Noctoyager. Go to Icelake Square to participate in co-op game and receive amazing rewards.",
           TextMapId = "Event_Des_107003",
         },
         Event_Des_WorldLan_101001 = {
@@ -9544,7 +9544,7 @@ local r0_0 = {
           TextMapId = "FailureGuidance_Title_1002",
         },
         FailureGuidance_Title_1003 = {
-          ContentEN = "Weapon Progression",
+          ContentEN = "Progressione Arma",
           TextMapId = "FailureGuidance_Title_1003",
         },
         FailureGuidance_Title_1004 = {
@@ -15896,7 +15896,7 @@ local r0_0 = {
           TextMapId = "Message_Guide_Mod_9",
         },
         Message_Guide_OnlineAreaPre_1 = {
-          ContentEN = "Complete \"Black Iron and White Flower\" of the Chapter Noctoyager to unlock co-op. Meet other players from across time in dedicated co-op areas.",
+          ContentEN = "Complete \"Ferro Nero e Fiore Bianco\" of the Chapter Noctoyager to unlock co-op. Meet other players from across time in dedicated co-op areas.",
           TextMapId = "Message_Guide_OnlineAreaPre_1",
         },
         Message_Guide_OnlineAreaPre_2 = {
@@ -24399,19 +24399,19 @@ local r0_0 = {
           TextMapId = "Piano_NoMusic",
         },
         PlayerBuff_LockedTips_1 = {
-          ContentEN = "Unlocks at Lv. 15",
+          ContentEN = "Si sblocca al Liv. 15",
           TextMapId = "PlayerBuff_LockedTips_1",
         },
         PlayerBuff_LockedTips_2 = {
-          ContentEN = "Unlocks at Lv. 25",
+          ContentEN = "Si sblocca al Liv. 25",
           TextMapId = "PlayerBuff_LockedTips_2",
         },
         PlayerBuff_LockedTips_3 = {
-          ContentEN = "Unlocks at Lv. 35",
+          ContentEN = "Si sblocca al Liv. 35",
           TextMapId = "PlayerBuff_LockedTips_3",
         },
         PlayerBuff_LockedTips_4 = {
-          ContentEN = "Unlocks at Lv. 45",
+          ContentEN = "Si sblocca al Liv. 45",
           TextMapId = "PlayerBuff_LockedTips_4",
         },
         PlayerDefaultName = {
@@ -24531,7 +24531,7 @@ local r0_0 = {
           TextMapId = "PlayerLevel_Quests",
         },
         PlayerLevel_Toast_Locked = {
-          ContentEN = "Unlocks at Lv. %s",
+          ContentEN = "Si sblocca al Liv. %s",
           TextMapId = "PlayerLevel_Toast_Locked",
         },
         PlayerLevel_WeaponBreak = {
@@ -24539,7 +24539,7 @@ local r0_0 = {
           TextMapId = "PlayerLevel_WeaponBreak",
         },
         PlayerLevel_WeaponProgress = {
-          ContentEN = "Weapon Progression",
+          ContentEN = "Progressione Arma",
           TextMapId = "PlayerLevel_WeaponProgress",
         },
         PlayerLevel_WeaponSmelt = {
@@ -24839,7 +24839,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020223",
         },
         QuestDesc_10020224 = {
-          ContentEN = "The Geniemons system is now unlocked. Capture a Geniemon to assist you on your journey ahead.",
+          ContentEN = "Il sistema dei Geniemon è ora sbloccato. Cattura un Geniemon per aiutarti nel tuo viaggio.",
           TextMapId = "QuestDesc_10020224",
         },
         QuestDesc_10020301 = {
@@ -24851,19 +24851,19 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020302",
         },
         QuestDesc_10020303 = {
-          ContentEN = "Psyche seems to have made up her mind — she\'s coming with you on this little \"adventure.\"\nMake your way to Fossa di Glevum together.",
+          ContentEN = "Sembra che Psyche abbia preso una decisione: verrà con te in questa piccola \"avventura\".\nRaggiungete insieme la Fossa di Glevum.",
           TextMapId = "QuestDesc_10020303",
         },
         QuestDesc_10020304 = {
-          ContentEN = "Fossa di Glevum\'s gates have long been closed.\nSearch for an alternate passage.",
+          ContentEN = "I cancelli della Fossa di Glevum sono chiusi da tempo. Cerca un passaggio alternativo.",
           TextMapId = "QuestDesc_10020304",
         },
         QuestDesc_10020305 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
+          ContentEN = "Attraversando i tunnel deserti, sei entrato nelle profondità della Fossa di Glevum.\nDove un tempo sorgeva un maestoso Albero del Paradiso, solo minuscoli resti delle sue radici persistono dopo anni di sfruttamento, riecheggiando un'epoca passata di abbondanza.\nEsplora le profondità di questa miniera abbandonata per trovare il Crystallo di Stella cercato da Henrik.",
           TextMapId = "QuestDesc_10020305",
         },
         QuestDesc_10020306 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
+          ContentEN = "Attraversando i tunnel deserti, sei entrato nelle profondità della Fossa di Glevum.\nDove un tempo sorgeva un maestoso Albero del Paradiso, solo minuscoli resti delle sue radici persistono dopo anni di sfruttamento, riecheggiando un'epoca passata di abbondanza.\nEsplora le profondità di questa miniera abbandonata per trovare il Crystallo di Stella cercato da Henrik.",
           TextMapId = "QuestDesc_10020306",
         },
         QuestDesc_10020307 = {
@@ -24879,7 +24879,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020309",
         },
         QuestDesc_10020310 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
+          ContentEN = "Attraversando i tunnel deserti, sei entrato nelle profondità della Fossa di Glevum.\nDove un tempo sorgeva un maestoso Albero del Paradiso, solo minuscoli resti delle sue radici persistono dopo anni di sfruttamento, riecheggiando un'epoca passata di abbondanza.\nEsplora le profondità di questa miniera abbandonata per trovare il Crystallo di Stella cercato da Henrik.",
           TextMapId = "QuestDesc_10020310",
         },
         QuestDesc_10020311 = {
@@ -24971,7 +24971,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020504",
         },
         QuestDesc_10020504_1 = {
-          ContentEN = "You\'ve defeated all the Filthoids. Speak with Outsider.",
+          ContentEN = "Hai sconfitto tutti i Filthoid. Parla con Outsider.",
           TextMapId = "QuestDesc_10020504_1",
         },
         QuestDesc_10020505 = {
@@ -24987,11 +24987,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020506",
         },
         QuestDesc_10020507 = {
-          ContentEN = "Henrik should be leaving the house soon.\nJoin Snow near the Hypnos\' House, who\'s been tasked with covertly watching Henrik.",
+          ContentEN = "Henrik dovrebbe uscire di casa presto. Raggiungi Snow vicino alla casa di Hypnos, che è stata incaricata di sorvegliare Henrik di nascosto.",
           TextMapId = "QuestDesc_10020507",
         },
         QuestDesc_10020601 = {
-          ContentEN = "Henrik should be leaving the house soon.\nJoin Snow near the Hypnos\' House, who\'s been tasked with covertly watching Henrik.",
+          ContentEN = "Henrik dovrebbe uscire di casa presto. Raggiungi Snow vicino alla casa di Hypnos, che è stata incaricata di sorvegliare Henrik di nascosto.",
           TextMapId = "QuestDesc_10020601",
         },
         QuestDesc_10020602 = {
@@ -25536,7 +25536,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_1003plus26",
         },
         QuestDesc_1003plus27 = {
-          ContentEN = "Let the curtain rise — and with it, let all things end.",
+          ContentEN = "Che si alzi il sipario e che con esso finisca ogni cosa.",
           TextMapId = "QuestDesc_1003plus27",
         },
         QuestDesc_1003plus28 = {
@@ -25636,11 +25636,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020105",
         },
         QuestName_10020106 = {
-          ContentEN = "Head to the Hypnos\' House for accommodations",
+          ContentEN = "Dirigiti alla casa di Hypnos per alloggiare",
           TextMapId = "QuestName_10020106",
         },
         QuestName_10020107 = {
-          ContentEN = "Head to the Hypnos\' House for accommodations",
+          ContentEN = "Dirigiti alla casa di Hypnos per alloggiare",
           TextMapId = "QuestName_10020107",
         },
         QuestName_10020108 = {
@@ -25684,11 +25684,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020203",
         },
         QuestName_10020204 = {
-          ContentEN = "Hear out Margie\'s situation",
+          ContentEN = "Ascolta la situazione di Margie",
           TextMapId = "QuestName_10020204",
         },
         QuestName_10020205 = {
-          ContentEN = "Hear out Margie\'s situation",
+          ContentEN = "Ascolta la situazione di Margie",
           TextMapId = "QuestName_10020205",
         },
         QuestName_10020206 = {
@@ -25700,11 +25700,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020207",
         },
         QuestName_10020208 = {
-          ContentEN = "Inspect the Area Near Dustbin #3",
+          ContentEN = "Ispeziona l'area vicino al bidone della spazzatura #3",
           TextMapId = "QuestName_10020208",
         },
         QuestName_10020209 = {
-          ContentEN = "Follow the Trail to the Rooftop",
+          ContentEN = "Segui la Scia fino al tetto",
           TextMapId = "QuestName_10020209",
         },
         QuestName_10020210 = {
@@ -25796,7 +25796,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020307_2",
         },
         QuestName_10020307_3 = {
-          ContentEN = "Browse through notes",
+          ContentEN = "Sfoglia le note",
           TextMapId = "QuestName_10020307_3",
         },
         QuestName_10020307_4 = {
@@ -25816,7 +25816,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020308",
         },
         QuestName_10020308_1 = {
-          ContentEN = "Defeat the Filthoid blocking your path",
+          ContentEN = "Sconfiggi il Filthoid che ti blocca il cammino",
           TextMapId = "QuestName_10020308_1",
         },
         QuestName_10020309 = {
@@ -25824,11 +25824,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020309",
         },
         QuestName_10020309_2 = {
-          ContentEN = "Crack the mechanism to open the gate",
+          ContentEN = "Decripta il meccanismo per aprire il cancello",
           TextMapId = "QuestName_10020309_2",
         },
         QuestName_10020310 = {
-          ContentEN = "Move forward",
+          ContentEN = "Vai avanti",
           TextMapId = "QuestName_10020310",
         },
         QuestName_10020311 = {
@@ -25840,51 +25840,51 @@ local r0_0 = {
           TextMapId = "QuestName_10020312",
         },
         QuestName_10020313 = {
-          ContentEN = "Defeat the giant Filthoid dwelling in the depths of the pit",
+          ContentEN = "Sconfiggi il gigantesco Filthoid che vive nelle profondità della fossa",
           TextMapId = "QuestName_10020313",
         },
         QuestName_10020314 = {
-          ContentEN = "Collect the Crystallo di Stella",
+          ContentEN = "Raccogli il Crystallo di Stella",
           TextMapId = "QuestName_10020314",
         },
         QuestName_10020315 = {
-          ContentEN = "Return to the upper levels of the cave",
+          ContentEN = "Ritorna ai livelli superiori della grotta",
           TextMapId = "QuestName_10020315",
         },
         QuestName_10020316 = {
-          ContentEN = "Head to the city gate",
+          ContentEN = "Dirigiti verso il cancello della città",
           TextMapId = "QuestName_10020316",
         },
         QuestName_10020401 = {
-          ContentEN = "Meet Outsider at his place",
+          ContentEN = "Incontra Outsider a casa sua",
           TextMapId = "QuestName_10020401",
         },
         QuestName_10020402 = {
-          ContentEN = "Leave Outsider\'s House",
+          ContentEN = "Lascia la casa di Outsider",
           TextMapId = "QuestName_10020402",
         },
         QuestName_10020403 = {
-          ContentEN = "Leave the house and chat with Outsider",
+          ContentEN = "Esci dalla casa e chiacchiera con Outsider",
           TextMapId = "QuestName_10020403",
         },
         QuestName_10020404 = {
-          ContentEN = "Return to Sanctuary",
+          ContentEN = "Ritorna al Santuario",
           TextMapId = "QuestName_10020404",
         },
         QuestName_10020405 = {
-          ContentEN = "Head to the Hypnos\' House",
+          ContentEN = "Dirigiti alla casa di Hypnos",
           TextMapId = "QuestName_10020405",
         },
         QuestName_10020406 = {
-          ContentEN = "Enter the Hypnos\' House",
+          ContentEN = "Entra nella casa di Hypnos",
           TextMapId = "QuestName_10020406",
         },
         QuestName_10020407 = {
-          ContentEN = "Go upstairs and chat with Psyche",
+          ContentEN = "Sali di sopra e chiacchiera con Psyche",
           TextMapId = "QuestName_10020407",
         },
         QuestName_10020408 = {
-          ContentEN = "Investigate the Hypnos\' House",
+          ContentEN = "Indaga sulla casa di Hypnos",
           TextMapId = "QuestName_10020408",
         },
       }
@@ -25973,7 +25973,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020605",
         },
         QuestName_10020606 = {
-          ContentEN = "Head to the Hypnos\' House",
+          ContentEN = "Dirigiti alla casa di Hypnos",
           TextMapId = "QuestName_10020606",
         },
         QuestName_10020607 = {
@@ -26513,7 +26513,7 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus31",
         },
         QuestName_1003plus32 = {
-          ContentEN = "Move forward",
+          ContentEN = "Vai avanti",
           TextMapId = "QuestName_1003plus32",
         },
         QuestName_1003plus33 = {
@@ -48200,7 +48200,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_501101",
         },
         UI_Achievement_Name_5011901 = {
-          ContentEN = "Gold Miner",
+          ContentEN = "Minatore d'oro",
           TextMapId = "UI_Achievement_Name_5011901",
         },
         UI_Achievement_Name_5012001 = {
@@ -48248,7 +48248,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_50130104",
         },
         UI_Achievement_Name_50131701 = {
-          ContentEN = "Can Anyone Else Do This?",
+          ContentEN = "Qualcun altro può farlo?",
           TextMapId = "UI_Achievement_Name_50131701",
         },
         UI_Achievement_Name_50131702 = {
@@ -49173,7 +49173,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_9910601",
         },
         UI_Achievement_SubTitle = {
-          ContentEN = "Achievements",
+          ContentEN = "Obiettivi",
           TextMapId = "UI_Achievement_SubTitle",
         },
         UI_Achievement_Title = {
@@ -49181,7 +49181,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Title",
         },
         UI_Achievement_TotalCount = {
-          ContentEN = "Achievement Completed",
+          ContentEN = "Obiettivo completato",
           TextMapId = "UI_Achievement_TotalCount",
         },
         UI_Achievement_Type_CBT3 = {
@@ -49189,7 +49189,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Type_CBT3",
         },
         UI_Achievement_Type_GuanQiaChuFa = {
-          ContentEN = "A Moment of Wonder",
+          ContentEN = "Un momento di Meraviglia",
           TextMapId = "UI_Achievement_Type_GuanQiaChuFa",
         },
         UI_Achievement_Type_GuanQiaJiShu = {
@@ -49205,11 +49205,11 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Type_HaoGanDu",
         },
         UI_Achievement_Type_HaoYou = {
-          ContentEN = "Journey with Friends",
+          ContentEN = "Viaggio con gli Amici",
           TextMapId = "UI_Achievement_Type_HaoYou",
         },
         UI_Achievement_Type_JuQing = {
-          ContentEN = "Between the Shores",
+          ContentEN = "Tra le Rive",
           TextMapId = "UI_Achievement_Type_JuQing",
         },
         UI_Achievement_Type_RouGe = {
@@ -49217,7 +49217,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Type_RouGe",
         },
         UI_Achievement_Type_Tansuo = {
-          ContentEN = "Hello, World",
+          ContentEN = "Ciao, Mondo",
           TextMapId = "UI_Achievement_Type_Tansuo",
         },
         UI_Achievement_Type_XiTongShouJi = {
@@ -58565,7 +58565,7 @@ local r0_0 = {
           TextMapId = "UI_Keyboard_Map_SwitchToFly",
         },
         UI_Keyboard_Map_W = {
-          ContentEN = "Move Forward",
+          ContentEN = "Vai avanti",
           TextMapId = "UI_Keyboard_Map_W",
         },
         UI_Keyboard_SwitchMaster = {
@@ -59434,7 +59434,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_ENTER_OUTSIDERHOME",
         },
         UI_MECHANISM_ENTER_SANATORIUM = {
-          ContentEN = "Enter the Hypnos\' House",
+          ContentEN = "Entra nella casa di Hypnos",
           TextMapId = "UI_MECHANISM_ENTER_SANATORIUM",
         },
         UI_MECHANISM_ENTER_SEW = {
@@ -59458,7 +59458,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_LEAVE_KUANGKENG",
         },
         UI_MECHANISM_LEAVE_OUTSIDERHOME = {
-          ContentEN = "Leave Outsider\'s House",
+          ContentEN = "Lascia la casa di Outsider",
           TextMapId = "UI_MECHANISM_LEAVE_OUTSIDERHOME",
         },
         UI_MECHANISM_LEAVE_SANATORIUM = {
@@ -61124,7 +61124,7 @@ local r0_0 = {
           TextMapId = "UI_Npc_Name_ChildParent",
         },
         UI_Npc_Name_Continue = {
-          ContentEN = "Move forward",
+          ContentEN = "Vai avanti",
           TextMapId = "UI_Npc_Name_Continue",
         },
         UI_Npc_Name_Dafu = {
@@ -63984,7 +63984,7 @@ local r0_0 = {
           TextMapId = "UI_REGIONMAP_NAME_202",
         },
         UI_REGIONMAP_NAME_203 = {
-          ContentEN = "Sanctuary",
+          ContentEN = "Santuario",
           TextMapId = "UI_REGIONMAP_NAME_203",
         },
         UI_REGIONMAP_NAME_204 = {
@@ -64044,7 +64044,7 @@ local r0_0 = {
           TextMapId = "UI_REGION_NAME_1041",
         },
         UI_REGION_NAME_2101 = {
-          ContentEN = "Sanctuary",
+          ContentEN = "Santuario",
           TextMapId = "UI_REGION_NAME_2101",
         },
         UI_REGISTER_BACK = {
@@ -65465,7 +65465,7 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_NAME_105001",
         },
         UI_SUBREGION_NAME_210101 = {
-          ContentEN = "Sanctuary",
+          ContentEN = "Santuario",
           TextMapId = "UI_SUBREGION_NAME_210101",
         },
         UI_SWITCH = {
@@ -68445,7 +68445,7 @@ local r0_0 = {
           TextMapId = "UI_WORLDMAP_REGIONNAME_3",
         },
         UI_WORLDMAP_RETURNHOMEBASE = {
-          ContentEN = "Return to Sanctuary",
+          ContentEN = "Ritorna al Santuario",
           TextMapId = "UI_WORLDMAP_RETURNHOMEBASE",
         },
         UI_WORLDMAP_TAB = {

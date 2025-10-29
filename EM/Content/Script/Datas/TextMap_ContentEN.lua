@@ -20798,7 +20798,7 @@ local r0_0 = {
           TextMapId = "Name_100203",
         },
         Name_100204 = {
-          ContentEN = "The Secret Behind the Door",
+          ContentEN = "Il Segreto Dietro la Porta",
           TextMapId = "Name_100204",
         },
         Name_100205 = {
@@ -24907,7 +24907,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020316",
         },
         QuestDesc_10020401 = {
-          ContentEN = "Outsider requested an exclusive meeting, so Snow left first.\nAccording to Outsider, his home is in the slums, marked by a bird on the door.",
+          ContentEN = "Outsider ha richiesto un incontro esclusivo, quindi Snow se n'è andata per prima.\nSecondo Outsider, la sua casa si trova nei bassifondi, ed è contrassegnata da un uccello sulla porta.",
           TextMapId = "QuestDesc_10020401",
         },
         QuestDesc_10020402 = {
@@ -40186,7 +40186,7 @@ local r0_0 = {
           TextMapId = "StarterQuest_Des_102001_4_2",
         },
         StarterQuest_Des_102001_4_3 = {
-          ContentEN = "Completa la Storia Principale: The Secret Behind the Door",
+          ContentEN = "Completa la Storia Principale: Il Segreto Dietro la Porta",
           TextMapId = "StarterQuest_Des_102001_4_3",
         },
         StarterQuest_Des_102001_4_4 = {
@@ -46558,7 +46558,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_70106",
         },
         UI_Achievement_Des_70107 = {
-          ContentEN = "Completa Missione: The Secret Behind the Door",
+          ContentEN = "Completa Missione: Il Segreto Dietro la Porta",
           TextMapId = "UI_Achievement_Des_70107",
         },
         UI_Achievement_Des_70108 = {
@@ -52822,7 +52822,7 @@ local r0_0 = {
           TextMapId = "UI_CMNpc_Name_MagnusM",
         },
         UI_CMNpc_Name_Make = {
-          ContentEN = "Segno",
+          ContentEN = "Mark",
           TextMapId = "UI_CMNpc_Name_Make",
         },
         UI_CMNpc_Name_Makusi = {
@@ -57163,7 +57163,7 @@ local r0_0 = {
           TextMapId = "UI_FNNpc_Name_Mario",
         },
         UI_FNNpc_Name_Mark = {
-          ContentEN = "Segno",
+          ContentEN = "Mark",
           TextMapId = "UI_FNNpc_Name_Mark",
         },
         UI_FNNpc_Name_Muban = {
@@ -59430,7 +59430,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_ENTER_KUANGKENG",
         },
         UI_MECHANISM_ENTER_OUTSIDERHOME = {
-          ContentEN = "Enter Outsider\'s House",
+          ContentEN = "Entra nella casa di Outsider",
           TextMapId = "UI_MECHANISM_ENTER_OUTSIDERHOME",
         },
         UI_MECHANISM_ENTER_SANATORIUM = {

@@ -473,7 +473,7 @@ local r0_0 = {
           TextMapId = "Access_Collecting_Icelake02",
         },
         Access_Collecting_Icelake03 = {
-          ContentEN = "Trovato in Distretto Orientale, Icelake - Riva del Lago Lamentoso",
+          ContentEN = "Trovato in Distretto Orientale, Icelake - Riva del Lago dei Lamenti",
           TextMapId = "Access_Collecting_Icelake03",
         },
         Access_Collecting_Icelake04 = {
@@ -1082,7 +1082,7 @@ local r0_0 = {
           TextMapId = "BattlePass_Rank2RewardPreview",
         },
         BattlePass_Task_Des_100001001 = {
-          ContentEN = "Log in",
+          ContentEN = "Accedi",
           TextMapId = "BattlePass_Task_Des_100001001",
         },
         BattlePass_Task_Des_100001003 = {
@@ -3397,7 +3397,7 @@ local r0_0 = {
           TextMapId = "Content_120114_6",
         },
         Content_120114_7 = {
-          ContentEN = "All signs point to bandits near Lago Lamentoso. Go there with {性别:Mr|Miss} Unicorn.",
+          ContentEN = "All signs point to bandits near Lago dei Lamenti. Go there with {性别:Mr|Miss} Unicorn.",
           TextMapId = "Content_120114_7",
         },
         Content_120114_8 = {
@@ -3437,7 +3437,7 @@ local r0_0 = {
           TextMapId = "Content_200102_2",
         },
         Content_200102_3 = {
-          ContentEN = "According to Psyche, this special soil can be found in a cave near Lago Lamentoso.\nGo collect the right kind of soil for her.",
+          ContentEN = "According to Psyche, this special soil can be found in a cave near Lago dei Lamenti.\nGo collect the right kind of soil for her.",
           TextMapId = "Content_200102_3",
         },
         Content_200102_4 = {
@@ -3765,7 +3765,7 @@ local r0_0 = {
           TextMapId = "Content_200210_1",
         },
         Content_200210_2 = {
-          ContentEN = "Follow the black marketeer Harlowe\'s directions to the specified spot near Lago Lamentoso to fulfil the commission.",
+          ContentEN = "Follow the black marketeer Harlowe\'s directions to the specified spot near Lago dei Lamenti to fulfil the commission.",
           TextMapId = "Content_200210_2",
         },
         Content_200210_3 = {
@@ -3845,7 +3845,7 @@ local r0_0 = {
           TextMapId = "Content_200213_4",
         },
         Content_200215_1 = {
-          ContentEN = "Marcus, a chef with a passion for culinary experiments, is always on the lookout for new ingredients. You know of a good fishing spot near Lago Lamentoso. Head there and see if you can reel in something special for him.",
+          ContentEN = "Marcus, a chef with a passion for culinary experiments, is always on the lookout for new ingredients. You know of a good fishing spot near Lago dei Lamenti. Head there and see if you can reel in something special for him.",
           TextMapId = "Content_200215_1",
         },
         Content_200215_2 = {
@@ -4574,7 +4574,7 @@ local r0_0 = {
           TextMapId = "DROP_QUEST_LEAVECAVE",
         },
         DROP_QUEST_LOCKEDDOOR = {
-          ContentEN = "Locked Door",
+          ContentEN = "Porta Chiusa",
           TextMapId = "DROP_QUEST_LOCKEDDOOR",
         },
         DROP_QUEST_MUBEI = {
@@ -5756,7 +5756,7 @@ local r0_0 = {
           TextMapId = "DUNGEON_WEEKLY_KEY",
         },
         DailyTaskDes_10000101 = {
-          ContentEN = "Log in",
+          ContentEN = "Accedi",
           TextMapId = "DailyTaskDes_10000101",
         },
         DailyTaskDes_10000102 = {
@@ -7061,7 +7061,7 @@ local r0_0 = {
           TextMapId = "Description_200102_1",
         },
         Description_200102_2 = {
-          ContentEN = "Head to Lago Lamentoso to scout for soil",
+          ContentEN = "Head to Lago dei Lamenti to scout for soil",
           TextMapId = "Description_200102_2",
         },
         Description_200102_3 = {
@@ -7081,7 +7081,7 @@ local r0_0 = {
           TextMapId = "Description_200103_1",
         },
         Description_200103_2 = {
-          ContentEN = "Dirigiti verso la riva del Lago Lamentoso e cerca il maiale gigante",
+          ContentEN = "Dirigiti verso la riva del Lago dei Lamenti e cerca il maiale gigante",
           TextMapId = "Description_200103_2",
         },
         Description_200103_3 = {
@@ -8723,7 +8723,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_301004",
         },
         EntryTitle_301005 = {
-          ContentEN = "Lago Lamentoso",
+          ContentEN = "Lago dei Lamenti",
           TextMapId = "EntryTitle_301005",
         },
         EntryTitle_301006 = {
@@ -8771,7 +8771,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_401001",
         },
         EntryTitle_401002 = {
-          ContentEN = "La Notte del Lago Lamentoso",
+          ContentEN = "La Notte del Lago dei Lamenti",
           TextMapId = "EntryTitle_401002",
         },
         EntryTitle_402001 = {
@@ -9376,7 +9376,7 @@ local r0_0 = {
           TextMapId = "Event_Tab_105101011",
         },
         Event_Tab_105102011 = {
-          ContentEN = "When Dreams Gild the Night",
+          ContentEN = "Quando i Sogni Indorano la Notte",
           TextMapId = "Event_Tab_105102011",
         },
         Event_Tab_106001 = {
@@ -10898,7 +10898,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1005002",
         },
         HomePianoAcc_1005003 = {
-          ContentEN = "Fonte: Esplora la riva del Lago Lamentoso",
+          ContentEN = "Fonte: Esplora la riva del Lago dei Lamenti",
           TextMapId = "HomePianoAcc_1005003",
         },
         HomePianoAcc_1005004 = {
@@ -10938,7 +10938,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1006003",
         },
         HomePianoAcc_1006004 = {
-          ContentEN = "Fonte: Esplora la riva del Lago Lamentoso",
+          ContentEN = "Fonte: Esplora la riva del Lago dei Lamenti",
           TextMapId = "HomePianoAcc_1006004",
         },
         HomePianoAcc_1006005 = {
@@ -25019,11 +25019,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020607",
         },
         QuestDesc_10020608 = {
-          ContentEN = "Per qualche ragione, Psyche sembra turbata, anche se Henrik sostiene che si sente solo un po' sottotono. Sentendo il bisogno di una conversazione privata, la inviti a fare una passeggiata al Lago Lamentoso. Si trova appena fuori Icelake. Ora vai a fare una passeggiata con Psyche.",
+          ContentEN = "Per qualche ragione, Psyche sembra turbata, anche se Henrik sostiene che si sente solo un po' sottotono. Sentendo il bisogno di una conversazione privata, la inviti a fare una passeggiata al Lago dei Lamenti. Si trova appena fuori Icelake. Ora vai a fare una passeggiata con Psyche.",
           TextMapId = "QuestDesc_10020608",
         },
         QuestDesc_10020609 = {
-          ContentEN = "You notice Psyche\'s vision seems severely impaired, but she is reluctant to talk about it.\nPsyche wishes for you to accompany her to the old tree roots by Lago Lamentoso, a place laden with her childhood memories.",
+          ContentEN = "You notice Psyche\'s vision seems severely impaired, but she is reluctant to talk about it.\nPsyche wishes for you to accompany her to the old tree roots by Lago dei Lamenti, a place laden with her childhood memories.",
           TextMapId = "QuestDesc_10020609",
         },
         QuestDesc_10020610 = {
@@ -25031,7 +25031,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020610",
         },
         QuestDesc_10020611 = {
-          ContentEN = "Psyche gave you the camera she once buried as a child. She can no longer see, but she hopes you\'ll capture the world through its lens.\nIt seems Psyche\'s got more on her mind. Walk with her by Lago Lamentoso and hear her out.",
+          ContentEN = "Psyche gave you the camera she once buried as a child. She can no longer see, but she hopes you\'ll capture the world through its lens.\nIt seems Psyche\'s got more on her mind. Walk with her by Lago dei Lamenti and hear her out.",
           TextMapId = "QuestDesc_10020611",
         },
         QuestDesc_10020612 = {
@@ -25067,7 +25067,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020704",
         },
         QuestDesc_10020705 = {
-          ContentEN = "Gravely injured, Henrik divulges the truth in his final moments, pleading with you to save Psyche, who has lost her senses. This is the collective wish of everyone at Hypnos\' House.\nSnow directs you to where Psyche fled. Head to Lago Lamentoso to find her.",
+          ContentEN = "Gravely injured, Henrik divulges the truth in his final moments, pleading with you to save Psyche, who has lost her senses. This is the collective wish of everyone at Hypnos\' House.\nSnow directs you to where Psyche fled. Head to Lago dei Lamenti to find her.",
           TextMapId = "QuestDesc_10020705",
         },
         QuestDesc_10020706 = {
@@ -25075,7 +25075,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020706",
         },
         QuestDesc_10020707 = {
-          ContentEN = "Following the butterflies, you arrive at Lago Lamentoso, where raging winds seem intent on blocking your way. \nFortunately, the gusts follow a pattern. Stay vigilant and carefully cross the icy lake.",
+          ContentEN = "Following the butterflies, you arrive at Lago dei Lamenti, where raging winds seem intent on blocking your way. \nFortunately, the gusts follow a pattern. Stay vigilant and carefully cross the icy lake.",
           TextMapId = "QuestDesc_10020707",
         },
       }
@@ -25116,7 +25116,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020805",
         },
         QuestDesc_10020806 = {
-          ContentEN = "Together with Outsider, you find a secluded spot near Lago Lamentoso to bid Psyche a final farewell.\nYou\'re certain she would have loved this place — a serene, beautiful resting spot away from sorrowful cries or the clamour of machinery. Only the gentle breeze offers its silent tribute.",
+          ContentEN = "Together with Outsider, you find a secluded spot near Lago dei Lamenti to bid Psyche a final farewell.\nYou\'re certain she would have loved this place — a serene, beautiful resting spot away from sorrowful cries or the clamour of machinery. Only the gentle breeze offers its silent tribute.",
           TextMapId = "QuestDesc_10020806",
         },
         QuestDesc_10020807 = {
@@ -25600,15 +25600,15 @@ local r0_0 = {
           TextMapId = "QuestDesc_400107",
         },
         QuestDesc_99999801 = {
-          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso",
+          ContentEN = "Dirigiti verso la Riva del Lago dei Lamenti",
           TextMapId = "QuestDesc_99999801",
         },
         QuestDesc_99999802 = {
-          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso e sconfiggi il potente nemico",
+          ContentEN = "Dirigiti verso la Riva del Lago dei Lamenti e sconfiggi il potente nemico",
           TextMapId = "QuestDesc_99999802",
         },
         QuestDesc_99999803 = {
-          ContentEN = "Abbandonando Riva del Lago Lamentoso in 3 secondi",
+          ContentEN = "Abbandonando Riva del Lago dei Lamenti in 3 secondi",
           TextMapId = "QuestDesc_99999803",
         },
         QuestDesc__10020611_1 = {
@@ -25897,19 +25897,19 @@ local r0_0 = {
       -- line: [26371, 27174] id: 33
       return {
         QuestName_10020409 = {
-          ContentEN = "Try to gather intel from other lodgers",
+          ContentEN = "Cerca di raccogliere informazioni dagli altri inquilini",
           TextMapId = "QuestName_10020409",
         },
         QuestName_10020410 = {
-          ContentEN = "Wait for Henrik in the lobby",
+          ContentEN = "Aspetta Henrik all'ingresso",
           TextMapId = "QuestName_10020410",
         },
         QuestName_10020411 = {
-          ContentEN = "Leave the Hypnos\' House",
+          ContentEN = "Lascia la casa di Hypnos",
           TextMapId = "QuestName_10020411",
         },
         QuestName_10020412 = {
-          ContentEN = "Inform Outsider of your findings",
+          ContentEN = "Informa Outsider delle tue scoperte",
           TextMapId = "QuestName_10020412",
         },
         QuestName_10020501 = {
@@ -25925,7 +25925,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020503",
         },
         QuestName_10020504 = {
-          ContentEN = "Defeat the Filthoids to sharpen your combat skills",
+          ContentEN = "Sconfiggi i Filthoid per affinare le tue abilità di combattimento",
           TextMapId = "QuestName_10020504",
         },
         QuestName_10020504_1 = {
@@ -25933,7 +25933,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020504_1",
         },
         QuestName_10020505 = {
-          ContentEN = "Defeat the Filthoids to sharpen your combat skills",
+          ContentEN = "Sconfiggi i Filthoid per affinare le tue abilità di combattimento",
           TextMapId = "QuestName_10020505",
         },
         QuestName_10020506 = {
@@ -25981,7 +25981,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020607",
         },
         QuestName_10020608 = {
-          ContentEN = "Go to Lago Lamentoso and take a walk with Psyche",
+          ContentEN = "Go to Lago dei Lamenti and take a walk with Psyche",
           TextMapId = "QuestName_10020608",
         },
         QuestName_10020609 = {
@@ -25993,7 +25993,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020610",
         },
         QuestName_10020611 = {
-          ContentEN = "Take a walk by Lago Lamentoso",
+          ContentEN = "Take a walk by Lago dei Lamenti",
           TextMapId = "QuestName_10020611",
         },
         QuestName_10020611_1 = {
@@ -26041,7 +26041,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020706",
         },
         QuestName_10020707 = {
-          ContentEN = "Brave the howling winds across the Lago Lamentoso",
+          ContentEN = "Brave the howling winds across the Lago dei Lamenti",
           TextMapId = "QuestName_10020707",
         },
         QuestName_10020708 = {
@@ -26069,7 +26069,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020804",
         },
         QuestName_10020805 = {
-          ContentEN = "Dirigiti verso le rive del Lago Lamentoso",
+          ContentEN = "Dirigiti verso le rive del Lago dei Lamenti",
           TextMapId = "QuestName_10020805",
         },
         QuestName_10020806 = {
@@ -26557,15 +26557,15 @@ local r0_0 = {
           TextMapId = "QuestName_400107",
         },
         QuestName_99999801 = {
-          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso",
+          ContentEN = "Dirigiti verso la Riva del Lago dei Lamenti",
           TextMapId = "QuestName_99999801",
         },
         QuestName_99999802 = {
-          ContentEN = "Dirigiti verso la Riva del Lago Lamentoso e sconfiggi il potente nemico",
+          ContentEN = "Dirigiti verso la Riva del Lago dei Lamenti e sconfiggi il potente nemico",
           TextMapId = "QuestName_99999802",
         },
         QuestName_99999803 = {
-          ContentEN = "Leaving Riva del Lago Lamentoso in 3s",
+          ContentEN = "Leaving Riva del Lago dei Lamenti in 3s",
           TextMapId = "QuestName_99999803",
         },
         QuestName_999999 = {
@@ -27454,7 +27454,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000047",
         },
         READ_TEXT_2000048 = {
-          ContentEN = "<H>Deteriorators Are Exceptionally Dangerous — Do Not Be Fooled by Their Appearance!</>\nOn September 24th, an egregious case of Deterioration occurred in Icelake, with devastating consequences. Following an comprehensive investigation by the 6th Legion\'s Escort Unit, the details of the tragedy have now been confirmed:\nOn September 13th, local residents Mr and Mrs Fischer encountered a gravely injured young man, Robie Brown, collapsed by the roadside near Lago Lamentoso. Acting out of compassion, they brought him into their home and cared for him.\nHowever, Robie Brown was a Deteriorator — one who had evaded the Empire\'s routine screenings and fled to the outskirts of the city. While receiving aid from the Fischers, Brown deliberately concealed his condition. Ten days later, he succumbed to the transformation, becoming a Filthoid. The resulting massacre in Icelake\'s southern district claimed the lives of dozens, including Mr and Mrs Fischer. The 6th Legion\'s Escort responded swiftly and succeeded in subduing the threat — but not before the damage was done.\n\nThe incident resulted in 18 deaths (including 3 Solarian citizens) and 34 injuries. Citizens are reminded: under no circumstances should you provide shelter to unidentified Charon individuals. If you suspect someone of being a Deteriorator, report them to the Security Bureau immediately. Deteriorators are — and will remain — humanity\'s enemies. No exceptions. Harbouring Deteriorators or concealing their condition is a capital offence under Article 54 of the Hyperborean Criminal Code, punishable by death.",
+          ContentEN = "<H>Deteriorators Are Exceptionally Dangerous — Do Not Be Fooled by Their Appearance!</>\nOn September 24th, an egregious case of Deterioration occurred in Icelake, with devastating consequences. Following an comprehensive investigation by the 6th Legion\'s Escort Unit, the details of the tragedy have now been confirmed:\nOn September 13th, local residents Mr and Mrs Fischer encountered a gravely injured young man, Robie Brown, collapsed by the roadside near Lago dei Lamenti. Acting out of compassion, they brought him into their home and cared for him.\nHowever, Robie Brown was a Deteriorator — one who had evaded the Empire\'s routine screenings and fled to the outskirts of the city. While receiving aid from the Fischers, Brown deliberately concealed his condition. Ten days later, he succumbed to the transformation, becoming a Filthoid. The resulting massacre in Icelake\'s southern district claimed the lives of dozens, including Mr and Mrs Fischer. The 6th Legion\'s Escort responded swiftly and succeeded in subduing the threat — but not before the damage was done.\n\nThe incident resulted in 18 deaths (including 3 Solarian citizens) and 34 injuries. Citizens are reminded: under no circumstances should you provide shelter to unidentified Charon individuals. If you suspect someone of being a Deteriorator, report them to the Security Bureau immediately. Deteriorators are — and will remain — humanity\'s enemies. No exceptions. Harbouring Deteriorators or concealing their condition is a capital offence under Article 54 of the Hyperborean Criminal Code, punishable by death.",
           TextMapId = "READ_TEXT_2000048",
         },
         READ_TEXT_2000049 = {
@@ -27498,11 +27498,11 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000058",
         },
         READ_TEXT_2000059 = {
-          ContentEN = "Ⅲ. The Gift of Fate\n \n From revelry did tragedy arise;\n \n From the eternal was born what must pass.\n \n South of Lago Lamentoso, the snows lay deep.\n \n And those from gentler lands had never beheld such boundless white.\n \n Fallen feathers, ashen earth, lips pale as the ivory lake\'s milk-stone.\n \n What once was marvel at the snow became dread of death.\n \n Empty bellies growled, heralds of despair unborn.\n \n Even Soranus, fairest and steadfast,\n \n Scoured desperately for a single morsel.\n \n But not even Soranus could conjure wheat from icefields.\n \n He gnawed upon blocks of snow,\n \n Leant upon his longsword as a crutch,\n \n And ventured into the blizzard for one last charge,\n \n Hoping fate concealed a gift beyond the winter\'s end.\n \n When the storm at last relented,\n \n A village appeared above Lago Lamentoso.\n \n With the last of his strength, Soranus knocked upon its gate,\n \n And gave thanks for fate\'s final, merciful gift.\n \n Yet perhaps, for he and his brother had spurned the gods,\n \n He knew not in that hour the first verse of his downfall was already writ.",
+          ContentEN = "Ⅲ. The Gift of Fate\n \n From revelry did tragedy arise;\n \n From the eternal was born what must pass.\n \n South of Lago dei Lamenti, the snows lay deep.\n \n And those from gentler lands had never beheld such boundless white.\n \n Fallen feathers, ashen earth, lips pale as the ivory lake\'s milk-stone.\n \n What once was marvel at the snow became dread of death.\n \n Empty bellies growled, heralds of despair unborn.\n \n Even Soranus, fairest and steadfast,\n \n Scoured desperately for a single morsel.\n \n But not even Soranus could conjure wheat from icefields.\n \n He gnawed upon blocks of snow,\n \n Leant upon his longsword as a crutch,\n \n And ventured into the blizzard for one last charge,\n \n Hoping fate concealed a gift beyond the winter\'s end.\n \n When the storm at last relented,\n \n A village appeared above Lago dei Lamenti.\n \n With the last of his strength, Soranus knocked upon its gate,\n \n And gave thanks for fate\'s final, merciful gift.\n \n Yet perhaps, for he and his brother had spurned the gods,\n \n He knew not in that hour the first verse of his downfall was already writ.",
           TextMapId = "READ_TEXT_2000059",
         },
         READ_TEXT_2000060 = {
-          ContentEN = "Ⅳ. The Snow-Owl\'s Ballad, Canto Ⅰ\n \n The snow-owl rejoiced, the snow-owl sang,\n \n Thrice it wheeled through the nighted sky,\n \n Seeking fattened mice to still its hunger.\n \n Yet beneath the vault of the Far North,\n \n No breath of life was to be found...\n \n Save for that place — \n \n A hamlet of snow, a village of ice.\n \n The Charon hastened upon the lake\'s edge ,\n \n While from the south the Solarian sang.\n \n The fish cast off its cloak of brine,\n \n Unfolding blossoms of glistening fat,\n \n More fragrant than the buds of a springvine.\n \n The mash unveiled as its froth fell away,\n \n Revealing crimson draperies of the closing day,\n \n More splendid than autumn\'s dusk.\n \n Since the day Soranus struck the door of that village by Lago Lamentoso,\n \n The feast where strangers became kin has never ceased.\n \n Every Sola laid down their sword,\n \n And embraced the Charon newly met,\n \n Praising their bounty,\n \n Giving thanks for their shelter.\n \n Even Dis Galea, ever wary,\n \n Exchanged oaths with the Charon\'s chief,\n \n Swearing to treat the Charon as brothers, as dear as Soranus himself,\n \n To stand as one against Filthoids, against winter, against every foe to come.\n \n Even the snow-owl, vigilant hunter, raised its voice in joy,\n \n And sought to alight upon the laden platters that it, too, would share the feast.",
+          ContentEN = "Ⅳ. The Snow-Owl\'s Ballad, Canto Ⅰ\n \n The snow-owl rejoiced, the snow-owl sang,\n \n Thrice it wheeled through the nighted sky,\n \n Seeking fattened mice to still its hunger.\n \n Yet beneath the vault of the Far North,\n \n No breath of life was to be found...\n \n Save for that place — \n \n A hamlet of snow, a village of ice.\n \n The Charon hastened upon the lake\'s edge ,\n \n While from the south the Solarian sang.\n \n The fish cast off its cloak of brine,\n \n Unfolding blossoms of glistening fat,\n \n More fragrant than the buds of a springvine.\n \n The mash unveiled as its froth fell away,\n \n Revealing crimson draperies of the closing day,\n \n More splendid than autumn\'s dusk.\n \n Since the day Soranus struck the door of that village by Lago dei Lamenti,\n \n The feast where strangers became kin has never ceased.\n \n Every Sola laid down their sword,\n \n And embraced the Charon newly met,\n \n Praising their bounty,\n \n Giving thanks for their shelter.\n \n Even Dis Galea, ever wary,\n \n Exchanged oaths with the Charon\'s chief,\n \n Swearing to treat the Charon as brothers, as dear as Soranus himself,\n \n To stand as one against Filthoids, against winter, against every foe to come.\n \n Even the snow-owl, vigilant hunter, raised its voice in joy,\n \n And sought to alight upon the laden platters that it, too, would share the feast.",
           TextMapId = "READ_TEXT_2000060",
         },
       }
@@ -27527,11 +27527,11 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000063",
         },
         READ_TEXT_2000064 = {
-          ContentEN = "Ⅷ. The Iron Hooves in Their Charge\n \n The host stirred and swelled like waters brought to the boil.\n \n Far-sighted was Dis Galea,\n \n Prudent was Dis Galea!\n \n And so they mourned with Dis Galea for Solanus,\n \n For Solanus, revered and feared, had fallen.\n \n Dirges rose and tears fell,\n \n As though a thousand stars descended all at once.\n \n The night lay veiled in mist; no guiding star remained.\n \n This day we endure the bitterness of deceit;\n \n Yet when the tide of the Great Migration next sweeps the snowbound plain:\n \n Though death descends as equal fate on every soul, Sola and Charon alike,\n \n The demons\' blood shall drench the earth.\n \n Their bones shall be wrought into goblets;\n \n Their houses shall become graveyards;\n \n Their horns shall be broken and cast into Lago Lamentoso, until its waters brim with ruin.\n \n And this land, bright with Phoxene, shall rise as offering unto Soranus.\n \n Thus, feeding on hatred,\n \n Dis Galea and his host endured the winter.\n \n They unsheathed their swords and seized the hamlets;\n \n They tightened their reins and trampled the houses.\n \n Yet endless massacre slowly dulled their wrath,\n \n And the Solarian, guided by reason, turned from the path of carnage and blood, \n \n And sought instead a road of concord.",
+          ContentEN = "Ⅷ. The Iron Hooves in Their Charge\n \n The host stirred and swelled like waters brought to the boil.\n \n Far-sighted was Dis Galea,\n \n Prudent was Dis Galea!\n \n And so they mourned with Dis Galea for Solanus,\n \n For Solanus, revered and feared, had fallen.\n \n Dirges rose and tears fell,\n \n As though a thousand stars descended all at once.\n \n The night lay veiled in mist; no guiding star remained.\n \n This day we endure the bitterness of deceit;\n \n Yet when the tide of the Great Migration next sweeps the snowbound plain:\n \n Though death descends as equal fate on every soul, Sola and Charon alike,\n \n The demons\' blood shall drench the earth.\n \n Their bones shall be wrought into goblets;\n \n Their houses shall become graveyards;\n \n Their horns shall be broken and cast into Lago dei Lamenti, until its waters brim with ruin.\n \n And this land, bright with Phoxene, shall rise as offering unto Soranus.\n \n Thus, feeding on hatred,\n \n Dis Galea and his host endured the winter.\n \n They unsheathed their swords and seized the hamlets;\n \n They tightened their reins and trampled the houses.\n \n Yet endless massacre slowly dulled their wrath,\n \n And the Solarian, guided by reason, turned from the path of carnage and blood, \n \n And sought instead a road of concord.",
           TextMapId = "READ_TEXT_2000064",
         },
         READ_TEXT_2000065 = {
-          ContentEN = "Ⅸ. The Dissolving of Hatred\n \n Ten times did the ice of Lago Lamentoso melt, and ten times it froze anew.\n \n And in the villages the Charon\'s dread deepened day by day —\n \n For ten years past it was they who had plotted a massacre that failed,\n \n And it was they who must now taste its bitter fruit.\n \n Dis Galea, clinging to life by Fate\'s frail thread,\n \n Endured the harsh winters of the North by means unknown,\n \n And with the silver tide of his host he laid waste to every land round about.\n \n At last he came,\n \n And with his coming an ending surely fell.\n \n With his host he cast down in swift might the fortress reared upon Soranus\'s grave.\n \n The Charon, in despair, murmured prayers to Mother Embla,\n \n Believing that this day would see them sink into the Misty Sea\'s embrace.\n \n Yet what came was neither slaughter nor conquest,\n \n But leniency beyond all measure.\n \n Dis Galea cursed Fate,\n \n Yet ten years of war had bent his heart toward peace.\n \n In his letters he wrote thus, grave and rational:\n \n \"Vengeance is scarlet, fair to behold — yet it only ends in withering.\n \n Peace is silver, grievous to bear — yet it composes the song of prosperity.\n \n Even if we let the Charon\'s blood sink into the stone, yet the stone shall one day crumble to desert.\n \n But once the seeds of peace are sown, for centuries, for millennia, flowers shall bloom.\"\n \n \"My Solarian brothers, burdened with hatred — let us together cast scorn upon Fate.\n \n To deny anger its dominion over the mind — that is the very proof of our humanity.\n \n These Charon, once branded Children of the Demon, \n \n Are righteous folk who rose against the Church.\n \n Rather than cross swords and raise the dirge,\n \n Let Soranus be the first and last sacrifice.\n \n And the Charon shall mourn him with us as sisters and brothers.\n \n So long as Lago Lamentoso endures,\n \n So long as the mountains stand,\n \n The name of Soranus shall be sung without end, echoing between mountain and lake.",
+          ContentEN = "Ⅸ. The Dissolving of Hatred\n \n Ten times did the ice of Lago dei Lamenti melt, and ten times it froze anew.\n \n And in the villages the Charon\'s dread deepened day by day —\n \n For ten years past it was they who had plotted a massacre that failed,\n \n And it was they who must now taste its bitter fruit.\n \n Dis Galea, clinging to life by Fate\'s frail thread,\n \n Endured the harsh winters of the North by means unknown,\n \n And with the silver tide of his host he laid waste to every land round about.\n \n At last he came,\n \n And with his coming an ending surely fell.\n \n With his host he cast down in swift might the fortress reared upon Soranus\'s grave.\n \n The Charon, in despair, murmured prayers to Mother Embla,\n \n Believing that this day would see them sink into the Misty Sea\'s embrace.\n \n Yet what came was neither slaughter nor conquest,\n \n But leniency beyond all measure.\n \n Dis Galea cursed Fate,\n \n Yet ten years of war had bent his heart toward peace.\n \n In his letters he wrote thus, grave and rational:\n \n \"Vengeance is scarlet, fair to behold — yet it only ends in withering.\n \n Peace is silver, grievous to bear — yet it composes the song of prosperity.\n \n Even if we let the Charon\'s blood sink into the stone, yet the stone shall one day crumble to desert.\n \n But once the seeds of peace are sown, for centuries, for millennia, flowers shall bloom.\"\n \n \"My Solarian brothers, burdened with hatred — let us together cast scorn upon Fate.\n \n To deny anger its dominion over the mind — that is the very proof of our humanity.\n \n These Charon, once branded Children of the Demon, \n \n Are righteous folk who rose against the Church.\n \n Rather than cross swords and raise the dirge,\n \n Let Soranus be the first and last sacrifice.\n \n And the Charon shall mourn him with us as sisters and brothers.\n \n So long as Lago dei Lamenti endures,\n \n So long as the mountains stand,\n \n The name of Soranus shall be sung without end, echoing between mountain and lake.",
           TextMapId = "READ_TEXT_2000065",
         },
         READ_TEXT_2000066 = {
@@ -27539,7 +27539,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000066",
         },
         READ_TEXT_2000067 = {
-          ContentEN = "Charon brothers, Charon sisters — remember that verse they drilled into us when we were kids?\n\"Have you heard of such a carnival, where blasphemers clasp the hands of Demon\'s Children?\"\nYeah, that one. The Silvercandle Hymn. We\'ve heard it so many times our ears grew numb.\nEvery year, when that day comes, we Charon — scraping through bitter lives — stitch together masks and costumes. Because only then do the Solarian pretend to treat us as human. Only then do they hold back their scorn. They dance, they laugh — and they blast that cursed Hymn at us a hundred times over.\nAnd I know many of you can recite its lines, maybe even feel sorry for the \"kind-hearted\" Dis I and his brother Soranus. Some even believe — because our ancestors supposedly killed Soranus — that we\'re bound to serve the Solarian forever. They say it\'s our destiny. To repay a blood debt. I say that\'s all lies.\nDon\'t buy it.\nDon\'t buy it!\nDon\'t buy it!!!\nThe Silvercandle Carnival is a lie from start to finish. There never was a carnival. Only a massacre. And Soranus? He wasn\'t some poor victim. He was the butcher — the worst of them all!\n \nListen, I\'ll tell you another story. The truth.\n \nOur ancestors, the Charon, lived in the North. Because of Deterioration, they didn\'t build great cities — just small scattered villages. One clan lived by Lago Lamentoso, warming themselves with Phoxene from the Heaventree nearby, living on what little they had.\nThen came rumours from the South — trouble in the Elysian Church, rebels driven out, exiles wandering north. At first it was just gossip. Elysium was too far to matter. Until Solarian soldiers showed up, armed, on our lake shore.\nOur ancestors pitied them. Thought they\'d never survive the northern winter. So they took them in, gave them food.\nThat winter was cruel, as if Father Ask and Mother Embla cursed us with the storm. But the cold didn\'t kill them — it only fed their greed. Galea, their leader, seemed harmless enough. But his brother? A greedy wolf. The first time he stepped into the village, his eyes went straight to our granaries. Already he was thinking of plunder.\nAnd on the night meant for peace, that brute Soranus had his blades and shields ready. At the feast our ancestors prepared, he struck.\nBy dawn, except for a handful of hunters out in the wilds, none were left alive... Galea built Icelake on our ancestors\' graves, and from it rose his Empire. His men enslaved us, lied to us, branded us sinners.\n \nThink about it! Really think about it! The Hymn — every line is about the Solarian. Not once does it name a single Charon. Why? Because they didn\'t know? Or because they never cared?\nThe Silvercandle Carnival? A sham. The Hymn? Lies. They boast, \"On this day we\'re equal; on this day we dance together.\" Liars! That wall between Solarian and Charon? They built it! And Soranus? He wasn\'t a hero or martyr. He was a filthy butcher!\nDon\'t be fooled. Boycott the Silvercandle Carnival!",
+          ContentEN = "Charon brothers, Charon sisters — remember that verse they drilled into us when we were kids?\n\"Have you heard of such a carnival, where blasphemers clasp the hands of Demon\'s Children?\"\nYeah, that one. The Silvercandle Hymn. We\'ve heard it so many times our ears grew numb.\nEvery year, when that day comes, we Charon — scraping through bitter lives — stitch together masks and costumes. Because only then do the Solarian pretend to treat us as human. Only then do they hold back their scorn. They dance, they laugh — and they blast that cursed Hymn at us a hundred times over.\nAnd I know many of you can recite its lines, maybe even feel sorry for the \"kind-hearted\" Dis I and his brother Soranus. Some even believe — because our ancestors supposedly killed Soranus — that we\'re bound to serve the Solarian forever. They say it\'s our destiny. To repay a blood debt. I say that\'s all lies.\nDon\'t buy it.\nDon\'t buy it!\nDon\'t buy it!!!\nThe Silvercandle Carnival is a lie from start to finish. There never was a carnival. Only a massacre. And Soranus? He wasn\'t some poor victim. He was the butcher — the worst of them all!\n \nListen, I\'ll tell you another story. The truth.\n \nOur ancestors, the Charon, lived in the North. Because of Deterioration, they didn\'t build great cities — just small scattered villages. One clan lived by Lago dei Lamenti, warming themselves with Phoxene from the Heaventree nearby, living on what little they had.\nThen came rumours from the South — trouble in the Elysian Church, rebels driven out, exiles wandering north. At first it was just gossip. Elysium was too far to matter. Until Solarian soldiers showed up, armed, on our lake shore.\nOur ancestors pitied them. Thought they\'d never survive the northern winter. So they took them in, gave them food.\nThat winter was cruel, as if Father Ask and Mother Embla cursed us with the storm. But the cold didn\'t kill them — it only fed their greed. Galea, their leader, seemed harmless enough. But his brother? A greedy wolf. The first time he stepped into the village, his eyes went straight to our granaries. Already he was thinking of plunder.\nAnd on the night meant for peace, that brute Soranus had his blades and shields ready. At the feast our ancestors prepared, he struck.\nBy dawn, except for a handful of hunters out in the wilds, none were left alive... Galea built Icelake on our ancestors\' graves, and from it rose his Empire. His men enslaved us, lied to us, branded us sinners.\n \nThink about it! Really think about it! The Hymn — every line is about the Solarian. Not once does it name a single Charon. Why? Because they didn\'t know? Or because they never cared?\nThe Silvercandle Carnival? A sham. The Hymn? Lies. They boast, \"On this day we\'re equal; on this day we dance together.\" Liars! That wall between Solarian and Charon? They built it! And Soranus? He wasn\'t a hero or martyr. He was a filthy butcher!\nDon\'t be fooled. Boycott the Silvercandle Carnival!",
           TextMapId = "READ_TEXT_2000067",
         },
         READ_TEXT_2000068 = {
@@ -27603,7 +27603,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_20614",
         },
         READ_TEXT_20615 = {
-          ContentEN = "Do you remember that day we left the city and wandered along the <H>Riva del Lago Lamentoso</>, wading barefoot through the shallows?\n\"Look at that tree with red leaves,\" you said.\n\"They\'re orange,\" I corrected.\n\"I said red,\" you insisted.\n\nI\'d saved up a few pieces of Phoxene — I was going to trade them for a real red-leafed plant, as a gift for you.\nIn the end, I buried them <H>beneath that tree with the orange leaves</>.\n\n...Yes, I still think they\'re orange. I\'m sorry. Leaves don\'t turn red just because you say they are — just like you won\'t come back just because I keep saying you will.\n\nMaybe, when spring comes, the Phoxene will sprout and grow — like the feelings I still carry for you. Or maybe some lucky passerby will dig them up instead.\n\nEither way, I think that would be a good thing. You always said good things are meant to be shared. If this gift I never gave ends up helping someone else... maybe that\'s a kind of happy ending, too.",
+          ContentEN = "Do you remember that day we left the city and wandered along the <H>Riva del Lago dei Lamenti</>, wading barefoot through the shallows?\n\"Look at that tree with red leaves,\" you said.\n\"They\'re orange,\" I corrected.\n\"I said red,\" you insisted.\n\nI\'d saved up a few pieces of Phoxene — I was going to trade them for a real red-leafed plant, as a gift for you.\nIn the end, I buried them <H>beneath that tree with the orange leaves</>.\n\n...Yes, I still think they\'re orange. I\'m sorry. Leaves don\'t turn red just because you say they are — just like you won\'t come back just because I keep saying you will.\n\nMaybe, when spring comes, the Phoxene will sprout and grow — like the feelings I still carry for you. Or maybe some lucky passerby will dig them up instead.\n\nEither way, I think that would be a good thing. You always said good things are meant to be shared. If this gift I never gave ends up helping someone else... maybe that\'s a kind of happy ending, too.",
           TextMapId = "READ_TEXT_20615",
         },
         READ_TEXT_20616 = {
@@ -28187,11 +28187,11 @@ local r0_0 = {
           TextMapId = "RESOURCE_DESC_12067",
         },
         RESOURCE_DESC_12068 = {
-          ContentEN = "Crafted with precision from the blueprint of Blade Amberglow. As the component closest to the wielder, the essence of its design is to ensure optimal \"handiness.\"",
+          ContentEN = "Crafted with precision from the blueprint of Lama Ambrata. As the component closest to the wielder, the essence of its design is to ensure optimal \"handiness.\"",
           TextMapId = "RESOURCE_DESC_12068",
         },
         RESOURCE_DESC_12069 = {
-          ContentEN = "Crafted with precision from the blueprint of Blade Amberglow. Whether the blade is curved or straight, light or heavy, its edge is honed exclusively for battle.",
+          ContentEN = "Crafted with precision from the blueprint of Lama Ambrata. Whether the blade is curved or straight, light or heavy, its edge is honed exclusively for battle.",
           TextMapId = "RESOURCE_DESC_12069",
         },
         RESOURCE_DESC_12070 = {
@@ -28868,7 +28868,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_DESC_3010",
         },
         RESOURCE_DESC_30101 = {
-          ContentEN = "A dye made by blending various raw materials, capable of producing hues akin to those of the waters of Lago Lamentoso.",
+          ContentEN = "A dye made by blending various raw materials, capable of producing hues akin to those of the waters of Lago dei Lamenti.",
           TextMapId = "RESOURCE_DESC_30101",
         },
         RESOURCE_DESC_30102 = {
@@ -30410,11 +30410,11 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_12067",
         },
         RESOURCE_NAME_12068 = {
-          ContentEN = "Blade Amberglow: Grip",
+          ContentEN = "Lama Ambrata: Grip",
           TextMapId = "RESOURCE_NAME_12068",
         },
         RESOURCE_NAME_12069 = {
-          ContentEN = "Blade Amberglow: Blade",
+          ContentEN = "Lama Ambrata: Blade",
           TextMapId = "RESOURCE_NAME_12069",
         },
         RESOURCE_NAME_12070 = {
@@ -31111,7 +31111,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_3010",
         },
         RESOURCE_NAME_30101 = {
-          ContentEN = "Premium Dye: Lago Lamentoso",
+          ContentEN = "Premium Dye: Lago dei Lamenti",
           TextMapId = "RESOURCE_NAME_30101",
         },
         RESOURCE_NAME_30102 = {
@@ -31764,11 +31764,11 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_5023021",
         },
         RESOURCE_NAME_5023030 = {
-          ContentEN = "Lago Lamentoso Trout",
+          ContentEN = "Lago dei Lamenti Trout",
           TextMapId = "RESOURCE_NAME_5023030",
         },
         RESOURCE_NAME_5023031 = {
-          ContentEN = "Lago Lamentoso Trout Variant",
+          ContentEN = "Lago dei Lamenti Trout Variant",
           TextMapId = "RESOURCE_NAME_5023031",
         },
         RESOURCE_NAME_5023040 = {
@@ -32757,7 +32757,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_4020004",
         },
         RESOURCE_TEXT_4020005 = {
-          ContentEN = "\"Troubles to stones, \'plop, plop\' as they go, where they\'re gone from sight, in Lago Lamentoso they\'re beyond.\" \n\n— A folk ballad of Icelake",
+          ContentEN = "\"Troubles to stones, \'plop, plop\' as they go, where they\'re gone from sight, in Lago dei Lamenti they\'re beyond.\" \n\n— A folk ballad of Icelake",
           TextMapId = "RESOURCE_TEXT_4020005",
         },
         RESOURCE_TEXT_5000000 = {
@@ -32913,7 +32913,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_5110300",
         },
         RESOURCE_TEXT_5110400 = {
-          ContentEN = "I remember — it was just past midnight. A Lago Lamentoso Trout had taken the bait. Couldn\'t see a thing, but I knew it had to weigh at least eight kilos. Too bad my rod snapped clean in half through the fight! But hey... that\'s fishing. It\'s not about the catch — it\'s a kind of spiritual practice. A test of patience. The result doesn\'t matter. Honestly, I\'d forgotten all about that night... until you brought it up. Anyway — check out this new rod! Solid as a rock. Unless it\'s the Lake Monster itself, nothing\'s breaking this one. Hehe...\n\n— A teary-eyed veteran angler",
+          ContentEN = "I remember — it was just past midnight. A Lago dei Lamenti Trout had taken the bait. Couldn\'t see a thing, but I knew it had to weigh at least eight kilos. Too bad my rod snapped clean in half through the fight! But hey... that\'s fishing. It\'s not about the catch — it\'s a kind of spiritual practice. A test of patience. The result doesn\'t matter. Honestly, I\'d forgotten all about that night... until you brought it up. Anyway — check out this new rod! Solid as a rock. Unless it\'s the Lake Monster itself, nothing\'s breaking this one. Hehe...\n\n— A teary-eyed veteran angler",
           TextMapId = "RESOURCE_TEXT_5110400",
         },
         RESOURCE_TEXT_5110500 = {
@@ -33534,11 +33534,11 @@ local r0_0 = {
           TextMapId = "RLBlessing_Desc_512",
         },
         RLBlessing_Desc_513 = {
-          ContentEN = "Character ATK +<Highlight>#1</>.",
+          ContentEN = "ATT Personaggio +<Highlight>#1</>.",
           TextMapId = "RLBlessing_Desc_513",
         },
         RLBlessing_Desc_514 = {
-          ContentEN = "ATK Speed +<Highlight>$1</>.",
+          ContentEN = "Velocità ATT +<Highlight>$1</>.",
           TextMapId = "RLBlessing_Desc_514",
         },
         RLBlessing_Desc_515 = {
@@ -40082,15 +40082,15 @@ local r0_0 = {
           TextMapId = "SkinGacha_Warning_Special",
         },
         SkinTrialEvent_Title_Saiqi = {
-          ContentEN = "When Dreams Gild the Night",
+          ContentEN = "Quando i Sogni Indorano la Notte",
           TextMapId = "SkinTrialEvent_Title_Saiqi",
         },
         SkinTrialEvent_Title_Shuimu = {
-          ContentEN = "When Dreams Gild the Night",
+          ContentEN = "Quando i Sogni Indorano la Notte",
           TextMapId = "SkinTrialEvent_Title_Shuimu",
         },
         SkinTrialEvent_Title_Songlu = {
-          ContentEN = "When Dreams Gild the Night",
+          ContentEN = "Quando i Sogni Indorano la Notte",
           TextMapId = "SkinTrialEvent_Title_Songlu",
         },
         Slash = {
@@ -46017,7 +46017,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_4061",
         },
         UI_Achievement_Des_40701 = {
-          ContentEN = "Upgrade Blade Amberglow\'s Smelting Level to Lv. 5",
+          ContentEN = "Upgrade Lama Ambrata\'s Smelting Level to Lv. 5",
           TextMapId = "UI_Achievement_Des_40701",
         },
         UI_Achievement_Des_5001 = {
@@ -48112,7 +48112,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_4060103",
         },
         UI_Achievement_Name_4070101 = {
-          ContentEN = "Turn Stone Into Gold - Blade Amberglow",
+          ContentEN = "Turn Stone Into Gold - Lama Ambrata",
           TextMapId = "UI_Achievement_Name_4070101",
         },
         UI_Achievement_Name_500101 = {
@@ -50955,7 +50955,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_18010404",
         },
         UI_CHAR_DATA_TEXT_18010405 = {
-          ContentEN = "Fina and Outsider together buried her stepfather and his golden cane beneath a pine tree by Lago Lamentoso.\nShe closed her eyes. Once, she had been consumed by deep hatred and fear for the man who had brought so much misfortune into her life. But now, memories of him had melted away like snowflakes caught in her hair, dissolving into distant oblivion.\nHer hair had grown longer, and Outsider had helped to dye her silver locks a beautiful shade of azure, like the waters of Lago Lamentoso or the colour of her eyes. This new appearance allowed her to walk among the crowd without being recognised. The name \"Serafina Glenville\" had been carried away by the winds over Icelake, leaving behind only Fina, Outsider\'s sister. A new chapter of her story was ready to unfold.\n\nOn a clear afternoon, Fina opened a blank notebook, picked up a quill, and carefully wrote down the title of her new story: The Song of the Niveous Nightingale.\nSuddenly, a clattering noise interrupted her thoughts. She set down the pen, intending to ask her brother to be a bit quieter, only to see him approaching with a cardboard box in his hands. \"You might want to go over these,\" Outsider said as he placed the box on the table. \"I forgot to mention — I found this bundle near you in the sewer. Thought it might belong to you.\"\n\"This is...\" Fina gasped as she lifted a small box from the carton. Though caked in mud and dust, the intricate craftsmanship was evident. \"The family heirloom Mommy left to me.\"\n\"Wow, that sounds awesome! Let\'s see what\'s inside — maybe it\'ll turn us into rich folks, so we can buy a bigger house.\" Outsider joked as he wiped away the grime. \"Huh, there\'s a combination lock on it...\"\n\"Wait!\" Fina suddenly remembered her mother\'s warning. \"Don\'t open it! Mommy said it could explode if the wrong password is entered!\"\nShe jumped up, trying to grab the box, but before she could, there was a soft click.\n\"It didn\'t explode,\" Outsider said, puzzled. \"I just tried a random number and it opened. But there\'s nothing much inside, just a piece of paper.\" Realising the potential significance of this thing, he immediately handed the box to Fina. \"Maybe you should read it yourself.\"\n\n—What could it be?\n\"Could it be... a treasure map?\" Fina wondered, tilting her head as she unfolded the paper. Suddenly, she choked up, and her hands began to tremble. Outsider leaned over, only to find a thin letter, with just one line of elegant handwriting:\n<H>My dearest child, may you find your own happiness.</>\n\nFina\'s thoughts drifted back to a night many years ago, when she had been jolted awake by a nightmare. Frantically, she had run downstairs in search of her mother, only to pause outside the bedroom, overhearing a conversation between her mother and stepfather.\n\"Morris, I promised I would give you the treasure in the box someday. But it’s not today — it\'ll be the day when Serafina comes of age,\" her mother said, her voice calm and resolute. \"In exchange, I\'ll need your assurance — you must ensure Serafina grows up safe and well.\"",
+          ContentEN = "Fina and Outsider together buried her stepfather and his golden cane beneath a pine tree by Lago dei Lamenti.\nShe closed her eyes. Once, she had been consumed by deep hatred and fear for the man who had brought so much misfortune into her life. But now, memories of him had melted away like snowflakes caught in her hair, dissolving into distant oblivion.\nHer hair had grown longer, and Outsider had helped to dye her silver locks a beautiful shade of azure, like the waters of Lago dei Lamenti or the colour of her eyes. This new appearance allowed her to walk among the crowd without being recognised. The name \"Serafina Glenville\" had been carried away by the winds over Icelake, leaving behind only Fina, Outsider\'s sister. A new chapter of her story was ready to unfold.\n\nOn a clear afternoon, Fina opened a blank notebook, picked up a quill, and carefully wrote down the title of her new story: The Song of the Niveous Nightingale.\nSuddenly, a clattering noise interrupted her thoughts. She set down the pen, intending to ask her brother to be a bit quieter, only to see him approaching with a cardboard box in his hands. \"You might want to go over these,\" Outsider said as he placed the box on the table. \"I forgot to mention — I found this bundle near you in the sewer. Thought it might belong to you.\"\n\"This is...\" Fina gasped as she lifted a small box from the carton. Though caked in mud and dust, the intricate craftsmanship was evident. \"The family heirloom Mommy left to me.\"\n\"Wow, that sounds awesome! Let\'s see what\'s inside — maybe it\'ll turn us into rich folks, so we can buy a bigger house.\" Outsider joked as he wiped away the grime. \"Huh, there\'s a combination lock on it...\"\n\"Wait!\" Fina suddenly remembered her mother\'s warning. \"Don\'t open it! Mommy said it could explode if the wrong password is entered!\"\nShe jumped up, trying to grab the box, but before she could, there was a soft click.\n\"It didn\'t explode,\" Outsider said, puzzled. \"I just tried a random number and it opened. But there\'s nothing much inside, just a piece of paper.\" Realising the potential significance of this thing, he immediately handed the box to Fina. \"Maybe you should read it yourself.\"\n\n—What could it be?\n\"Could it be... a treasure map?\" Fina wondered, tilting her head as she unfolded the paper. Suddenly, she choked up, and her hands began to tremble. Outsider leaned over, only to find a thin letter, with just one line of elegant handwriting:\n<H>My dearest child, may you find your own happiness.</>\n\nFina\'s thoughts drifted back to a night many years ago, when she had been jolted awake by a nightmare. Frantically, she had run downstairs in search of her mother, only to pause outside the bedroom, overhearing a conversation between her mother and stepfather.\n\"Morris, I promised I would give you the treasure in the box someday. But it’s not today — it\'ll be the day when Serafina comes of age,\" her mother said, her voice calm and resolute. \"In exchange, I\'ll need your assurance — you must ensure Serafina grows up safe and well.\"",
           TextMapId = "UI_CHAR_DATA_TEXT_18010405",
         },
         UI_CHAR_DATA_TEXT_21010101 = {
@@ -51913,7 +51913,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_53010204",
         },
         UI_CHAR_DATA_TEXT_53010205 = {
-          ContentEN = "The girl with the radiant smile was now nothing more than a cold, lifeless entry in an official report.\n\"...Large Filthoid, female. Believed to be a former Deteriorator. Specific identity still under investigation... Neutralised on the night of November 21st in the Lago Lamentoso area. No casualties reported.\"",
+          ContentEN = "The girl with the radiant smile was now nothing more than a cold, lifeless entry in an official report.\n\"...Large Filthoid, female. Believed to be a former Deteriorator. Specific identity still under investigation... Neutralised on the night of November 21st in the Lago dei Lamenti area. No casualties reported.\"",
           TextMapId = "UI_CHAR_DATA_TEXT_53010205",
         },
         UI_CHAR_DATA_TEXT_53010301 = {
@@ -59070,7 +59070,7 @@ local r0_0 = {
       -- line: [63696, 64499] id: 74
       return {
         UI_Login_Waiting = {
-          ContentEN = "The game server is currently full and you have been placed in the login queue. Please wait patiently or try again later.",
+          ContentEN = "Il server di gioco è attualmente pieno e sei stato inserito nella coda di accesso. Attendi pazientemente o riprova più tardi.",
           TextMapId = "UI_Login_Waiting",
         },
         UI_MECHANISM_100 = {
@@ -59142,7 +59142,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_10421",
         },
         UI_MECHANISM_10422 = {
-          ContentEN = "Clock",
+          ContentEN = "Orologio",
           TextMapId = "UI_MECHANISM_10422",
         },
         UI_MECHANISM_10423 = {
@@ -59150,7 +59150,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_10423",
         },
         UI_MECHANISM_10424 = {
-          ContentEN = "Monument",
+          ContentEN = "Monumento",
           TextMapId = "UI_MECHANISM_10424",
         },
         UI_MECHANISM_10425 = {
@@ -59462,7 +59462,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_LEAVE_OUTSIDERHOME",
         },
         UI_MECHANISM_LEAVE_SANATORIUM = {
-          ContentEN = "Leave the Hypnos\' House",
+          ContentEN = "Lascia la casa di Hypnos",
           TextMapId = "UI_MECHANISM_LEAVE_SANATORIUM",
         },
         UI_MECHANISM_LEAVE_SEW = {
@@ -60603,7 +60603,7 @@ local r0_0 = {
           TextMapId = "UI_Name_Walnut_151962",
         },
         UI_Name_Walnut_2001 = {
-          ContentEN = "Secret Letter: Blade Amberglow",
+          ContentEN = "Secret Letter: Lama Ambrata",
           TextMapId = "UI_Name_Walnut_2001",
         },
         UI_Name_Walnut_2002 = {
@@ -65293,7 +65293,7 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_NAME_101102",
         },
         UI_SUBREGION_NAME_101103 = {
-          ContentEN = "Riva del Lago Lamentoso",
+          ContentEN = "Riva del Lago dei Lamenti",
           TextMapId = "UI_SUBREGION_NAME_101103",
         },
         UI_SUBREGION_NAME_101104 = {
@@ -66451,7 +66451,7 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_NAME_101102_3",
         },
         UI_TELEPORTPOINT_NAME_101103_1 = {
-          ContentEN = "Riva del Lago Lamentoso",
+          ContentEN = "Riva del Lago dei Lamenti",
           TextMapId = "UI_TELEPORTPOINT_NAME_101103_1",
         },
         UI_TELEPORTPOINT_NAME_101103_2 = {
@@ -68069,7 +68069,7 @@ local r0_0 = {
           TextMapId = "UI_WEAPON_DESC_530101",
         },
         UI_WEAPON_NAME_10101 = {
-          ContentEN = "Blade Amberglow",
+          ContentEN = "Lama Ambrata",
           TextMapId = "UI_WEAPON_NAME_10101",
         },
         UI_WEAPON_NAME_10102 = {
@@ -69879,7 +69879,7 @@ local r0_0 = {
           TextMapId = "WikiText_20102101",
         },
         WikiText_20102102 = {
-          ContentEN = "As imperial records attest, in the turbulent years following the Night of Lago Lamentoso, Dis Ⅰ led the Solarian in rising against the Charon\'s atrocities. Yet in the wake of securing victory, he chose not vengeance, but forgiveness — and so began the great era known as the Silver Peace.",
+          ContentEN = "As imperial records attest, in the turbulent years following the Night of Lago dei Lamenti, Dis Ⅰ led the Solarian in rising against the Charon\'s atrocities. Yet in the wake of securing victory, he chose not vengeance, but forgiveness — and so began the great era known as the Silver Peace.",
           TextMapId = "WikiText_20102102",
         },
         WikiText_20102201 = {
@@ -70047,7 +70047,7 @@ local r0_0 = {
           TextMapId = "WikiText_40100101",
         },
         WikiText_40100201 = {
-          ContentEN = "One of the most pivotal events in early Hyperborean history.\nAccording to official imperial records, near the end of the Great Migration a millennium ago, a band of migrants led by Dis Galea — later crowned as Dis Ⅰ — pressed northward into the southern tundras of the Vidofnir Mountains, now part of the Cocytus Region. There, they clashed intermittently with the local Charon tribes. Seeking peace, the magnanimous Dis Galea brokered an accord with the Charon tribes: a celebration would be held beside Lago Lamentoso to mark the dawn of peace. But the gathering became a blood-soaked snare. Feigning goodwill, the Charon launched a massacre that very night. Nearly all the Solarian were slain. Only Dis escaped — shielded by the final sacrifice of his brother, Soranus Galea.\nIn the wake of the \"Night of Lago Lamentoso,\" Dis buried Soranus with a heavy heart and withdrew to the southern Hyperborean plains. Over the next decade, he rebuilt his forces. With overwhelming numbers and honed tactics, he repelled the raiding Charon and led countless triumphs against the mighty Deteriorators. Through fire, blood, and tears, he unified the plains — and then turned north once more. Dis marched again upon Lago Lamentoso, crushed the tribes that had betrayed him, and raised the fortress of Icelake Keep upon its shores — the precursor to what would later become the city of Icelake. There, in the year 20 of the New Calendar, he was crowned Dis Ⅰ, and the Hyperborean Empire was born.\nYet as he stood before his sworn enemies, Dis Ⅰ chose neither vengeance nor retribution. He chose peace — and forgiveness. Through the Edict of Icelake Keep, he proclaimed the Charon to be children of Hyperborea all the same, and bound them beneath the Empire\'s banner.\nTo honour the peacemaker who founded their homeland, the citizens of Icelake gather each year on the day of the Edict\'s decree to celebrate the Silvercandle Carnival — a festival of peace and unity.",
+          ContentEN = "One of the most pivotal events in early Hyperborean history.\nAccording to official imperial records, near the end of the Great Migration a millennium ago, a band of migrants led by Dis Galea — later crowned as Dis Ⅰ — pressed northward into the southern tundras of the Vidofnir Mountains, now part of the Cocytus Region. There, they clashed intermittently with the local Charon tribes. Seeking peace, the magnanimous Dis Galea brokered an accord with the Charon tribes: a celebration would be held beside Lago dei Lamenti to mark the dawn of peace. But the gathering became a blood-soaked snare. Feigning goodwill, the Charon launched a massacre that very night. Nearly all the Solarian were slain. Only Dis escaped — shielded by the final sacrifice of his brother, Soranus Galea.\nIn the wake of the \"Night of Lago dei Lamenti,\" Dis buried Soranus with a heavy heart and withdrew to the southern Hyperborean plains. Over the next decade, he rebuilt his forces. With overwhelming numbers and honed tactics, he repelled the raiding Charon and led countless triumphs against the mighty Deteriorators. Through fire, blood, and tears, he unified the plains — and then turned north once more. Dis marched again upon Lago dei Lamenti, crushed the tribes that had betrayed him, and raised the fortress of Icelake Keep upon its shores — the precursor to what would later become the city of Icelake. There, in the year 20 of the New Calendar, he was crowned Dis Ⅰ, and the Hyperborean Empire was born.\nYet as he stood before his sworn enemies, Dis Ⅰ chose neither vengeance nor retribution. He chose peace — and forgiveness. Through the Edict of Icelake Keep, he proclaimed the Charon to be children of Hyperborea all the same, and bound them beneath the Empire\'s banner.\nTo honour the peacemaker who founded their homeland, the citizens of Icelake gather each year on the day of the Edict\'s decree to celebrate the Silvercandle Carnival — a festival of peace and unity.",
           TextMapId = "WikiText_40100201",
         },
         WikiText_40200101 = {
@@ -70187,7 +70187,7 @@ local r0_0 = {
           TextMapId = "WikiText_40800201",
         },
         WikiText_40800301 = {
-          ContentEN = "The largest city in northern Hyperborea. Situated south of the Vidofnir Mountains, it falls under the jurisdiction of Cocytus Province. The city takes its name from the nearby Lago Lamentoso, which remains frozen for most of the year due to the harsh climate. Only during the three-month-long \"Thawing Season\" does the ice begin to melt.\n\nFounded during the Great Migration by Dis I, the Empire\'s first sovereign, Icelake was among the earliest cities established in Hyperborea. For centuries, it served as a fortress city guarding the Empire\'s northern border.",
+          ContentEN = "The largest city in northern Hyperborea. Situated south of the Vidofnir Mountains, it falls under the jurisdiction of Cocytus Province. The city takes its name from the nearby Lago dei Lamenti, which remains frozen for most of the year due to the harsh climate. Only during the three-month-long \"Thawing Season\" does the ice begin to melt.\n\nFounded during the Great Migration by Dis I, the Empire\'s first sovereign, Icelake was among the earliest cities established in Hyperborea. For centuries, it served as a fortress city guarding the Empire\'s northern border.",
           TextMapId = "WikiText_40800301",
         },
         WikiText_40800302 = {

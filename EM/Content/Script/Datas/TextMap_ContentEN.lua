@@ -481,7 +481,7 @@ local r0_0 = {
           TextMapId = "Access_Collecting_Icelake04",
         },
         Access_Collecting_Kuangkeng = {
-          ContentEN = "Trovato in Glevum Pit",
+          ContentEN = "Trovato in Fossa di Glevum",
           TextMapId = "Access_Collecting_Kuangkeng",
         },
         Access_Collecting_Prologue01 = {
@@ -2816,7 +2816,7 @@ local r0_0 = {
           TextMapId = "Content_110113_4",
         },
         Content_120001_1 = {
-          ContentEN = "With the Charon Hunt case closed, peace has returned. The only thing left is to await word of the \"high-value prisoner\" in twenty days\' time.\nWhy not use the lull to stop by The Asphodel and check for any new commissions?",
+          ContentEN = "With the Charon Hunt case closed, peace has returned. The only thing left is to await word of the \"high-value prisoner\" in twenty days\' time.\nWhy not use the lull to stop by L'Asphodel and check for any new commissions?",
           TextMapId = "Content_120001_1",
         },
         Content_120001_2 = {
@@ -2860,7 +2860,7 @@ local r0_0 = {
           TextMapId = "Content_120002_7",
         },
         Content_120002_8 = {
-          ContentEN = "You\'re about to part ways with Zhiliu outside the theatre — only to learn she\'s heading to The Asphodel too.\nSince you\'re both going, you might as well guide her there.",
+          ContentEN = "You\'re about to part ways with Zhiliu outside the theatre — only to learn she\'s heading to L'Asphodel too.\nSince you\'re both going, you might as well guide her there.",
           TextMapId = "Content_120002_8",
         },
         Content_120002_9 = {
@@ -2868,7 +2868,7 @@ local r0_0 = {
           TextMapId = "Content_120002_9",
         },
         Content_120003_1 = {
-          ContentEN = "A new day begins.\nAs usual, head to The Asphodel and see what\'s stirring.",
+          ContentEN = "A new day begins.\nAs usual, head to L'Asphodel and see what\'s stirring.",
           TextMapId = "Content_120003_1",
         },
         Content_120003_2 = {
@@ -3469,7 +3469,7 @@ local r0_0 = {
           TextMapId = "Content_200103_5",
         },
         Content_200104_1 = {
-          ContentEN = "Word of a giant pig\'s reached The Asphodel too... Could Truffle still be around?\nBetter ask Camilla what\'s going on.",
+          ContentEN = "Word of a giant pig\'s reached L'Asphodel too... Could Truffle still be around?\nBetter ask Camilla what\'s going on.",
           TextMapId = "Content_200104_1",
         },
         Content_200104_3 = {
@@ -3585,7 +3585,7 @@ local r0_0 = {
           TextMapId = "Content_200203_6",
         },
         Content_200204_1 = {
-          ContentEN = "You have received an invitation from Wells. He wants you to meet him at the The Asphodel.",
+          ContentEN = "You have received an invitation from Wells. He wants you to meet him at the L'Asphodel.",
           TextMapId = "Content_200204_1",
         },
         Content_200204_2 = {
@@ -3653,11 +3653,11 @@ local r0_0 = {
           TextMapId = "Content_20020606_5",
         },
         Content_200206_1 = {
-          ContentEN = "As usual, head to The Asphodel to see if there are new commissions to take on. FYI, the tavern seems unusually \"lively\" today.",
+          ContentEN = "As usual, head to L'Asphodel to see if there are new commissions to take on. FYI, the tavern seems unusually \"lively\" today.",
           TextMapId = "Content_200206_1",
         },
         Content_200206_2 = {
-          ContentEN = "A spirited customer is standing on a table at The Asphodel, spouting incomprehensible words — but interestingly, he doesn\'t smell of alcohol.\nHave a chat with Camilla and learn more about this customer.",
+          ContentEN = "A spirited customer is standing on a table at L'Asphodel, spouting incomprehensible words — but interestingly, he doesn\'t smell of alcohol.\nHave a chat with Camilla and learn more about this customer.",
           TextMapId = "Content_200206_2",
         },
         Content_200206_3 = {
@@ -3681,7 +3681,7 @@ local r0_0 = {
           TextMapId = "Content_200206_7",
         },
         Content_200206_8 = {
-          ContentEN = "You\'ve learned why Arnaud sneaked into Mr Buck\'s home at midnight, but only Mr Buck has the right to decide what to do about it.\nReturn to The Asphodel with Arnaud and your findings.",
+          ContentEN = "You\'ve learned why Arnaud sneaked into Mr Buck\'s home at midnight, but only Mr Buck has the right to decide what to do about it.\nReturn to L'Asphodel with Arnaud and your findings.",
           TextMapId = "Content_200206_8",
         },
         Content_200206_9 = {
@@ -3705,7 +3705,7 @@ local r0_0 = {
           TextMapId = "Content_200207_4",
         },
         Content_200207_5 = {
-          ContentEN = "Belinda noted that you\'ve recently lost someone dear and hinted at an eventual reunion.\nShe wishes to craft a gift for you — but she\'ll need an iron wire that bears your presence. Search Glevum Pit to find a suitable piece.",
+          ContentEN = "Belinda noted that you\'ve recently lost someone dear and hinted at an eventual reunion.\nShe wishes to craft a gift for you — but she\'ll need an iron wire that bears your presence. Search Fossa di Glevum to find a suitable piece.",
           TextMapId = "Content_200207_5",
         },
         Content_200207_6 = {
@@ -3713,7 +3713,7 @@ local r0_0 = {
           TextMapId = "Content_200207_6",
         },
         Content_200207_7 = {
-          ContentEN = "Just as you found the wire Belinda asked for in Glevum Pit, Lulu Lunoloot popped out of nowhere and snatched it right out from under your nose. You still don\'t know why a psychic would need a piece of wire bearing your presence... but that doesn\'t mean you\'re going to let a petty thief walk away with it.\nGo after Lulu Lunoloot — and teach her a lesson she won\'t forget.",
+          ContentEN = "Just as you found the wire Belinda asked for in Fossa di Glevum, Lulu Lunoloot popped out of nowhere and snatched it right out from under your nose. You still don\'t know why a psychic would need a piece of wire bearing your presence... but that doesn\'t mean you\'re going to let a petty thief walk away with it.\nGo after Lulu Lunoloot — and teach her a lesson she won\'t forget.",
           TextMapId = "Content_200207_7",
         },
         Content_200208_1 = {
@@ -3897,7 +3897,7 @@ local r0_0 = {
           TextMapId = "Content_200216_4",
         },
         Content_200217_1 = {
-          ContentEN = "Dean, a liquor vendor outside The Asphodel, seems to have some complaints about Camilla. Find out what\'s going on.",
+          ContentEN = "Dean, a liquor vendor outside L'Asphodel, seems to have some complaints about Camilla. Find out what\'s going on.",
           TextMapId = "Content_200217_1",
         },
         Content_200218_1 = {
@@ -3925,7 +3925,7 @@ local r0_0 = {
           TextMapId = "Content_200219_5",
         },
         Content_200220_1 = {
-          ContentEN = "As a dedicated Phoxhunter, you make it a point not to miss any interesting commissions. Head to The Asphodel and pick up some new gigs.",
+          ContentEN = "As a dedicated Phoxhunter, you make it a point not to miss any interesting commissions. Head to L'Asphodel and pick up some new gigs.",
           TextMapId = "Content_200220_1",
         },
         Content_200220_2 = {
@@ -3961,7 +3961,7 @@ local r0_0 = {
           TextMapId = "Content_200220_9",
         },
         Content_200221_1 = {
-          ContentEN = "Near the request board at The Asphodel, a young scholar murmurs to herself, looking rather unsettled. Perhaps it\'s worth seeing if she could use a hand.",
+          ContentEN = "Near the request board at L'Asphodel, a young scholar murmurs to herself, looking rather unsettled. Perhaps it\'s worth seeing if she could use a hand.",
           TextMapId = "Content_200221_1",
         },
         Content_200221_2 = {
@@ -3977,7 +3977,7 @@ local r0_0 = {
           TextMapId = "Content_200221_4",
         },
         Content_200221_5 = {
-          ContentEN = "There\'s never a shortage of those in need — and kindness has a way of finding its way back.\nHead to The Asphodel and see who might need a helping hand. The young woman standing off to the side — Miss Shirley — seems especially anxious.",
+          ContentEN = "There\'s never a shortage of those in need — and kindness has a way of finding its way back.\nHead to L'Asphodel and see who might need a helping hand. The young woman standing off to the side — Miss Shirley — seems especially anxious.",
           TextMapId = "Content_200221_5",
         },
         Content_200222_1 = {
@@ -4106,7 +4106,7 @@ local r0_0 = {
           TextMapId = "Content_200231_2",
         },
         Content_200231_3 = {
-          ContentEN = "Donat isn\'t home. Lars remembers him mentioning a return to Glevum Pit — head there and search for him.",
+          ContentEN = "Donat isn\'t home. Lars remembers him mentioning a return to Fossa di Glevum — head there and search for him.",
           TextMapId = "Content_200231_3",
         },
         Content_200231_4 = {
@@ -4134,7 +4134,7 @@ local r0_0 = {
           TextMapId = "Content_200232_3",
         },
         Content_200232_4 = {
-          ContentEN = "You\'ve gathered the herbs she required. Take them to The Asphodel and ask Camilla about Giselle.",
+          ContentEN = "You\'ve gathered the herbs she required. Take them to L'Asphodel and ask Camilla about Giselle.",
           TextMapId = "Content_200232_4",
         },
         Content_200232_5 = {
@@ -6436,7 +6436,7 @@ local r0_0 = {
           TextMapId = "Description_120002_8",
         },
         Description_120002_9 = {
-          ContentEN = "Return to The Asphodel",
+          ContentEN = "Ritorna a L'Asphodel",
           TextMapId = "Description_120002_9",
         },
         Description_120003_1 = {
@@ -7121,7 +7121,7 @@ local r0_0 = {
           TextMapId = "Description_200104_7",
         },
         Description_200104_8 = {
-          ContentEN = "Return to The Asphodel and see if Camilla has a plan",
+          ContentEN = "Return to L'Asphodel and see if Camilla has a plan",
           TextMapId = "Description_200104_8",
         },
         Description_200104_9 = {
@@ -7137,7 +7137,7 @@ local r0_0 = {
           TextMapId = "Description_200201_2",
         },
         Description_200201_3 = {
-          ContentEN = "Head to Glevum Pit",
+          ContentEN = "Head to Fossa di Glevum",
           TextMapId = "Description_200201_3",
         },
         Description_200201_4 = {
@@ -7205,7 +7205,7 @@ local r0_0 = {
           TextMapId = "Description_200203_5",
         },
         Description_200204_1 = {
-          ContentEN = "Meet Wells at The Asphodel",
+          ContentEN = "Meet Wells at L'Asphodel",
           TextMapId = "Description_200204_1",
         },
         Description_200204_2 = {
@@ -7358,7 +7358,7 @@ local r0_0 = {
           TextMapId = "Description_200207_4",
         },
         Description_200207_5 = {
-          ContentEN = "Search Glevum Pit for wire",
+          ContentEN = "Search Fossa di Glevum for wire",
           TextMapId = "Description_200207_5",
         },
         Description_200207_6 = {
@@ -7606,11 +7606,11 @@ local r0_0 = {
           TextMapId = "Description_200220_2",
         },
         Description_200220_3 = {
-          ContentEN = "Leave The Asphodel",
+          ContentEN = "Lascia L'Asphodel",
           TextMapId = "Description_200220_3",
         },
         Description_200220_4 = {
-          ContentEN = "Leave The Asphodel and speak with Lunoxplorer",
+          ContentEN = "Leave L'Asphodel and speak with Lunoxplorer",
           TextMapId = "Description_200220_4",
         },
         Description_200220_5 = {
@@ -7782,7 +7782,7 @@ local r0_0 = {
           TextMapId = "Description_200231_2",
         },
         Description_200231_3 = {
-          ContentEN = "Go to Glevum Pit to look for Donat",
+          ContentEN = "Go to Fossa di Glevum to look for Donat",
           TextMapId = "Description_200231_3",
         },
         Description_200231_4 = {
@@ -8719,7 +8719,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_301003",
         },
         EntryTitle_301004 = {
-          ContentEN = "Crystallo of Stella",
+          ContentEN = "Crystallo di Stella",
           TextMapId = "EntryTitle_301004",
         },
         EntryTitle_301005 = {
@@ -8811,7 +8811,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_405002",
         },
         EntryTitle_405003 = {
-          ContentEN = "The Asphodel",
+          ContentEN = "L'Asphodel",
           TextMapId = "EntryTitle_405003",
         },
         EntryTitle_405004 = {
@@ -9212,7 +9212,7 @@ local r0_0 = {
           TextMapId = "Event_Des_103004",
         },
         Event_Des_103005 = {
-          ContentEN = "The merchant Zhiliu from Huaxu, whom you crossed paths with before, has settled briefly in The Asphodel. As a proven Phoxhunter, you\'ve been recommended to help her get ready. Gather what she needs and earn generous rewards.",
+          ContentEN = "The merchant Zhiliu from Huaxu, whom you crossed paths with before, has settled briefly in L'Asphodel. As a proven Phoxhunter, you\'ve been recommended to help her get ready. Gather what she needs and earn generous rewards.",
           TextMapId = "Event_Des_103005",
         },
         Event_Des_103006 = {
@@ -10878,7 +10878,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1004005",
         },
         HomePianoAcc_1004006 = {
-          ContentEN = "Source: Explore The Asphodel",
+          ContentEN = "Source: Explore L'Asphodel",
           TextMapId = "HomePianoAcc_1004006",
         },
         HomePianoAcc_1004007 = {
@@ -10890,7 +10890,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1004008",
         },
         HomePianoAcc_1005001 = {
-          ContentEN = "Source: Explore the depths of Glevum Pit",
+          ContentEN = "Source: Explore the depths of Fossa di Glevum",
           TextMapId = "HomePianoAcc_1005001",
         },
         HomePianoAcc_1005002 = {
@@ -11351,7 +11351,7 @@ local r0_0 = {
           TextMapId = "HomePianoNAme_1004005",
         },
         HomePianoNAme_1004006 = {
-          ContentEN = "The Asphodel",
+          ContentEN = "L'Asphodel",
           TextMapId = "HomePianoNAme_1004006",
         },
         HomePianoNAme_1004007 = {
@@ -12636,7 +12636,7 @@ local r0_0 = {
           TextMapId = "MESSAGE_LOADING_34_PC",
         },
         MESSAGE_LOADING_35_PC = {
-          ContentEN = "The Asphodel\'s specific quests for Phoxhunters. These commissions typically offer handsome rewards. Complete them to enhance team combat power.",
+          ContentEN = "L'Asphodel\'s specific quests for Phoxhunters. These commissions typically offer handsome rewards. Complete them to enhance team combat power.",
           TextMapId = "MESSAGE_LOADING_35_PC",
         },
         MESSAGE_LOADING_36_PC = {
@@ -17726,7 +17726,7 @@ local r0_0 = {
           TextMapId = "Mon_DesDetail_8502001",
         },
         Mon_DesDetail_8503001 = {
-          ContentEN = "A colossal Filthoid lurking in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "A colossal Filthoid lurking in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "Mon_DesDetail_8503001",
         },
         Mon_DesDetail_8505001 = {
@@ -20794,7 +20794,7 @@ local r0_0 = {
           TextMapId = "Name_100202",
         },
         Name_100203 = {
-          ContentEN = "Crystallo of Stella",
+          ContentEN = "Crystallo di Stella",
           TextMapId = "Name_100203",
         },
         Name_100204 = {
@@ -21215,7 +21215,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Dadun",
         },
         NpcBiography_Information_Dien = {
-          ContentEN = "Dean, a master in the art of the perfect amount of adulteration — how to lace fermented drinks without sending patrons to casualty was his family\'s craft. This trick of the trade had him in cahoots with every tavern owner in town, without exception — until he met Camilla.\n\nMoney wasn\'t the issue for Dean, yet The Asphodel was the missing piece in his empire of adulteration, a niggling gap he was hell-bent on closing. After all, not just the tavern owners, but all boozers in Icelake were hooked on his cut-price tipple. Just a bit of discomfort for half the cost – why not?\n\nThe vendors are happy, the customers are happy, and Dean\'s happy — a clear-cut case of a triple win. So why on earth wouldn\'t Camilla come on board?!\n\nThat\'s a riddle Dean might never fathom.",
+          ContentEN = "Dean, a master in the art of the perfect amount of adulteration — how to lace fermented drinks without sending patrons to casualty was his family\'s craft. This trick of the trade had him in cahoots with every tavern owner in town, without exception — until he met Camilla.\n\nMoney wasn\'t the issue for Dean, yet L'Asphodel was the missing piece in his empire of adulteration, a niggling gap he was hell-bent on closing. After all, not just the tavern owners, but all boozers in Icelake were hooked on his cut-price tipple. Just a bit of discomfort for half the cost – why not?\n\nThe vendors are happy, the customers are happy, and Dean\'s happy — a clear-cut case of a triple win. So why on earth wouldn\'t Camilla come on board?!\n\nThat\'s a riddle Dean might never fathom.",
           TextMapId = "NpcBiography_Information_Dien",
         },
         NpcBiography_Information_Donat = {
@@ -21267,7 +21267,7 @@ local r0_0 = {
           TextMapId = "NpcBiography_Information_Laina",
         },
         NpcBiography_Information_Lali = {
-          ContentEN = "Once a model worker in Glevum Pit, Larry\'s life unravelled when the Phoxene veins ran dry, leaving him jobless.\nStruggling to survive, he tried his hand at various ventures like other unemployed miners in Icelake, from small businesses to aquaculture and farming, only to end up bankrupt. Driven to despair, he and his miner buddies picked up their pickaxes one last time, spending their final coins on a few loaves of coarse rye bread before vanishing into the depths of the now-abandoned pit.\nA few weeks ago, Larry reemerged alone in Icelake, lugging a heavy sack of Phoxene. His friends, however, remained forever lost in the dark recesses of the pit.",
+          ContentEN = "Once a model worker in Fossa di Glevum, Larry\'s life unravelled when the Phoxene veins ran dry, leaving him jobless.\nStruggling to survive, he tried his hand at various ventures like other unemployed miners in Icelake, from small businesses to aquaculture and farming, only to end up bankrupt. Driven to despair, he and his miner buddies picked up their pickaxes one last time, spending their final coins on a few loaves of coarse rye bread before vanishing into the depths of the now-abandoned pit.\nA few weeks ago, Larry reemerged alone in Icelake, lugging a heavy sack of Phoxene. His friends, however, remained forever lost in the dark recesses of the pit.",
           TextMapId = "NpcBiography_Information_Lali",
         },
         NpcBiography_Information_Lars = {
@@ -23634,7 +23634,7 @@ local r0_0 = {
           TextMapId = "PermanenEventReward",
         },
         Pet_Affix = {
-          ContentEN = "Trait",
+          ContentEN = "Tratto",
           TextMapId = "Pet_Affix",
         },
         Pet_AffixSlot_LockToast = {
@@ -24759,19 +24759,19 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020111",
         },
         QuestDesc_10020112 = {
-          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"The Asphodel\", a tavern run by Camilla, offers a way to earn cash through commissions without requiring travel permits.",
+          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"L'Asphodel\", a tavern run by Camilla, offers a way to earn cash through commissions without requiring travel permits.",
           TextMapId = "QuestDesc_10020112",
         },
         QuestDesc_10020201 = {
-          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"The Asphodel\", a tavern run by Camilla, offers a way to earn cash through tasks without requiring travel permits.",
+          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"L'Asphodel\", a tavern run by Camilla, offers a way to earn cash through tasks without requiring travel permits.",
           TextMapId = "QuestDesc_10020201",
         },
         QuestDesc_10020202 = {
-          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"The Asphodel\", a tavern run by Camilla, offers a way to earn cash through tasks without requiring travel permits.",
+          ContentEN = "Before embarking on your quest to find Berenica, you need to gather some funds and secure a travel permit.\nPsyche reveals that \"L'Asphodel\", a tavern run by Camilla, offers a way to earn cash through tasks without requiring travel permits.",
           TextMapId = "QuestDesc_10020202",
         },
         QuestDesc_10020203 = {
-          ContentEN = "In the square, you witnessed an atrocity — such is the norm for the \"Charons\" with unique horns and spines.\nTo avoid embroiling Ms Camilla, who vouched for you, in trouble, you held your peace.\nContinue to \"The Asphodel\".",
+          ContentEN = "In the square, you witnessed an atrocity — such is the norm for the \"Charons\" with unique horns and spines.\nTo avoid embroiling Ms Camilla, who vouched for you, in trouble, you held your peace.\nContinue to \"L'Asphodel\".",
           TextMapId = "QuestDesc_10020203",
         },
         QuestDesc_10020204 = {
@@ -24787,7 +24787,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020206",
         },
         QuestDesc_10020207 = {
-          ContentEN = "A scavenger girl named Margie had her money bag stolen.\nAfter leaving The Asphodel, try asking around the square to see if anyone has spotted the thief.",
+          ContentEN = "A scavenger girl named Margie had her money bag stolen.\nAfter leaving L'Asphodel, try asking around the square to see if anyone has spotted the thief.",
           TextMapId = "QuestDesc_10020207",
         },
         QuestDesc_10020208 = {
@@ -24827,11 +24827,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020215",
         },
         QuestDesc_10020221 = {
-          ContentEN = "You\'ve completed Margie\'s request. Head back to The Asphodel for your reward.",
+          ContentEN = "You\'ve completed Margie\'s request. Head back to L'Asphodel for your reward.",
           TextMapId = "QuestDesc_10020221",
         },
         QuestDesc_10020222 = {
-          ContentEN = "All Commissions for Phoxhunters are on the bulletin board in The Asphodel. Go check it out.",
+          ContentEN = "All Commissions for Phoxhunters are on the bulletin board in L'Asphodel. Go check it out.",
           TextMapId = "QuestDesc_10020222",
         },
         QuestDesc_10020223 = {
@@ -24843,55 +24843,55 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020224",
         },
         QuestDesc_10020301 = {
-          ContentEN = "Henrik, owner of the Hypnos\' House, has placed a lucrative bounty for Phoxhunters to retrieve Crystallo of Stella from Glevum Pit.\nThe bounty perfectly covers your travel expenses to the south, so you decide to take a chance...",
+          ContentEN = "Henrik, owner of the Hypnos\' House, has placed a lucrative bounty for Phoxhunters to retrieve Crystallo di Stella from Fossa di Glevum.\nThe bounty perfectly covers your travel expenses to the south, so you decide to take a chance...",
           TextMapId = "QuestDesc_10020301",
         },
         QuestDesc_10020302 = {
-          ContentEN = "Psyche decides to join our journey to show us the way to Glevum Pit.\nSet out with Psyche for Glevum Pit.",
+          ContentEN = "Psyche decides to join our journey to show us the way to Fossa di Glevum.\nSet out with Psyche for Fossa di Glevum.",
           TextMapId = "QuestDesc_10020302",
         },
         QuestDesc_10020303 = {
-          ContentEN = "Psyche seems to have made up her mind — she\'s coming with you on this little \"adventure.\"\nMake your way to Glevum Pit together.",
+          ContentEN = "Psyche seems to have made up her mind — she\'s coming with you on this little \"adventure.\"\nMake your way to Fossa di Glevum together.",
           TextMapId = "QuestDesc_10020303",
         },
         QuestDesc_10020304 = {
-          ContentEN = "Glevum Pit\'s gates have long been closed.\nSearch for an alternate passage.",
+          ContentEN = "Fossa di Glevum\'s gates have long been closed.\nSearch for an alternate passage.",
           TextMapId = "QuestDesc_10020304",
         },
         QuestDesc_10020305 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo of Stella sought by Henrik.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
           TextMapId = "QuestDesc_10020305",
         },
         QuestDesc_10020306 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo of Stella sought by Henrik.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
           TextMapId = "QuestDesc_10020306",
         },
         QuestDesc_10020307 = {
-          ContentEN = "You\'ve made it inside Glevum Pit, but a sealed gate blocks the path ahead.\nSearch the nearby area — there might be a way to open it.\n\n...\nA Phoxhunter once mentioned tunnel lamps and signposts in their journal.\nIf you have time to spare, consider restoring them — they might light the way for those who come after you.",
+          ContentEN = "You\'ve made it inside Fossa di Glevum, but a sealed gate blocks the path ahead.\nSearch the nearby area — there might be a way to open it.\n\n...\nA Phoxhunter once mentioned tunnel lamps and signposts in their journal.\nIf you have time to spare, consider restoring them — they might light the way for those who come after you.",
           TextMapId = "QuestDesc_10020307",
         },
         QuestDesc_10020308 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nThere are Filthoids standing in the way. Defeat them and move forward.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nThere are Filthoids standing in the way. Defeat them and move forward.",
           TextMapId = "QuestDesc_10020308",
         },
         QuestDesc_10020309 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nOperate the device to open the door, and explore the depths of this forsaken mine to find the Crystallo of Stella sought by Henrik.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nOperate the device to open the door, and explore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
           TextMapId = "QuestDesc_10020309",
         },
         QuestDesc_10020310 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo of Stella sought by Henrik.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve entered the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots persist after years of exploitation, echoing a bygone era of abundance.\nExplore the depths of this forsaken mine to find the Crystallo di Stella sought by Henrik.",
           TextMapId = "QuestDesc_10020310",
         },
         QuestDesc_10020311 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve reached the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots now persist after years of exploitation — echoes of a bygone era of abundance. Yet the loose rocks and sharp, jagged crystal spikes scattered throughout hint at dangers ahead.\nExplore the forsaken mine to find the Crystallo of Stella that Henrik seeks.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve reached the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots now persist after years of exploitation — echoes of a bygone era of abundance. Yet the loose rocks and sharp, jagged crystal spikes scattered throughout hint at dangers ahead.\nExplore the forsaken mine to find the Crystallo di Stella that Henrik seeks.",
           TextMapId = "QuestDesc_10020311",
         },
         QuestDesc_10020312 = {
-          ContentEN = "Traversing the deserted tunnels, you\'ve reached the depths of Glevum Pit.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots now persist after years of exploitation — echoes of a bygone era of abundance. Yet the loose rocks and sharp, jagged crystal spikes scattered throughout hint at dangers ahead.\nExplore the forsaken mine to find the Crystallo of Stella that Henrik seeks.",
+          ContentEN = "Traversing the deserted tunnels, you\'ve reached the depths of Fossa di Glevum.\nWhere a majestic Heaventree once stood, only tiny remnants of its roots now persist after years of exploitation — echoes of a bygone era of abundance. Yet the loose rocks and sharp, jagged crystal spikes scattered throughout hint at dangers ahead.\nExplore the forsaken mine to find the Crystallo di Stella that Henrik seeks.",
           TextMapId = "QuestDesc_10020312",
         },
         QuestDesc_10020313 = {
-          ContentEN = "Your arrival has awakened the giant Filthoid dwelling in the depths of Glevum Pit.\nNow that it has come to this, the first order of business is to defeat it.",
+          ContentEN = "Your arrival has awakened the giant Filthoid dwelling in the depths of Fossa di Glevum.\nNow that it has come to this, the first order of business is to defeat it.",
           TextMapId = "QuestDesc_10020313",
         },
         QuestDesc_10020314 = {
@@ -24899,11 +24899,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020314",
         },
         QuestDesc_10020315 = {
-          ContentEN = "Your first adventure in Glevum Pit concludes successfully — despite the unpleasant complications with Outsider.\nOutsider took the Crystallo of Stella. He seems eager to speak with you. You\'ve agreed to meet him at his residence.",
+          ContentEN = "Your first adventure in Fossa di Glevum concludes successfully — despite the unpleasant complications with Outsider.\nOutsider took the Crystallo di Stella. He seems eager to speak with you. You\'ve agreed to meet him at his residence.",
           TextMapId = "QuestDesc_10020315",
         },
         QuestDesc_10020316 = {
-          ContentEN = "Your first adventure in Glevum Pit concludes successfully — despite an unpleasant complication involving Outsider.\nOutsider took the Crystallo of Stella. He seems eager to speak with you, and you\'ve agreed to meet him at his residence.\nMeanwhile, someone is waiting at the gates of Icelake — and he looks none too pleased...",
+          ContentEN = "Your first adventure in Fossa di Glevum concludes successfully — despite an unpleasant complication involving Outsider.\nOutsider took the Crystallo di Stella. He seems eager to speak with you, and you\'ve agreed to meet him at his residence.\nMeanwhile, someone is waiting at the gates of Icelake — and he looks none too pleased...",
           TextMapId = "QuestDesc_10020316",
         },
         QuestDesc_10020401 = {
@@ -24919,7 +24919,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020403",
         },
         QuestDesc_10020404 = {
-          ContentEN = "In exchange for a travel permit, you were requested by Outsider to investigate the Hypnos\' House under the pretext of delivering the Crystallo of Stella.\nBut first, a well-deserved rest.",
+          ContentEN = "In exchange for a travel permit, you were requested by Outsider to investigate the Hypnos\' House under the pretext of delivering the Crystallo di Stella.\nBut first, a well-deserved rest.",
           TextMapId = "QuestDesc_10020404",
         },
         QuestDesc_10020405 = {
@@ -24927,7 +24927,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020405",
         },
         QuestDesc_10020406 = {
-          ContentEN = "Henrik grudgingly opened the door because of the Crystallo of Stella.\nTime to delve inside for a probe.",
+          ContentEN = "Henrik grudgingly opened the door because of the Crystallo di Stella.\nTime to delve inside for a probe.",
           TextMapId = "QuestDesc_10020406",
         },
         QuestDesc_10020407 = {
@@ -24955,7 +24955,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020412",
         },
         QuestDesc_10020501 = {
-          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check The Asphodel\'s bulletin board and complete Commissione: Mediation to gain some experience.",
+          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check L'Asphodel\'s bulletin board and complete Commissione: Mediation to gain some experience.",
           TextMapId = "QuestDesc_10020501",
         },
         QuestDesc_10020502 = {
@@ -25152,11 +25152,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10030102",
         },
         QuestDesc_10030103 = {
-          ContentEN = "Camilla tells you that you were the sole survivor of the attack five days ago. As for the details, she remains tight-lipped. Instead, she suggests heading to The Asphodel to hear the truth from your concerned friends.",
+          ContentEN = "Camilla tells you that you were the sole survivor of the attack five days ago. As for the details, she remains tight-lipped. Instead, she suggests heading to L'Asphodel to hear the truth from your concerned friends.",
           TextMapId = "QuestDesc_10030103",
         },
         QuestDesc_10030104 = {
-          ContentEN = "The streets of Icelake are festooned with festive decorations, yet oddly quiet. A few flustered passersby hurry along — the uneasy calm beneath the surface is unmistakable. If you want the truth, you\'d best head to The Asphodel and talk to your friends.",
+          ContentEN = "The streets of Icelake are festooned with festive decorations, yet oddly quiet. A few flustered passersby hurry along — the uneasy calm beneath the surface is unmistakable. If you want the truth, you\'d best head to L'Asphodel and talk to your friends.",
           TextMapId = "QuestDesc_10030104",
         },
         QuestDesc_10030105 = {
@@ -25608,7 +25608,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_99999802",
         },
         QuestDesc_99999803 = {
-          ContentEN = "Leaving Riva del Lago Lamentoso in 3s",
+          ContentEN = "Abbandonando Riva del Lago Lamentoso in 3 secondi",
           TextMapId = "QuestDesc_99999803",
         },
         QuestDesc__10020611_1 = {
@@ -25616,23 +25616,23 @@ local r0_0 = {
           TextMapId = "QuestDesc__10020611_1",
         },
         QuestName_10020101 = {
-          ContentEN = "Follow Snow to Icelake",
+          ContentEN = "Segui Snow fino a Icelake",
           TextMapId = "QuestName_10020101",
         },
         QuestName_10020102 = {
-          ContentEN = "Follow Snow to Icelake",
+          ContentEN = "Segui Snow fino a Icelake",
           TextMapId = "QuestName_10020102",
         },
         QuestName_10020103 = {
-          ContentEN = "Defeat the Filthoids on the bridge",
+          ContentEN = "Sconfiggi i Filthoid sul ponte",
           TextMapId = "QuestName_10020103",
         },
         QuestName_10020104 = {
-          ContentEN = "Follow Snow to Icelake",
+          ContentEN = "Segui Snow fino a Icelake",
           TextMapId = "QuestName_10020104",
         },
         QuestName_10020105 = {
-          ContentEN = "Enter Icelake",
+          ContentEN = "Entra a Icelake",
           TextMapId = "QuestName_10020105",
         },
         QuestName_10020106 = {
@@ -25644,15 +25644,15 @@ local r0_0 = {
           TextMapId = "QuestName_10020107",
         },
         QuestName_10020108 = {
-          ContentEN = "Head to the house mentioned by the girl",
+          ContentEN = "Dirigiti verso la casa menzionata dalla ragazza",
           TextMapId = "QuestName_10020108",
         },
         QuestName_10020109 = {
-          ContentEN = "Head to the house mentioned by the girl",
+          ContentEN = "Dirigiti verso la casa menzionata dalla ragazza",
           TextMapId = "QuestName_10020109",
         },
         QuestName_10020110 = {
-          ContentEN = "Rest on the couch and wait for Psyche",
+          ContentEN = "Riposati sul divano e aspetta Psyche",
           TextMapId = "QuestName_10020110",
         },
         QuestName_10020110_1 = {
@@ -25664,7 +25664,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020110_2",
         },
         QuestName_10020111 = {
-          ContentEN = "Take a short break on the sofa while waiting for Psyche",
+          ContentEN = "Fai una breve pausa sul divano mentre aspetti a Psyche",
           TextMapId = "QuestName_10020111",
         },
         QuestName_10020112 = {
@@ -25672,7 +25672,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020112",
         },
         QuestName_10020201 = {
-          ContentEN = "Meet Snow at Silverpeace Square",
+          ContentEN = "Incontra Snow a Silverpeace Square",
           TextMapId = "QuestName_10020201",
         },
         QuestName_10020202 = {
@@ -25692,11 +25692,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020205",
         },
         QuestName_10020206 = {
-          ContentEN = "Leave The Asphodel",
+          ContentEN = "Lascia L'Asphodel",
           TextMapId = "QuestName_10020206",
         },
         QuestName_10020207 = {
-          ContentEN = "Track down the Thief",
+          ContentEN = "Trova il ladro",
           TextMapId = "QuestName_10020207",
         },
         QuestName_10020208 = {
@@ -25708,43 +25708,43 @@ local r0_0 = {
           TextMapId = "QuestName_10020209",
         },
         QuestName_10020210 = {
-          ContentEN = "Track down the Thief",
+          ContentEN = "Trova il ladro",
           TextMapId = "QuestName_10020210",
         },
         QuestName_10020211 = {
-          ContentEN = "Follow the Thief into the Sewer",
+          ContentEN = "Segui il ladro nella fogna",
           TextMapId = "QuestName_10020211",
         },
         QuestName_10020212 = {
-          ContentEN = "Crack the mechanism to lower the water level",
+          ContentEN = "Decripta il meccanismo per abbassare il livello dell'acqua",
           TextMapId = "QuestName_10020212",
         },
         QuestName_10020213 = {
-          ContentEN = "Pursue the thief",
+          ContentEN = "Insegui il ladro",
           TextMapId = "QuestName_10020213",
         },
         QuestName_10020213_1 = {
-          ContentEN = "Pursue the thief",
+          ContentEN = "Insegui il ladro",
           TextMapId = "QuestName_10020213_1",
         },
         QuestName_10020214 = {
-          ContentEN = "Investigate the footprints and track down the thief",
+          ContentEN = "Indaga sulle impronte e rintraccia il ladro",
           TextMapId = "QuestName_10020214",
         },
         QuestName_10020215 = {
-          ContentEN = "Chase the Thief",
+          ContentEN = "Insegui il ladro",
           TextMapId = "QuestName_10020215",
         },
         QuestName_10020221 = {
-          ContentEN = "Return to The Asphodel",
+          ContentEN = "Ritorna a L'Asphodel",
           TextMapId = "QuestName_10020221",
         },
         QuestName_10020222 = {
-          ContentEN = "Check the Commission bulletin board",
+          ContentEN = "Controlla la bacheca delle Commissioni",
           TextMapId = "QuestName_10020222",
         },
         QuestName_10020223 = {
-          ContentEN = "Talk to Camila",
+          ContentEN = "Parla con Camila",
           TextMapId = "QuestName_10020223",
         },
         QuestName_10020224 = {
@@ -25752,47 +25752,47 @@ local r0_0 = {
           TextMapId = "QuestName_10020224",
         },
         QuestName_10020225 = {
-          ContentEN = "Defeat the thief",
+          ContentEN = "Sconfiggi il ladro",
           TextMapId = "QuestName_10020225",
         },
         QuestName_10020226 = {
-          ContentEN = "Catch the thief",
+          ContentEN = "Cattura il ladro",
           TextMapId = "QuestName_10020226",
         },
         QuestName_10020301 = {
-          ContentEN = "Leave Icelake for Glevum Pit",
+          ContentEN = "Lascia Icelake per andare alla Fossa di Glevum",
           TextMapId = "QuestName_10020301",
         },
         QuestName_10020302 = {
-          ContentEN = "Leave Icelake for Glevum Pit",
+          ContentEN = "Lascia Icelake per andare alla Fossa di Glevum",
           TextMapId = "QuestName_10020302",
         },
         QuestName_10020303 = {
-          ContentEN = "Leave Icelake for Glevum Pit",
+          ContentEN = "Lascia Icelake per andare alla Fossa di Glevum",
           TextMapId = "QuestName_10020303",
         },
         QuestName_10020304 = {
-          ContentEN = "Find another way into the pit",
+          ContentEN = "Trova un altro modo per entrare nella fossa",
           TextMapId = "QuestName_10020304",
         },
         QuestName_10020305 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020305",
         },
         QuestName_10020306 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020306",
         },
         QuestName_10020307 = {
-          ContentEN = "Find a way to open the gates",
+          ContentEN = "Trova un modo per aprire i cancelli",
           TextMapId = "QuestName_10020307",
         },
         QuestName_10020307_1 = {
-          ContentEN = "There seem to be some destructible objects in the pit...",
+          ContentEN = "Sembra che ci siano degli oggetti distruttibili nella fossa...",
           TextMapId = "QuestName_10020307_1",
         },
         QuestName_10020307_2 = {
-          ContentEN = "Continue searching for a way to open the gate",
+          ContentEN = "Continua a cercare un modo per aprire il cancello",
           TextMapId = "QuestName_10020307_2",
         },
         QuestName_10020307_3 = {
@@ -25812,7 +25812,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020307_6",
         },
         QuestName_10020308 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020308",
         },
         QuestName_10020308_1 = {
@@ -25820,7 +25820,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020308_1",
         },
         QuestName_10020309 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020309",
         },
         QuestName_10020309_2 = {
@@ -25832,11 +25832,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020310",
         },
         QuestName_10020311 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020311",
         },
         QuestName_10020312 = {
-          ContentEN = "Venture deep into Glevum Pit and search for Crystallo of Stella",
+          ContentEN = "Avventurati nella Fossa di Glevum e cerca il Crystallo di Stella",
           TextMapId = "QuestName_10020312",
         },
         QuestName_10020313 = {
@@ -25844,7 +25844,7 @@ local r0_0 = {
           TextMapId = "QuestName_10020313",
         },
         QuestName_10020314 = {
-          ContentEN = "Collect the Crystallo of Stella",
+          ContentEN = "Collect the Crystallo di Stella",
           TextMapId = "QuestName_10020314",
         },
         QuestName_10020315 = {
@@ -26113,7 +26113,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030103",
         },
         QuestName_10030104 = {
-          ContentEN = "Head to The Asphodel and speak with Outsider",
+          ContentEN = "Head to L'Asphodel and speak with Outsider",
           TextMapId = "QuestName_10030104",
         },
         QuestName_10030105 = {
@@ -26734,11 +26734,11 @@ local r0_0 = {
           TextMapId = "READ_DESC_2000017",
         },
         READ_DESC_2000018 = {
-          ContentEN = "A journal unearthed at Glevum Pit, seemingly left behind in haste. Its pages reveal the author\'s profound remorse and some murky, possibly fabricated, secrets.",
+          ContentEN = "A journal unearthed at Fossa di Glevum, seemingly left behind in haste. Its pages reveal the author\'s profound remorse and some murky, possibly fabricated, secrets.",
           TextMapId = "READ_DESC_2000018",
         },
         READ_DESC_2000019 = {
-          ContentEN = "A forty-year-old journal discovered on a secluded trail in the deepest reaches of Glevum Pit. The hasty writing reveals the simple yet intense desires of a young man.",
+          ContentEN = "A forty-year-old journal discovered on a secluded trail in the deepest reaches of Fossa di Glevum. The hasty writing reveals the simple yet intense desires of a young man.",
           TextMapId = "READ_DESC_2000019",
         },
         READ_DESC_2000020 = {
@@ -26882,7 +26882,7 @@ local r0_0 = {
           TextMapId = "READ_DESC_2000067",
         },
         READ_DESC_2000068 = {
-          ContentEN = "The Asphodel\'s drinks menu — every glass, full-bodied and fragrant. One sip, and you\'ll be back for more.",
+          ContentEN = "L'Asphodel\'s drinks menu — every glass, full-bodied and fragrant. One sip, and you\'ll be back for more.",
           TextMapId = "READ_DESC_2000068",
         },
         READ_DESC_2000069 = {
@@ -27270,7 +27270,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000001",
         },
         READ_TEXT_2000002 = {
-          ContentEN = "...\nAll readers know that the author has always lived a solitary life. \nThe benefits of solitude are obvious. Firstly, we can crush and refine precious gems purchased at great expense without hesitation, and without worrying about these valuable materials being used as gifts to win the favour of others. \n(Note: Of course, gems can only fulfil their true value in the hands of an alchemist.)\nSecondly, those who live alone will have more energy to experiment with the wonders of alchemy, rather than feeling deep regret upon finding their first strand of grey hair, and realising that one should not have been overly obsessed with fruitless love like the author. \n(Note: This sounds somewhat extreme, but in today\'s Empire, who isn\'t extreme?) \nAnd lastly, maintaining a solitary life can also prevent some unfortunate events from happening, like the following: \nAlong the northern border of the Siberian Empire, there is a city called Icelake (Note: My teacher once went there, supposedly to visit a doctor named Enrique, but unfortunately I didn\'t inquire further), which produces Crystallo of Stella. It has a cold climate that makes it suitable for conducting research into the fire element. \nAnd the protagonist of this incident? Poor Vagim. He was one of the many alchemists in this region who specialised in the use of fire. He was 40 years old at the time, an age when many alchemists eventually achieved success. However, his greatest achievement at that time was not in alchemy but in having a child who was too clever and had a great interest in alchemy. \n(Annotation: A bit too harsh.)\nOne winter morning, at the insistence of young Igor, Vagim took his son to the alchemy workshop. Naturally, the presence of a child, which are unpredictable, dangerous, and uncontrollable creatures, resulted in an explosive situation in the alchemy workshop. \nThe events that followed were not witnessed by anyone, but based on eyewitness testimonies and an analysis of the scene, it is believed that the following occurred: \nVagim prepared the most materials: Beast Wax, a small amount of Phoxene powder, and a heating crucible. Under his guidance, young Igor followed the classic process and proportions, causing a small and continuously burning fireball to appear in the crucible. \n(Note: This is very basic, but this successful attempt shows that the child had some talent.)\nFor a child, Igor did remarkably well, and Vagim must have thought so too because he instantly praised his son. But unfortunately, this misled the young Igor, who thought that as long as he created a large enough fireball, he would receive even more praise. \nSo, while Vagim was focused on preparing his own experiment, Igor, probably with the intention of surprising his father, added an entire block of Beast Wax to the crucible. \n(Note: Although understandable, this act was completely unforgivable.)\n\nOn that day, Icelake experienced its largest fire since its founding. And the epicenter of the fire was Vagim\'s workshop. The likely cause was the excessive addition of experimental reactants. Any novice alchemist who had thoroughly read the “Alchemist Safety Guidelines” would not have made such a mistake. However, we cannot blame a child for this. Without a doubt, Vagim was the one responsible for this incident. \nIt can only be said that, as an alchemist, maintaining a solitary life is a virtue that benefits both scientific endeavours and the greater good of society. \n(Note: This is a painful lesson, so I should also be more careful in future.)",
+          ContentEN = "...\nAll readers know that the author has always lived a solitary life. \nThe benefits of solitude are obvious. Firstly, we can crush and refine precious gems purchased at great expense without hesitation, and without worrying about these valuable materials being used as gifts to win the favour of others. \n(Note: Of course, gems can only fulfil their true value in the hands of an alchemist.)\nSecondly, those who live alone will have more energy to experiment with the wonders of alchemy, rather than feeling deep regret upon finding their first strand of grey hair, and realising that one should not have been overly obsessed with fruitless love like the author. \n(Note: This sounds somewhat extreme, but in today\'s Empire, who isn\'t extreme?) \nAnd lastly, maintaining a solitary life can also prevent some unfortunate events from happening, like the following: \nAlong the northern border of the Siberian Empire, there is a city called Icelake (Note: My teacher once went there, supposedly to visit a doctor named Enrique, but unfortunately I didn\'t inquire further), which produces Crystallo di Stella. It has a cold climate that makes it suitable for conducting research into the fire element. \nAnd the protagonist of this incident? Poor Vagim. He was one of the many alchemists in this region who specialised in the use of fire. He was 40 years old at the time, an age when many alchemists eventually achieved success. However, his greatest achievement at that time was not in alchemy but in having a child who was too clever and had a great interest in alchemy. \n(Annotation: A bit too harsh.)\nOne winter morning, at the insistence of young Igor, Vagim took his son to the alchemy workshop. Naturally, the presence of a child, which are unpredictable, dangerous, and uncontrollable creatures, resulted in an explosive situation in the alchemy workshop. \nThe events that followed were not witnessed by anyone, but based on eyewitness testimonies and an analysis of the scene, it is believed that the following occurred: \nVagim prepared the most materials: Beast Wax, a small amount of Phoxene powder, and a heating crucible. Under his guidance, young Igor followed the classic process and proportions, causing a small and continuously burning fireball to appear in the crucible. \n(Note: This is very basic, but this successful attempt shows that the child had some talent.)\nFor a child, Igor did remarkably well, and Vagim must have thought so too because he instantly praised his son. But unfortunately, this misled the young Igor, who thought that as long as he created a large enough fireball, he would receive even more praise. \nSo, while Vagim was focused on preparing his own experiment, Igor, probably with the intention of surprising his father, added an entire block of Beast Wax to the crucible. \n(Note: Although understandable, this act was completely unforgivable.)\n\nOn that day, Icelake experienced its largest fire since its founding. And the epicenter of the fire was Vagim\'s workshop. The likely cause was the excessive addition of experimental reactants. Any novice alchemist who had thoroughly read the “Alchemist Safety Guidelines” would not have made such a mistake. However, we cannot blame a child for this. Without a doubt, Vagim was the one responsible for this incident. \nIt can only be said that, as an alchemist, maintaining a solitary life is a virtue that benefits both scientific endeavours and the greater good of society. \n(Note: This is a painful lesson, so I should also be more careful in future.)",
           TextMapId = "READ_TEXT_2000002",
         },
         READ_TEXT_2000003 = {
@@ -27294,11 +27294,11 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000007",
         },
         READ_TEXT_2000008 = {
-          ContentEN = "Authored by \"Fufeng,\" this tome appears to be a pharmacological text. Judging by the book\'s unusual binding, the author\'s exotic name, and its writing style, it seems to have originated outside the Empire\'s academic circles. Both the intricate annotations and the main text are cryptic, with the phrase \"Crystallo of Stella\" appearing repeatedly in the notes.",
+          ContentEN = "Authored by \"Fufeng,\" this tome appears to be a pharmacological text. Judging by the book\'s unusual binding, the author\'s exotic name, and its writing style, it seems to have originated outside the Empire\'s academic circles. Both the intricate annotations and the main text are cryptic, with the phrase \"Crystallo di Stella\" appearing repeatedly in the notes.",
           TextMapId = "READ_TEXT_2000008",
         },
         READ_TEXT_2000009 = {
-          ContentEN = "\"Mr Ethelred, I\'ve had your family property inspected. Don\'t worry about the dust — a bit of light cleaning will suffice to prepare it for sale.\nThat being said, I understand this estate represents a century of family legacy. Though I know you haven\'t lived there since your wife\'s passing, it may still hold sentimental value for you. So before we proceed, might I suggest reconsidering its sale?\nIf financial pressures are forcing your hand, perhaps there are other options we could explore — leasing, rather than selling, might be a viable alternative. We can discuss this further at The Asphodel. Please allow me the opportunity to repay you for curing my grandfather all those years ago.",
+          ContentEN = "\"Mr Ethelred, I\'ve had your family property inspected. Don\'t worry about the dust — a bit of light cleaning will suffice to prepare it for sale.\nThat being said, I understand this estate represents a century of family legacy. Though I know you haven\'t lived there since your wife\'s passing, it may still hold sentimental value for you. So before we proceed, might I suggest reconsidering its sale?\nIf financial pressures are forcing your hand, perhaps there are other options we could explore — leasing, rather than selling, might be a viable alternative. We can discuss this further at L'Asphodel. Please allow me the opportunity to repay you for curing my grandfather all those years ago.",
           TextMapId = "READ_TEXT_2000009",
         },
         READ_TEXT_2000010 = {
@@ -27338,7 +27338,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000018",
         },
         READ_TEXT_2000019 = {
-          ContentEN = "April 14\nMany supervisors at Glevum Pit have been reassigned to other pits. No one\'s on night watch today, lucky me!\n \nApril 18\nThe soil here is unusually soft — I managed to dig down three metres in just one night! I\'ve blocked the entrance with some old crates that have been lying around for over half a year. No one\'s going to notice they\'re missing.\nMy love, I know you think the legend about the gemstone is just a myth, but this is our only chance.\nWait for me, Hilin.\n \nApril 19\nFeeling a bit off lately — dizzy, vision blurry, not much of an appetite. Must be the wound acting up.\nGotta suck it up. Time is ticking.\nI saw a silverback vole just now. What a tough little creature. They can even make a home in a place like this.\n \nApril 23\nRough day. I finally made it deeper into the mountain, but now there\'s this massive rock wall in my way. Good thing I packed extra picks.\nThe pain\'s getting worse — it\'s like it\'s in my bones now. I can barely stomach any food.\nMy lantern\'s gone out, so I\'m scribbling this in the dark — she\'s definitely going to make fun of my handwriting when she sees this.\nBut I\'ve gotta keep a record of all this, so when I make it big, this\'ll all be part of my story.\n \nApril 24\nI did it!\nHoney, I\'m so pumped right now! I just wanna see you and yell this good news right in your ear! While fumbling around in the dark, I found three skeletons and some stones — these must be the gems! It all adds up with that old tale about the gem trader and the bandits!\nI\'m gonna make it big!\nSoon, I\'ll be rolling in it. And once I\'m loaded, your dad can\'t say no to us anymore, and you won\'t have to marry that guy you don\'t even know.\n \n \n \n April \n \n Wh at ha pp ened \n I C ant g et O...\n Go tta Go ba...\n G em ... Cysta... \n Wann... S ee H er",
+          ContentEN = "April 14\nMany supervisors at Fossa di Glevum have been reassigned to other pits. No one\'s on night watch today, lucky me!\n \nApril 18\nThe soil here is unusually soft — I managed to dig down three metres in just one night! I\'ve blocked the entrance with some old crates that have been lying around for over half a year. No one\'s going to notice they\'re missing.\nMy love, I know you think the legend about the gemstone is just a myth, but this is our only chance.\nWait for me, Hilin.\n \nApril 19\nFeeling a bit off lately — dizzy, vision blurry, not much of an appetite. Must be the wound acting up.\nGotta suck it up. Time is ticking.\nI saw a silverback vole just now. What a tough little creature. They can even make a home in a place like this.\n \nApril 23\nRough day. I finally made it deeper into the mountain, but now there\'s this massive rock wall in my way. Good thing I packed extra picks.\nThe pain\'s getting worse — it\'s like it\'s in my bones now. I can barely stomach any food.\nMy lantern\'s gone out, so I\'m scribbling this in the dark — she\'s definitely going to make fun of my handwriting when she sees this.\nBut I\'ve gotta keep a record of all this, so when I make it big, this\'ll all be part of my story.\n \nApril 24\nI did it!\nHoney, I\'m so pumped right now! I just wanna see you and yell this good news right in your ear! While fumbling around in the dark, I found three skeletons and some stones — these must be the gems! It all adds up with that old tale about the gem trader and the bandits!\nI\'m gonna make it big!\nSoon, I\'ll be rolling in it. And once I\'m loaded, your dad can\'t say no to us anymore, and you won\'t have to marry that guy you don\'t even know.\n \n \n \n April \n \n Wh at ha pp ened \n I C ant g et O...\n Go tta Go ba...\n G em ... Cysta... \n Wann... S ee H er",
           TextMapId = "READ_TEXT_2000019",
         },
         READ_TEXT_2000020 = {
@@ -27354,7 +27354,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000022",
         },
         READ_TEXT_2000023 = {
-          ContentEN = "Dear friend, congratulations! You\'ve successfully passed our test and earned your chance to join us!\nEnclosed, you\'ll find a piece of Phoxene as a modest welcome gift — yes, a \"modest\" one! Because this is merely an hour\'s yield from one of our new mining machines at Glevum Pit. That\'s right, our incredible machines can extract precious Phoxene even from exhausted veins!\nHistory has taught us that the profit margins from new technology do not last forever! To stay ahead of the curve, we warmly invite you to come aboard! By registering as a member, you can lease our groundbreaking mining machines at a fraction of the cost. You\'ll only need to share 10% of your Phoxene haul — the rest is all yours to keep! The more you mine, the more you earn, with no limits — financial freedom is no longer just a dream!\nPlus, the first 10 new members will also receive awesome gifts. What are you waiting for? Just sign up today!",
+          ContentEN = "Dear friend, congratulations! You\'ve successfully passed our test and earned your chance to join us!\nEnclosed, you\'ll find a piece of Phoxene as a modest welcome gift — yes, a \"modest\" one! Because this is merely an hour\'s yield from one of our new mining machines at Fossa di Glevum. That\'s right, our incredible machines can extract precious Phoxene even from exhausted veins!\nHistory has taught us that the profit margins from new technology do not last forever! To stay ahead of the curve, we warmly invite you to come aboard! By registering as a member, you can lease our groundbreaking mining machines at a fraction of the cost. You\'ll only need to share 10% of your Phoxene haul — the rest is all yours to keep! The more you mine, the more you earn, with no limits — financial freedom is no longer just a dream!\nPlus, the first 10 new members will also receive awesome gifts. What are you waiting for? Just sign up today!",
           TextMapId = "READ_TEXT_2000023",
         },
         READ_TEXT_2000024 = {
@@ -27434,7 +27434,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000042",
         },
         READ_TEXT_2000043 = {
-          ContentEN = "Name: Hunt Clark\nAge: 18\nSymptoms: Intermittent deafness\n\n...\nEmotionally, Hunt has been relatively stable, largely due to Mia\'s unwavering support. By the time he arrived, his Deterioration had already reached an advanced stage. Today, when I had to tell him his time was running out, this young man, taller than me, broke down, crying and pleading for a chance at life. He\'s only eighteen — with loving parents, devoted mentors, and a newfound love. It broke my heart, but I had to steel myself and remind him of the harsh reality: this is his destined fate. In truth, I was preparing to restart trials for an anti-Deterioration drug, but with high risks and no guarantees, I couldn\'t give him false hope. The cruellest thing in this world isn\'t despair — it\'s offering hope, only to take it away later.\n...\nMia clutched the pocket watch Hunt had given her, tears streaming down her face as she softly hummed a tune, even though Hunt could no longer hear her. He passed away with a faint smile, seemingly at peace. I believe he didn\'t suffer, but he left so suddenly — before I could find the Crystallo of Stella to complete the drug...",
+          ContentEN = "Name: Hunt Clark\nAge: 18\nSymptoms: Intermittent deafness\n\n...\nEmotionally, Hunt has been relatively stable, largely due to Mia\'s unwavering support. By the time he arrived, his Deterioration had already reached an advanced stage. Today, when I had to tell him his time was running out, this young man, taller than me, broke down, crying and pleading for a chance at life. He\'s only eighteen — with loving parents, devoted mentors, and a newfound love. It broke my heart, but I had to steel myself and remind him of the harsh reality: this is his destined fate. In truth, I was preparing to restart trials for an anti-Deterioration drug, but with high risks and no guarantees, I couldn\'t give him false hope. The cruellest thing in this world isn\'t despair — it\'s offering hope, only to take it away later.\n...\nMia clutched the pocket watch Hunt had given her, tears streaming down her face as she softly hummed a tune, even though Hunt could no longer hear her. He passed away with a faint smile, seemingly at peace. I believe he didn\'t suffer, but he left so suddenly — before I could find the Crystallo di Stella to complete the drug...",
           TextMapId = "READ_TEXT_2000043",
         },
         READ_TEXT_2000044 = {
@@ -27543,7 +27543,7 @@ local r0_0 = {
           TextMapId = "READ_TEXT_2000067",
         },
         READ_TEXT_2000068 = {
-          ContentEN = "Welcome to The Asphodel. Our tavern serves drinks from every corner of the continent. And don\'t worry — we always collect the coin before you pass out.\n \n The Hyperborean Empire:\n Most of our Empire\'s brews find their way into the bellies of alchemists and soldiers, so the names may not sound drinkable... yet the taste is finer than you\'d think. Craving something strong? Just say the word!\n Legion Wolfblood\n Standard issue across the Legions — a spirit strong enough to burn off fear on the battlefield and double as a battlefield disinfectant. The taste is strong — deliberately so, they say, to stop soldiers from overindulging.\n \n Phoxichor Engine Lubricant\n A favourite among Imperial alchemists. Named for its uncanny resemblance — in both colour and texture — to the actual lubricant used in Phoxichor engines. Rumour has it one absent-minded alchemist once took a swig of the real thing by mistake.\n \n Fortress Barrage\n A fiery spirit from the Empire\'s southern reaches. Best downed in one go to savour the full effect — like a fortress cannon blasting through your body, leaving your limbs no longer your own. Intense. Devastating. Glorious.\n \n Laurelled Delight\n The go-to toast when a Charon earns their Laurel. Often shaken into a froth for the ceremony — but beneath the bubbles lies a crisp, refreshing flavour, delightful on the tongue.\n \n Huaxu:\n If spirits are too strong for your taste, why not try something from the Eastern realm? Unlike the grape wines we know, theirs are brewed from rice — smooth, mellow, and golden as amber. And with Huaxu\'s travelling merchants scattered far and wide, these delicacies are never far from hand. In the mood for something different? Just say the word!\n Tiger\'s Soul\n An amber-hued rice wine with a rich, mellow depth — said to carry the essence of a tiger\'s spirit. In Huaxu, it is a common daily draught, a medicinal tonic, and a warming comfort all in one.\n \n Peach Blush\n A light, sweet wine with the fragrance of fresh fruit. Blended with peach gum, its texture is as soft to chew as it is to sip. Its delicate blush has long made it a favourite among ladies.\n \n A Goblet Above\n A Huaxu proverb says: \"One day above is a year below.\" True to its name, a single goblet of this potent brew sends you into a deep slumber — and when you wake, much time will have fled. Best not overindulge — lest you find yourself in Heaven sooner than you wished.\n \n Azure Dragon\'s Draught\n In Huaxu, the Charon are honoured as Loongscions — descendants of the Eastern dragon. This is their drink of choice: crisp as a mountain spring, with a finish that lingers like the breath of a Loong.\n \n Republic of Luca:\n You may know Luca for its artists, sailors, dreamers and madcaps... but did you know it also gave birth to a world of cocktails? Try them, and you\'ll be won over by their rich layers and flights of fancy. They rarely leave one truly drunk... but they do have a way of stirring inspiration. So, what shall it be? Just say the word!\n Palette\n A cascade of spirits, layered in dazzling colours — a painting in a glass. Stir it, and all brilliance collapses into black.\n \n Masquerade Rhapsody\n Not one drink, but ten — each wearing the same disguise. You won\'t know what lies within until you taste it... just as you never truly know the face behind a mask at the ball.\n \n Poet\'s Rhyme\n Soft upon the tongue, yet echoing long after — like the rhyme that closes a verse. Poets and playwrights drink deep in pursuit of inspiration... sometimes yielding a masterpiece, and sometimes, a grand puddle of vomit.\n \n Chisel\n A rare Luca spirit, named by sailors who once gazed upon statues crated in their holds and thought of the tool that shaped them. True to its name, it etches fire through the body with each swallow.\n \n Aethyrie:\n Do scholars drink? Indeed they do. They drink to dull the sting of failure... and to raise a jubilant toast with a ringing \"Eureka!\" when discovery strikes. Like knowledge, wine intoxicates all the same. The only pity is that even in naming it, they cannot resist teaching a lesson. If such hidden meanings amuse you — just say the word.\n Truth in the Cup\n Aethyrie\'s scholars once argued fiercely over the world\'s first principle — some claimed it was air, others fire, others still countless tiny particles. At last, they agreed on one thing: whatever its origin, it must be plentiful in wine, for nothing else so swiftly brings joy, and peace among rivals.\n \n Philosopher\'s Tears\n One tale tells of a philosopher who, upon realising that the diagonal of a square vessel could not be expressed by rational number, wept until his tears ran dry, and bled instead. Thus, the crimson hue of this wine. Aethyrie\'s scholars adore the tale. Of course, the truth is simpler and far less poignant: it\'s just the colour of grapes.\n \n O, Bounty!\n Brewed only in years of true abundance, this wine heralds the coming of plenty. Once the vats are filled, the people of Aethyrie gather in celebration — drinking deep, lifting their voices in song or spirited debate, rejoicing in the bounty of the year.\n \n The Syllogism\n Major premise: wine brings inspiration.\n Minor premise: inspiration is the wellspring of creation.\n Conclusion: wine is the wellspring of creation.\n In Aethyrie, only students sharp enough to name the fallacy earn the right to drink it. Luckily for you, here in Hyperborea, no riddle need be solved before your glass is filled.\n \n Khemet:\n Life in the desert is harsh, its people rugged — yet their welcome is as warm as the sands are fierce. When Starweavers or Phoxhunters pass through their villages, the locals pour out drinks as bold and mysterious as the desert itself. This tavern may not lie among the dunes, but our welcome is no less hearty. Care to taste the desert wind? Just say the word!\n Black Honey\n Dark as pitch, yet heavy with sweetness. Its deep shade comes from carbon — said to draw out every impurity.\n \n Serpent\'s Kiss\n Rumoured to be laced with snake venom, it numbs the tongue with a venomous tingle and chills the body with a creeping cool. In truth, it\'s nothing but fizzing gases.\n \n Experimental Dregs\n A dangerous concoction brewed from industrial alcohol and leftover dregs of countless alchemical experiments. They say you might find a lizard\'s claw or rat\'s tail adrift within. Only the daring drink it — more a test of courage than a toast.\n \n The Burning Wind\n Steeped with spice and peppers, this fiery brew scours the throat like the desert wind itself. One mouthful, and you\'re carried to Khemet\'s sands in all their scorching glory.\n \n The Elysian Church:\n To the south lies the Elysian Church — the Empire\'s sworn foe. Its folk drown in scripture, bowing to false gods in blind faith... hopeless, if you ask me. But their wines — now those are worth a taste. Rare, costly, and hard to come by. If your purse is heavy enough, just say the word!\n The Tenth God\n The war with Elysium grinds on, and so their wares are forbidden in the Empire. Even so, one brew still finds its way to our shelves: The Tenth God. It\'s named in jest — as if one drink could rival the blessings of all nine gods. Perhaps that sly irreverence is why the officials turned a blind eye — a blasphemous name, for a drink too fine to ban.\n \n Traditional Charon Brews:\n The mountains beyond the Empire\'s northern edge are not empty. There, the Charon who still defy its yoke dwell — honouring their Father Ask and Mother Embla. They brew their own drinks for rites that preserve their faith and legend. Sometimes, these brews are traded for a handful of coins. They\'re not strong, but in Icelake\'s biting cold, nothing warms you better. If you\'d warm your bones — and hear a tale of the Charon — just say the word!\n Heaventree Sap\n A light, clear blue liquor that recalls the gleam of Phoxene. Unlike Phoxichor Engine Lubricant, it runs bright and fluid. Its name honours the Heaventrees — sacred to Charon tradition.\n \n Borealberry Brew\n Brewed from Borealberries — a prized fruit of Icelake and the far north — this wine is fragrant and best enjoyed steaming hot. The Charon may not fear the cold, but none would turn down a sweet, steaming glass of fruit-rich delight in the heart of winter.\n \n \n We don\'t serve minors. And don\'t bother with \"it\'s for my parents\" — that tale\'s worn thin.\n Also, no vomiting in the tavern. You\'ll pay for the cleaning... and we\'ll throw in a good thrashing, free of charge.",
+          ContentEN = "Welcome to L'Asphodel. Our tavern serves drinks from every corner of the continent. And don\'t worry — we always collect the coin before you pass out.\n \n The Hyperborean Empire:\n Most of our Empire\'s brews find their way into the bellies of alchemists and soldiers, so the names may not sound drinkable... yet the taste is finer than you\'d think. Craving something strong? Just say the word!\n Legion Wolfblood\n Standard issue across the Legions — a spirit strong enough to burn off fear on the battlefield and double as a battlefield disinfectant. The taste is strong — deliberately so, they say, to stop soldiers from overindulging.\n \n Phoxichor Engine Lubricant\n A favourite among Imperial alchemists. Named for its uncanny resemblance — in both colour and texture — to the actual lubricant used in Phoxichor engines. Rumour has it one absent-minded alchemist once took a swig of the real thing by mistake.\n \n Fortress Barrage\n A fiery spirit from the Empire\'s southern reaches. Best downed in one go to savour the full effect — like a fortress cannon blasting through your body, leaving your limbs no longer your own. Intense. Devastating. Glorious.\n \n Laurelled Delight\n The go-to toast when a Charon earns their Laurel. Often shaken into a froth for the ceremony — but beneath the bubbles lies a crisp, refreshing flavour, delightful on the tongue.\n \n Huaxu:\n If spirits are too strong for your taste, why not try something from the Eastern realm? Unlike the grape wines we know, theirs are brewed from rice — smooth, mellow, and golden as amber. And with Huaxu\'s travelling merchants scattered far and wide, these delicacies are never far from hand. In the mood for something different? Just say the word!\n Tiger\'s Soul\n An amber-hued rice wine with a rich, mellow depth — said to carry the essence of a tiger\'s spirit. In Huaxu, it is a common daily draught, a medicinal tonic, and a warming comfort all in one.\n \n Peach Blush\n A light, sweet wine with the fragrance of fresh fruit. Blended with peach gum, its texture is as soft to chew as it is to sip. Its delicate blush has long made it a favourite among ladies.\n \n A Goblet Above\n A Huaxu proverb says: \"One day above is a year below.\" True to its name, a single goblet of this potent brew sends you into a deep slumber — and when you wake, much time will have fled. Best not overindulge — lest you find yourself in Heaven sooner than you wished.\n \n Azure Dragon\'s Draught\n In Huaxu, the Charon are honoured as Loongscions — descendants of the Eastern dragon. This is their drink of choice: crisp as a mountain spring, with a finish that lingers like the breath of a Loong.\n \n Republic of Luca:\n You may know Luca for its artists, sailors, dreamers and madcaps... but did you know it also gave birth to a world of cocktails? Try them, and you\'ll be won over by their rich layers and flights of fancy. They rarely leave one truly drunk... but they do have a way of stirring inspiration. So, what shall it be? Just say the word!\n Palette\n A cascade of spirits, layered in dazzling colours — a painting in a glass. Stir it, and all brilliance collapses into black.\n \n Masquerade Rhapsody\n Not one drink, but ten — each wearing the same disguise. You won\'t know what lies within until you taste it... just as you never truly know the face behind a mask at the ball.\n \n Poet\'s Rhyme\n Soft upon the tongue, yet echoing long after — like the rhyme that closes a verse. Poets and playwrights drink deep in pursuit of inspiration... sometimes yielding a masterpiece, and sometimes, a grand puddle of vomit.\n \n Chisel\n A rare Luca spirit, named by sailors who once gazed upon statues crated in their holds and thought of the tool that shaped them. True to its name, it etches fire through the body with each swallow.\n \n Aethyrie:\n Do scholars drink? Indeed they do. They drink to dull the sting of failure... and to raise a jubilant toast with a ringing \"Eureka!\" when discovery strikes. Like knowledge, wine intoxicates all the same. The only pity is that even in naming it, they cannot resist teaching a lesson. If such hidden meanings amuse you — just say the word.\n Truth in the Cup\n Aethyrie\'s scholars once argued fiercely over the world\'s first principle — some claimed it was air, others fire, others still countless tiny particles. At last, they agreed on one thing: whatever its origin, it must be plentiful in wine, for nothing else so swiftly brings joy, and peace among rivals.\n \n Philosopher\'s Tears\n One tale tells of a philosopher who, upon realising that the diagonal of a square vessel could not be expressed by rational number, wept until his tears ran dry, and bled instead. Thus, the crimson hue of this wine. Aethyrie\'s scholars adore the tale. Of course, the truth is simpler and far less poignant: it\'s just the colour of grapes.\n \n O, Bounty!\n Brewed only in years of true abundance, this wine heralds the coming of plenty. Once the vats are filled, the people of Aethyrie gather in celebration — drinking deep, lifting their voices in song or spirited debate, rejoicing in the bounty of the year.\n \n The Syllogism\n Major premise: wine brings inspiration.\n Minor premise: inspiration is the wellspring of creation.\n Conclusion: wine is the wellspring of creation.\n In Aethyrie, only students sharp enough to name the fallacy earn the right to drink it. Luckily for you, here in Hyperborea, no riddle need be solved before your glass is filled.\n \n Khemet:\n Life in the desert is harsh, its people rugged — yet their welcome is as warm as the sands are fierce. When Starweavers or Phoxhunters pass through their villages, the locals pour out drinks as bold and mysterious as the desert itself. This tavern may not lie among the dunes, but our welcome is no less hearty. Care to taste the desert wind? Just say the word!\n Black Honey\n Dark as pitch, yet heavy with sweetness. Its deep shade comes from carbon — said to draw out every impurity.\n \n Serpent\'s Kiss\n Rumoured to be laced with snake venom, it numbs the tongue with a venomous tingle and chills the body with a creeping cool. In truth, it\'s nothing but fizzing gases.\n \n Experimental Dregs\n A dangerous concoction brewed from industrial alcohol and leftover dregs of countless alchemical experiments. They say you might find a lizard\'s claw or rat\'s tail adrift within. Only the daring drink it — more a test of courage than a toast.\n \n The Burning Wind\n Steeped with spice and peppers, this fiery brew scours the throat like the desert wind itself. One mouthful, and you\'re carried to Khemet\'s sands in all their scorching glory.\n \n The Elysian Church:\n To the south lies the Elysian Church — the Empire\'s sworn foe. Its folk drown in scripture, bowing to false gods in blind faith... hopeless, if you ask me. But their wines — now those are worth a taste. Rare, costly, and hard to come by. If your purse is heavy enough, just say the word!\n The Tenth God\n The war with Elysium grinds on, and so their wares are forbidden in the Empire. Even so, one brew still finds its way to our shelves: The Tenth God. It\'s named in jest — as if one drink could rival the blessings of all nine gods. Perhaps that sly irreverence is why the officials turned a blind eye — a blasphemous name, for a drink too fine to ban.\n \n Traditional Charon Brews:\n The mountains beyond the Empire\'s northern edge are not empty. There, the Charon who still defy its yoke dwell — honouring their Father Ask and Mother Embla. They brew their own drinks for rites that preserve their faith and legend. Sometimes, these brews are traded for a handful of coins. They\'re not strong, but in Icelake\'s biting cold, nothing warms you better. If you\'d warm your bones — and hear a tale of the Charon — just say the word!\n Heaventree Sap\n A light, clear blue liquor that recalls the gleam of Phoxene. Unlike Phoxichor Engine Lubricant, it runs bright and fluid. Its name honours the Heaventrees — sacred to Charon tradition.\n \n Borealberry Brew\n Brewed from Borealberries — a prized fruit of Icelake and the far north — this wine is fragrant and best enjoyed steaming hot. The Charon may not fear the cold, but none would turn down a sweet, steaming glass of fruit-rich delight in the heart of winter.\n \n \n We don\'t serve minors. And don\'t bother with \"it\'s for my parents\" — that tale\'s worn thin.\n Also, no vomiting in the tavern. You\'ll pay for the cleaning... and we\'ll throw in a good thrashing, free of charge.",
           TextMapId = "READ_TEXT_2000068",
         },
         READ_TEXT_2000069 = {
@@ -31247,7 +31247,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_31004005",
         },
         RESOURCE_NAME_31004006 = {
-          ContentEN = "The Asphodel",
+          ContentEN = "L'Asphodel",
           TextMapId = "RESOURCE_NAME_31004006",
         },
         RESOURCE_NAME_31004007 = {
@@ -32601,7 +32601,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_30002",
         },
         RESOURCE_TEXT_3001 = {
-          ContentEN = "\"Humans, as social creatures, are willing to pay unimaginable prices to alter others\' perceptions of them, for better or worse. It might take effort, love, or just a little nudge from some big shot in the \'herd\'.\"\n\n— Camilla, Proprietor of The Asphodel in Icelake",
+          ContentEN = "\"Humans, as social creatures, are willing to pay unimaginable prices to alter others\' perceptions of them, for better or worse. It might take effort, love, or just a little nudge from some big shot in the \'herd\'.\"\n\n— Camilla, Proprietor of L'Asphodel in Icelake",
           TextMapId = "RESOURCE_TEXT_3001",
         },
         RESOURCE_TEXT_3002 = {
@@ -32633,47 +32633,47 @@ local r0_0 = {
           TextMapId = "RESOURCE_TEXT_3008",
         },
         RESOURCE_TEXT_30101 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30101",
         },
         RESOURCE_TEXT_30102 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30102",
         },
         RESOURCE_TEXT_30103 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30103",
         },
         RESOURCE_TEXT_30104 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30104",
         },
         RESOURCE_TEXT_30105 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30105",
         },
         RESOURCE_TEXT_30106 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30106",
         },
         RESOURCE_TEXT_30107 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30107",
         },
         RESOURCE_TEXT_30108 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30108",
         },
         RESOURCE_TEXT_30109 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n— Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30109",
         },
         RESOURCE_TEXT_30110 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n—Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n—Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30110",
         },
         RESOURCE_TEXT_30111 = {
-          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Glevum Pit, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n—Margie, Icelake Scavenger",
+          ContentEN = "\"The rubbish bins with little green flowers painted on them, near the west side of town — those are Leonie\'s. The ones by Fossa di Glevum, painted with grey stones are Edwin\'s. And those with the big yellow suns? All mine! But staring at the same colours gets boring after a while, so we switch things up now and then — that\'s the secret to keeping it fresh.\"\n\n—Margie, Icelake Scavenger",
           TextMapId = "RESOURCE_TEXT_30111",
         },
         RESOURCE_TEXT_30112 = {
@@ -36774,7 +36774,7 @@ local r0_0 = {
           TextMapId = "Ranged",
         },
         Reading_Content_101223 = {
-          ContentEN = "(A journal recovered from Glevum Pit. Based on the writing style, it appears to belong to a scholar.)\n ...\n 16 April\n We discovered a curious <H>yellow crystal cluster</> in this long-abandoned mine. Its composition suggests it is neither the Crystallo of Stella — said to lie hidden deep within the mountain caverns — nor residual Phoxene from past excavations. It appears to be an entirely undocumented mineral.\n ...\n 18 April\n To our surprise, Bob observed that the dimly glowing yellow crystals had <H>grown</>. What was once no larger than a handspan had developed into squat, shrub-like clusters.\n ...\n 20 April\n The clusters had grown again — this time into jagged, spire-like forms that blocked off several inner passageways. They seemed almost... alive. Fortunately, the crystals are extremely brittle; only a modest amount of <H>gunpowder</> is needed to blast them apart.\n Bob has put forward a hypothesis: these formations may not be minerals at all, but a type of <H>Filthoid secretion</> — perhaps even a form of \"progeny.\" Like sponges left in water, they appear to swell and expand over time. It remains a bold theory, even for someone of Bob\'s expertise in Filthoid biology.\n ...\n 21 April\n To test Bob\'s theory, we\'ve decided to press deeper into the mine. If his conjecture proves correct, then somewhere within this forsaken pit lies a unique strain of Filthoid, distinct from those found in the wild — a <H>progenitor</>, perhaps...\n ...",
+          ContentEN = "(A journal recovered from Fossa di Glevum. Based on the writing style, it appears to belong to a scholar.)\n ...\n 16 April\n We discovered a curious <H>yellow crystal cluster</> in this long-abandoned mine. Its composition suggests it is neither the Crystallo di Stella — said to lie hidden deep within the mountain caverns — nor residual Phoxene from past excavations. It appears to be an entirely undocumented mineral.\n ...\n 18 April\n To our surprise, Bob observed that the dimly glowing yellow crystals had <H>grown</>. What was once no larger than a handspan had developed into squat, shrub-like clusters.\n ...\n 20 April\n The clusters had grown again — this time into jagged, spire-like forms that blocked off several inner passageways. They seemed almost... alive. Fortunately, the crystals are extremely brittle; only a modest amount of <H>gunpowder</> is needed to blast them apart.\n Bob has put forward a hypothesis: these formations may not be minerals at all, but a type of <H>Filthoid secretion</> — perhaps even a form of \"progeny.\" Like sponges left in water, they appear to swell and expand over time. It remains a bold theory, even for someone of Bob\'s expertise in Filthoid biology.\n ...\n 21 April\n To test Bob\'s theory, we\'ve decided to press deeper into the mine. If his conjecture proves correct, then somewhere within this forsaken pit lies a unique strain of Filthoid, distinct from those found in the wild — a <H>progenitor</>, perhaps...\n ...",
           TextMapId = "Reading_Content_101223",
         },
         Reading_Content_200208 = {
@@ -41996,7 +41996,7 @@ local r0_0 = {
           TextMapId = "TextMap_AnswerDetail_100503",
         },
         TextMap_AnswerDetail_200101 = {
-          ContentEN = "Mr Buck only drinks juice and milk at The Asphodel. He has no tolerance for alcohol — just one sip is enough to knock him straight out.",
+          ContentEN = "Mr Buck only drinks juice and milk at L'Asphodel. He has no tolerance for alcohol — just one sip is enough to knock him straight out.",
           TextMapId = "TextMap_AnswerDetail_200101",
         },
         TextMap_AnswerDetail_200102 = {
@@ -46198,7 +46198,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_505003",
         },
         UI_Achievement_Des_505004 = {
-          ContentEN = "Find <highlight>#1</> treasure(s) recorded on the Lost Sheets in Glevum Pit",
+          ContentEN = "Find <highlight>#1</> treasure(s) recorded on the Lost Sheets in Fossa di Glevum",
           TextMapId = "UI_Achievement_Des_505004",
         },
         UI_Achievement_Des_505005 = {
@@ -46218,7 +46218,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_505008",
         },
         UI_Achievement_Des_505009 = {
-          ContentEN = "Record <highlight>#1</> Avian Towers in Glevum Pit",
+          ContentEN = "Record <highlight>#1</> Avian Towers in Fossa di Glevum",
           TextMapId = "UI_Achievement_Des_505009",
         },
         UI_Achievement_Des_505010 = {
@@ -46582,7 +46582,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_70112",
         },
         UI_Achievement_Des_70113 = {
-          ContentEN = "Leave a light in Glevum Pit for those who follow.",
+          ContentEN = "Leave a light in Fossa di Glevum for those who follow.",
           TextMapId = "UI_Achievement_Des_70113",
         },
         UI_Achievement_Des_70114 = {
@@ -48621,7 +48621,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_52000301",
         },
         UI_Achievement_Name_52000401 = {
-          ContentEN = "Stray Birds: Glevum Pit",
+          ContentEN = "Stray Birds: Fossa di Glevum",
           TextMapId = "UI_Achievement_Name_52000401",
         },
         UI_Achievement_Name_52000501 = {
@@ -50555,7 +50555,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_11010104",
         },
         UI_CHAR_DATA_TEXT_11010105 = {
-          ContentEN = "Ever since arriving in the Empire, you\'ve exhausted every possible means — both legitimate and otherwise — to find any trace of Berenica, but to no avail. Occasionally, from The Asphodel, you\'d receive commissions that involved anonymous tips directing you to liberate a mysterious individual from an Imperial prison. Each time, you harboured a quiet hope of hearing that familiar voice from behind one of the cell doors you breached... Yet it never happened. Not even once.\nNevertheless, whenever you wield that pristine white sword, it feels as though she\'s still by your side. You hold onto the belief that you will reunite one day — for you will never break your promise, and neither will Berenica.",
+          ContentEN = "Ever since arriving in the Empire, you\'ve exhausted every possible means — both legitimate and otherwise — to find any trace of Berenica, but to no avail. Occasionally, from L'Asphodel, you\'d receive commissions that involved anonymous tips directing you to liberate a mysterious individual from an Imperial prison. Each time, you harboured a quiet hope of hearing that familiar voice from behind one of the cell doors you breached... Yet it never happened. Not even once.\nNevertheless, whenever you wield that pristine white sword, it feels as though she\'s still by your side. You hold onto the belief that you will reunite one day — for you will never break your promise, and neither will Berenica.",
           TextMapId = "UI_CHAR_DATA_TEXT_11010105",
         },
         UI_CHAR_DATA_TEXT_11010201 = {
@@ -51144,7 +51144,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_31010202",
         },
         UI_CHAR_DATA_TEXT_31010203 = {
-          ContentEN = "While the Solarian children in the Empire were still attending middle school, Lynn had already entered the workforce. She had worked in the mines collecting Phoxenes, carried barrels in taverns, and served as a maid in wealthy households. Later on, she became a Phohunter, an assassin for hire. Her exceptional talent and refined skills quickly earned her a reputation, and more and more clients approached her with assignments. These commissions evolved from mundane hunting tasks to progressively more covert operations. Some even skipped The Asphodel, inviting Lynn to take on some \"private jobs\" directly.\nAnd so, during the two years between the ages of eighteen and twenty, Lynn was publicly known as a \"courier\". Night after night, she received \"letters\" from employers inside the gilded carriages arriving from the Città Interna. Lynn carried out the employers\' thick, fervent, and sometimes near-crazed longings with the barrels of her guns. Then, before dawn, she embarked on her \"delivery\" journey, returning after many days, weathering both wind and snow in the process. In Camilla Scarlet\'s memories, the young girl named Lynn would always stride into the tavern at dusk, shaking the snowflakes from her cloak. She would buy the cheapest drink, sit alone by the window, and remain silent until closing time. On one rare occasion, Lynn started talking to Camilla and asked her for a towel. \"I don\'t want my family to see,\" she whispered softly, \"I got... something on my face.\" Camilla looked at the dark red stain on her face and frowned. She had a keen sense of smell and could detect the pungent odour emanating from the stain. \"Thank you,\" Lynn said as she accepted the towel Camilla handed her. Her frosty face cracked into a faint smile, then she disappeared into the wind and snow.",
+          ContentEN = "While the Solarian children in the Empire were still attending middle school, Lynn had already entered the workforce. She had worked in the mines collecting Phoxenes, carried barrels in taverns, and served as a maid in wealthy households. Later on, she became a Phohunter, an assassin for hire. Her exceptional talent and refined skills quickly earned her a reputation, and more and more clients approached her with assignments. These commissions evolved from mundane hunting tasks to progressively more covert operations. Some even skipped L'Asphodel, inviting Lynn to take on some \"private jobs\" directly.\nAnd so, during the two years between the ages of eighteen and twenty, Lynn was publicly known as a \"courier\". Night after night, she received \"letters\" from employers inside the gilded carriages arriving from the Città Interna. Lynn carried out the employers\' thick, fervent, and sometimes near-crazed longings with the barrels of her guns. Then, before dawn, she embarked on her \"delivery\" journey, returning after many days, weathering both wind and snow in the process. In Camilla Scarlet\'s memories, the young girl named Lynn would always stride into the tavern at dusk, shaking the snowflakes from her cloak. She would buy the cheapest drink, sit alone by the window, and remain silent until closing time. On one rare occasion, Lynn started talking to Camilla and asked her for a towel. \"I don\'t want my family to see,\" she whispered softly, \"I got... something on my face.\" Camilla looked at the dark red stain on her face and frowned. She had a keen sense of smell and could detect the pungent odour emanating from the stain. \"Thank you,\" Lynn said as she accepted the towel Camilla handed her. Her frosty face cracked into a faint smile, then she disappeared into the wind and snow.",
           TextMapId = "UI_CHAR_DATA_TEXT_31010203",
         },
         UI_CHAR_DATA_TEXT_31010204 = {
@@ -51412,7 +51412,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_32010405",
         },
         UI_CHAR_DATA_TEXT_33010101 = {
-          ContentEN = "You first met Margie in The Asphodel. In stark contrast to the tavernkeeper\'s unruffled demeanour, the girl appeared frantic and dishevelled, evidently in urgent need of help.\nPerhaps she had just lost a day\'s earnings and faced a night of hunger; maybe she had just ended an unresolved dispute and was desperately seeking someone to stand up for her; or perhaps, like you, she was a lost outsider, uncertain of the path ahead.\nAt the time, you couldn\'t have known that this stranger had indeed lost a substantial sum of money, was indeed in trouble, and was truly an outsider like yourself. But her concerns weren\'t for personal gain, but for the livelihood of people who were essentially strangers to her.",
+          ContentEN = "You first met Margie in L'Asphodel. In stark contrast to the tavernkeeper\'s unruffled demeanour, the girl appeared frantic and dishevelled, evidently in urgent need of help.\nPerhaps she had just lost a day\'s earnings and faced a night of hunger; maybe she had just ended an unresolved dispute and was desperately seeking someone to stand up for her; or perhaps, like you, she was a lost outsider, uncertain of the path ahead.\nAt the time, you couldn\'t have known that this stranger had indeed lost a substantial sum of money, was indeed in trouble, and was truly an outsider like yourself. But her concerns weren\'t for personal gain, but for the livelihood of people who were essentially strangers to her.",
           TextMapId = "UI_CHAR_DATA_TEXT_33010101",
         },
         UI_CHAR_DATA_TEXT_33010102 = {
@@ -51420,7 +51420,7 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_33010102",
         },
         UI_CHAR_DATA_TEXT_33010103 = {
-          ContentEN = "Aside from her occasional visits to The Asphodel to see Ms Camilla, Margie is usually seen darting around Icelake on her own. At first, you presumed she was just another orphan with a past too painful to share, which is far from the truth.\nDuring a casual chat one afternoon, Margie spoke to you about her father. Though she voiced frustration over how he\'d saddled her with the responsibility of managing the city\'s rubbish bins while he vanished on mysterious errands, it was evident that, in their own unique ways, they had always supported and encouraged each other.\nPerhaps that\'s why, in this perpetually cold city, Margie still manages to shine like a ray of sunshine, greeting each day with unwavering warmth.",
+          ContentEN = "Aside from her occasional visits to L'Asphodel to see Ms Camilla, Margie is usually seen darting around Icelake on her own. At first, you presumed she was just another orphan with a past too painful to share, which is far from the truth.\nDuring a casual chat one afternoon, Margie spoke to you about her father. Though she voiced frustration over how he\'d saddled her with the responsibility of managing the city\'s rubbish bins while he vanished on mysterious errands, it was evident that, in their own unique ways, they had always supported and encouraged each other.\nPerhaps that\'s why, in this perpetually cold city, Margie still manages to shine like a ray of sunshine, greeting each day with unwavering warmth.",
           TextMapId = "UI_CHAR_DATA_TEXT_33010103",
         },
         UI_CHAR_DATA_TEXT_33010104 = {
@@ -51949,11 +51949,11 @@ local r0_0 = {
           TextMapId = "UI_CHAR_DATA_TEXT_53010403",
         },
         UI_CHAR_DATA_TEXT_53010404 = {
-          ContentEN = "\"I\'ll ask you one last time, Psyche. Are you sure this is what you want?\"\nPsyche nodded firmly. She heard Henrik let out a long, heavy sigh. By now, her vision had blurred completely. Unable to see his face, she pieced together his image from memory.\nIn Psyche\'s earliest recollections of Dr Henrik, he was always sombre and distant, carrying a burden that seemed far too heavy for a man of his age, as if an old soul resided in a body still in its prime. Only when he glanced at the photograph on his desk did a flicker of genuine emotion briefly surface. Psyche had her suspicions about who the girl in the picture might be, but she never asked — she didn\'t want to pry into the grief he might have been hiding. Instead, she quietly placed a fresh flower in the vase on his desk each day.\nHenrik remained a man of few words, his life a steady repetition of simple, monotonous routines. Yet over time, Psyche noticed a subtle change — a spark seemed to grow in his eyes, like a sprout pushing through charred wood.\nOne day, Henrik unlocked an old bookcase. Years of dust billowed into the air, causing Psyche to shield her eyes. Peeking through her fingers, she saw Henrik coughing as he sifted through piles of old papers and notes, muttering words like \"blockade response\" and \"Crystallo of Stella.\" Although the technical jargon was lost on her, she vividly remembered his final whispered words:\n\"Hayley, I want to try it again... Do you think it could be a different story this time?\"\nFrom that day, Henrik locked himself in his office, working around the clock with phials, petri dishes, and all manner of colourful liquids. Psyche didn\'t interfere; she had never seen him so passionately pursue anything. Before, he had seemed like a distant, benevolent deity, merely decreeing the merciful end to suffering at the appropriate moments. Now, he was more like a man grasping desperately at hope, or a child chasing after a long-lost treasure. \nFor the first time, Henrik seemed thoroughly human.\n\n...\n\n\"Then drink this.\"\nHenrik\'s voice snapped Psyche back to reality. Something cold was pressed into her hand. Tracing its shape, she felt the rough surface of a small phial. As she cradled it, feeling its slight weight, she understood the life-changing significance it carried. This phial was the culmination of Henrik\'s relentless work, the product of countless sleepless nights. If fortune smiled upon her, this phial could free her from a hopeless fate. And if not... well, at least she would have helped Henrik refine his research and contributed to saving more lives, wouldn\'t she?\nShe couldn\'t help but picture the liquid inside — crafted from Crystallo of Stella, it must shimmer with a faint, ethereal glow. The thought brought a smile to her lips.\n\"{nickname} and I retrieved that piece of Crystallo of Stella together. I trust it will bring me good luck,\" she mused, hopeful.",
+          ContentEN = "\"I\'ll ask you one last time, Psyche. Are you sure this is what you want?\"\nPsyche nodded firmly. She heard Henrik let out a long, heavy sigh. By now, her vision had blurred completely. Unable to see his face, she pieced together his image from memory.\nIn Psyche\'s earliest recollections of Dr Henrik, he was always sombre and distant, carrying a burden that seemed far too heavy for a man of his age, as if an old soul resided in a body still in its prime. Only when he glanced at the photograph on his desk did a flicker of genuine emotion briefly surface. Psyche had her suspicions about who the girl in the picture might be, but she never asked — she didn\'t want to pry into the grief he might have been hiding. Instead, she quietly placed a fresh flower in the vase on his desk each day.\nHenrik remained a man of few words, his life a steady repetition of simple, monotonous routines. Yet over time, Psyche noticed a subtle change — a spark seemed to grow in his eyes, like a sprout pushing through charred wood.\nOne day, Henrik unlocked an old bookcase. Years of dust billowed into the air, causing Psyche to shield her eyes. Peeking through her fingers, she saw Henrik coughing as he sifted through piles of old papers and notes, muttering words like \"blockade response\" and \"Crystallo di Stella.\" Although the technical jargon was lost on her, she vividly remembered his final whispered words:\n\"Hayley, I want to try it again... Do you think it could be a different story this time?\"\nFrom that day, Henrik locked himself in his office, working around the clock with phials, petri dishes, and all manner of colourful liquids. Psyche didn\'t interfere; she had never seen him so passionately pursue anything. Before, he had seemed like a distant, benevolent deity, merely decreeing the merciful end to suffering at the appropriate moments. Now, he was more like a man grasping desperately at hope, or a child chasing after a long-lost treasure. \nFor the first time, Henrik seemed thoroughly human.\n\n...\n\n\"Then drink this.\"\nHenrik\'s voice snapped Psyche back to reality. Something cold was pressed into her hand. Tracing its shape, she felt the rough surface of a small phial. As she cradled it, feeling its slight weight, she understood the life-changing significance it carried. This phial was the culmination of Henrik\'s relentless work, the product of countless sleepless nights. If fortune smiled upon her, this phial could free her from a hopeless fate. And if not... well, at least she would have helped Henrik refine his research and contributed to saving more lives, wouldn\'t she?\nShe couldn\'t help but picture the liquid inside — crafted from Crystallo di Stella, it must shimmer with a faint, ethereal glow. The thought brought a smile to her lips.\n\"{nickname} and I retrieved that piece of Crystallo di Stella together. I trust it will bring me good luck,\" she mused, hopeful.",
           TextMapId = "UI_CHAR_DATA_TEXT_53010404",
         },
         UI_CHAR_DATA_TEXT_53010405 = {
-          ContentEN = "It was unmistakably a dream, one vivid with detail.\nSnow fell over Icelake, painting the town in shades of grey and white, just like every other day you remembered. You navigated the slippery, muddy alleys, the deserted plazas, and the air filled with the sharp scent of spirits from The Asphodel — all too familiar to you.\nThe locals bustled past, not sparing you a glance. They were but fleeting figures in your journey, just as you were in theirs.\nEventually, you found yourself standing before a house on a rise, a place long abandoned in your memory. Yet, against the biting white fog, warm yellow lights glowed invitingly.\nAs you knocked, the door swung open to reveal a girl with silver hair and dressed in green. Her smile was bright and welcoming. \"Hello!\" she greeted cheerfully, her eyebrows arching in a friendly manner. \"This is Hypnos\' House. Are you a traveller from afar?\"\nSomething deep inside you stirred, as if a frozen expanse within had suddenly thawed, allowing seeds long buried in permafrost to vigorously sprout.\nYou opened your mouth, overwhelmed with words you wanted to say, but they froze in the cold air. In the end, all you managed was a soft utterance:\n\"...Psyche, look, it\'s snowing again in Icelake.\"\nShe tilted her head, puzzled.\n\"It snows every day here in Icelake. It\'s quite normal. You\'ll get used to it soon.\"\nThe snow intensified, gradually obliterating your view.",
+          ContentEN = "It was unmistakably a dream, one vivid with detail.\nSnow fell over Icelake, painting the town in shades of grey and white, just like every other day you remembered. You navigated the slippery, muddy alleys, the deserted plazas, and the air filled with the sharp scent of spirits from L'Asphodel — all too familiar to you.\nThe locals bustled past, not sparing you a glance. They were but fleeting figures in your journey, just as you were in theirs.\nEventually, you found yourself standing before a house on a rise, a place long abandoned in your memory. Yet, against the biting white fog, warm yellow lights glowed invitingly.\nAs you knocked, the door swung open to reveal a girl with silver hair and dressed in green. Her smile was bright and welcoming. \"Hello!\" she greeted cheerfully, her eyebrows arching in a friendly manner. \"This is Hypnos\' House. Are you a traveller from afar?\"\nSomething deep inside you stirred, as if a frozen expanse within had suddenly thawed, allowing seeds long buried in permafrost to vigorously sprout.\nYou opened your mouth, overwhelmed with words you wanted to say, but they froze in the cold air. In the end, all you managed was a soft utterance:\n\"...Psyche, look, it\'s snowing again in Icelake.\"\nShe tilted her head, puzzled.\n\"It snows every day here in Icelake. It\'s quite normal. You\'ll get used to it soon.\"\nThe snow intensified, gradually obliterating your view.",
           TextMapId = "UI_CHAR_DATA_TEXT_53010405",
         },
         UI_CHAR_DATA_TEXT_54010101 = {
@@ -57880,7 +57880,7 @@ local r0_0 = {
           TextMapId = "UI_HardBoss_Des_1",
         },
         UI_HardBoss_Des_2 = {
-          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "UI_HardBoss_Des_2",
         },
         UI_HardBoss_Des_3 = {
@@ -57916,19 +57916,19 @@ local r0_0 = {
           TextMapId = "UI_HardBoss_Difficulty_Des_1004",
         },
         UI_HardBoss_Difficulty_Des_1011 = {
-          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "UI_HardBoss_Difficulty_Des_1011",
         },
         UI_HardBoss_Difficulty_Des_1012 = {
-          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "UI_HardBoss_Difficulty_Des_1012",
         },
         UI_HardBoss_Difficulty_Des_1013 = {
-          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "UI_HardBoss_Difficulty_Des_1013",
         },
         UI_HardBoss_Difficulty_Des_1014 = {
-          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Glevum Pit, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
+          ContentEN = "The Grim Reaper of Glevum. A massive Filthoid in the depths of Fossa di Glevum, mechanically repeating the behaviour of tunnelling and devouring any glowing objects.",
           TextMapId = "UI_HardBoss_Difficulty_Des_1014",
         },
         UI_HardBoss_Difficulty_Des_1021 = {
@@ -59426,7 +59426,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_ENTER_HOMEBASE",
         },
         UI_MECHANISM_ENTER_KUANGKENG = {
-          ContentEN = "Enter Glevum Pit",
+          ContentEN = "Enter Fossa di Glevum",
           TextMapId = "UI_MECHANISM_ENTER_KUANGKENG",
         },
         UI_MECHANISM_ENTER_OUTSIDERHOME = {
@@ -59442,7 +59442,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_ENTER_SEW",
         },
         UI_MECHANISM_ENTER_TAVERN = {
-          ContentEN = "Enter The Asphodel",
+          ContentEN = "Enter L'Asphodel",
           TextMapId = "UI_MECHANISM_ENTER_TAVERN",
         },
         UI_MECHANISM_LEAVE_FLOW = {
@@ -59454,7 +59454,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_LEAVE_HOMEBASE",
         },
         UI_MECHANISM_LEAVE_KUANGKENG = {
-          ContentEN = "Leave Glevum Pit",
+          ContentEN = "Leave Fossa di Glevum",
           TextMapId = "UI_MECHANISM_LEAVE_KUANGKENG",
         },
         UI_MECHANISM_LEAVE_OUTSIDERHOME = {
@@ -59466,11 +59466,11 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_LEAVE_SANATORIUM",
         },
         UI_MECHANISM_LEAVE_SEW = {
-          ContentEN = "Enter Icelake",
+          ContentEN = "Entra a Icelake",
           TextMapId = "UI_MECHANISM_LEAVE_SEW",
         },
         UI_MECHANISM_LEAVE_TAVERN = {
-          ContentEN = "Leave The Asphodel",
+          ContentEN = "Lascia L'Asphodel",
           TextMapId = "UI_MECHANISM_LEAVE_TAVERN",
         },
         UI_MECHANISM_SECR_ENTER = {
@@ -65309,7 +65309,7 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_NAME_101106",
         },
         UI_SUBREGION_NAME_101107 = {
-          ContentEN = "The Asphodel",
+          ContentEN = "L'Asphodel",
           TextMapId = "UI_SUBREGION_NAME_101107",
         },
         UI_SUBREGION_NAME_101108 = {
@@ -66467,11 +66467,11 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_NAME_101103_4",
         },
         UI_TELEPORTPOINT_NAME_101301_1 = {
-          ContentEN = "Glevum Pit - Ground Floor",
+          ContentEN = "Fossa di Glevum - Ground Floor",
           TextMapId = "UI_TELEPORTPOINT_NAME_101301_1",
         },
         UI_TELEPORTPOINT_NAME_101304_1 = {
-          ContentEN = "Depths of Glevum Pit",
+          ContentEN = "Depths of Fossa di Glevum",
           TextMapId = "UI_TELEPORTPOINT_NAME_101304_1",
         },
         UI_TELEPORTPOINT_NAME_10130_1 = {
@@ -69727,7 +69727,7 @@ local r0_0 = {
           TextMapId = "WikiText_20100301",
         },
         WikiText_20100401 = {
-          ContentEN = "Camilla Scarlet, proprietress of The Asphodel, a well-known tavern in Icelake. Smooth and well-connected.\n\nShe was entrusted by a mysterious white-clad figure to rescue the wandering {nickname} and assist with {性别:his|her} temporary stay in Icelake.",
+          ContentEN = "Camilla Scarlet, proprietress of L'Asphodel, a well-known tavern in Icelake. Smooth and well-connected.\n\nShe was entrusted by a mysterious white-clad figure to rescue the wandering {nickname} and assist with {性别:his|her} temporary stay in Icelake.",
           TextMapId = "WikiText_20100401",
         },
         WikiText_20100501 = {
@@ -69767,7 +69767,7 @@ local r0_0 = {
           TextMapId = "WikiText_20100801",
         },
         WikiText_20100901 = {
-          ContentEN = "A nimble Phoxhunter based in Icelake, free-spirited and quick-witted, with a tendency to run his mouth. He first crossed paths with {nickname} while pursuing a commission involving the rare mineral Crystallo of Stella.",
+          ContentEN = "A nimble Phoxhunter based in Icelake, free-spirited and quick-witted, with a tendency to run his mouth. He first crossed paths with {nickname} while pursuing a commission involving the rare mineral Crystallo di Stella.",
           TextMapId = "WikiText_20100901",
         },
         WikiText_20101001 = {
@@ -69931,7 +69931,7 @@ local r0_0 = {
           TextMapId = "WikiText_20400105",
         },
         WikiText_20400201 = {
-          ContentEN = "A mysterious figure who appeared one night at The Asphodel. They paid Camilla a large sum to rescue {nickname} from outside Icelake.",
+          ContentEN = "A mysterious figure who appeared one night at L'Asphodel. They paid Camilla a large sum to rescue {nickname} from outside Icelake.",
           TextMapId = "WikiText_20400201",
         },
         WikiText_20400301 = {
@@ -69955,15 +69955,15 @@ local r0_0 = {
           TextMapId = "WikiText_30100301",
         },
         WikiText_30100401 = {
-          ContentEN = "A rare mineral composed of interlocking pyramidal prisms. Its hues range from deep violet to midnight blue, and within its crystalline core shimmer lights that shift like starlight in motion — as though the night sky itself had taken solid form. Revered for its mesmerising beauty, Crystallo of Stella once sparked a frenzy among aristocrats and collectors, with demand driving prices to irrational heights.",
+          ContentEN = "A rare mineral composed of interlocking pyramidal prisms. Its hues range from deep violet to midnight blue, and within its crystalline core shimmer lights that shift like starlight in motion — as though the night sky itself had taken solid form. Revered for its mesmerising beauty, Crystallo di Stella once sparked a frenzy among aristocrats and collectors, with demand driving prices to irrational heights.",
           TextMapId = "WikiText_30100401",
         },
         WikiText_30100402 = {
-          ContentEN = "In certain regions of the world, Crystallo of Stella has been used as an ingredient in medicinal remedies.\n\nWithin the Hyperborean Empire, a catastrophic incident in Flagson — a southern province — involving the crystal\'s medicinal use triggered widespread unrest. Since then, all civilian trade of the crystal has been strictly prohibited throughout the Empire.",
+          ContentEN = "In certain regions of the world, Crystallo di Stella has been used as an ingredient in medicinal remedies.\n\nWithin the Hyperborean Empire, a catastrophic incident in Flagson — a southern province — involving the crystal\'s medicinal use triggered widespread unrest. Since then, all civilian trade of the crystal has been strictly prohibited throughout the Empire.",
           TextMapId = "WikiText_30100402",
         },
         WikiText_30100403 = {
-          ContentEN = "When precisely refined into pharmaceutical compounds, Crystallo of Stella can produce various effects in Charon individuals showing early signs of Deterioration. Depending on the formulation, it may either accelerate or suppress the affliction\'s progression.",
+          ContentEN = "When precisely refined into pharmaceutical compounds, Crystallo di Stella can produce various effects in Charon individuals showing early signs of Deterioration. Depending on the formulation, it may either accelerate or suppress the affliction\'s progression.",
           TextMapId = "WikiText_30100403",
         },
         WikiText_30100501 = {
@@ -69983,7 +69983,7 @@ local r0_0 = {
           TextMapId = "WikiText_30300201",
         },
         WikiText_30300202 = {
-          ContentEN = "Despite their largely uniform appearance, most Lunarians demonstrate a natural aptitude in a specific field — smithing, commerce, investment, and the like.\n\nSnow, however — the one always flitting about The Asphodel — appears to be an exception... unless talking herself up qualifies as a legitimate skill.",
+          ContentEN = "Despite their largely uniform appearance, most Lunarians demonstrate a natural aptitude in a specific field — smithing, commerce, investment, and the like.\n\nSnow, however — the one always flitting about L'Asphodel — appears to be an exception... unless talking herself up qualifies as a legitimate skill.",
           TextMapId = "WikiText_30300202",
         },
         WikiText_30300301 = {
@@ -70007,7 +70007,7 @@ local r0_0 = {
           TextMapId = "WikiText_30300305",
         },
         WikiText_30300401 = {
-          ContentEN = "A massive creature that lurks within the ruins of Glevum Pit, named for its obsession with hoarding crystalline fragments. Though beastlike in appearance, parts of its body resemble human anatomy — suggesting it may not have always been a monster.",
+          ContentEN = "A massive creature that lurks within the ruins of Fossa di Glevum, named for its obsession with hoarding crystalline fragments. Though beastlike in appearance, parts of its body resemble human anatomy — suggesting it may not have always been a monster.",
           TextMapId = "WikiText_30300401",
         },
         WikiText_30300402 = {
@@ -70059,7 +70059,7 @@ local r0_0 = {
           TextMapId = "WikiText_40300101",
         },
         WikiText_40300201 = {
-          ContentEN = "In a desperate attempt to save his daughter Hayley from the onset of Deterioration, Henrik devoted himself to developing a suppression serum. Despite his efforts, the research failed to halt her transformation, and the project was abandoned following her death.\n\nYears later, Henrik resumed his study, this time with the aim of aiding other afflicted children. Using the rare material Crystallo of Stella, he succeeded in creating a prototype of the Deterioration Suppression Serum. However, the formula remained untested, and its effects were uncertain.\n\nPsyche, a patient under his care, volunteered to become the first test subject. The serum unexpectedly accelerated the progression of Deterioration and triggered an early onset, causing her to enter a violent state in which she injured Henrik.",
+          ContentEN = "In a desperate attempt to save his daughter Hayley from the onset of Deterioration, Henrik devoted himself to developing a suppression serum. Despite his efforts, the research failed to halt her transformation, and the project was abandoned following her death.\n\nYears later, Henrik resumed his study, this time with the aim of aiding other afflicted children. Using the rare material Crystallo di Stella, he succeeded in creating a prototype of the Deterioration Suppression Serum. However, the formula remained untested, and its effects were uncertain.\n\nPsyche, a patient under his care, volunteered to become the first test subject. The serum unexpectedly accelerated the progression of Deterioration and triggered an early onset, causing her to enter a violent state in which she injured Henrik.",
           TextMapId = "WikiText_40300201",
         },
         WikiText_40300301 = {
@@ -70115,11 +70115,11 @@ local r0_0 = {
           TextMapId = "WikiText_40500204",
         },
         WikiText_40500301 = {
-          ContentEN = "The busiest tavern in Icelake, The Asphodel welcomes all manner of patrons — from inner-city nobles to drifters from the slums. Among them are more than a few dangerous types, and clashes — verbal or otherwise — are an almost daily occurrence. Yet thanks to the masterful tact and diplomacy of its proprietress, Camilla, few such incidents ever escalate into true conflict. In a way, The Asphodel may be the most disorderly yet most peaceful place in the entire city.\n\nBeyond serving food and drink, the tavern also functions as a hub for Phoxhunters. Both clients and Phoxhunters can post or accept tasks here, with Camilla acting as an impartial broker to ensure payment, confidentiality, and safety for both sides.\n\nSome claim the tavern is involved in more illicit dealings behind the scenes. But lacking solid proof, such talk remains mere tavern gossip — hardly something the Escort would concern itself with.",
+          ContentEN = "The busiest tavern in Icelake, L'Asphodel welcomes all manner of patrons — from inner-city nobles to drifters from the slums. Among them are more than a few dangerous types, and clashes — verbal or otherwise — are an almost daily occurrence. Yet thanks to the masterful tact and diplomacy of its proprietress, Camilla, few such incidents ever escalate into true conflict. In a way, L'Asphodel may be the most disorderly yet most peaceful place in the entire city.\n\nBeyond serving food and drink, the tavern also functions as a hub for Phoxhunters. Both clients and Phoxhunters can post or accept tasks here, with Camilla acting as an impartial broker to ensure payment, confidentiality, and safety for both sides.\n\nSome claim the tavern is involved in more illicit dealings behind the scenes. But lacking solid proof, such talk remains mere tavern gossip — hardly something the Escort would concern itself with.",
           TextMapId = "WikiText_40500301",
         },
         WikiText_40500401 = {
-          ContentEN = "Phoxhunters are a distinct profession that originated in Icelake, loosely comparable to bounty hunters. They first emerged by taking on jobs to collect Phoxene, a practice that gave rise to their name. Even after the Phoxene trade was monopolised by the Empire and privileged merchant classes, the profession persisted — gradually evolving beyond its original purpose. Today, Phoxhunters take on nearly any task, from trivial errands to deadly missions. So long as the price is right, there is always someone willing to take the risk.\n\nIn Icelake, Phoxhunters typically gather at a local tavern called The Asphodel, where Camilla, the proprietress, acts as a broker between clients and Phoxhunters. The work is often dangerous, but the generous pay and open access — regardless of background — make it especially attractive to many Charons.\n\nBecause Phoxhunters rarely discriminate between clients, many lower-class Charons — unable to seek protection through official channels — turn to them in times of need. Over time, this informal force has come to fill the void left by the city\'s law enforcement, offering a semblance of order where official authority cannot reach.",
+          ContentEN = "Phoxhunters are a distinct profession that originated in Icelake, loosely comparable to bounty hunters. They first emerged by taking on jobs to collect Phoxene, a practice that gave rise to their name. Even after the Phoxene trade was monopolised by the Empire and privileged merchant classes, the profession persisted — gradually evolving beyond its original purpose. Today, Phoxhunters take on nearly any task, from trivial errands to deadly missions. So long as the price is right, there is always someone willing to take the risk.\n\nIn Icelake, Phoxhunters typically gather at a local tavern called L'Asphodel, where Camilla, the proprietress, acts as a broker between clients and Phoxhunters. The work is often dangerous, but the generous pay and open access — regardless of background — make it especially attractive to many Charons.\n\nBecause Phoxhunters rarely discriminate between clients, many lower-class Charons — unable to seek protection through official channels — turn to them in times of need. Over time, this informal force has come to fill the void left by the city\'s law enforcement, offering a semblance of order where official authority cannot reach.",
           TextMapId = "WikiText_40500401",
         },
         WikiText_40500501 = {

@@ -1875,7 +1875,7 @@ local r0_0 = {
           TextMapId = "ChapterIntroWd_Icelake",
         },
         ChapterIntroWd_LonzaFortress = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "ChapterIntroWd_LonzaFortress",
         },
         ChapterIntroWd_PurgatorioIsland = {
@@ -1891,7 +1891,7 @@ local r0_0 = {
           TextMapId = "ChapterIntro_Icelake",
         },
         ChapterIntro_LonzaFortress = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "ChapterIntro_LonzaFortress",
         },
         ChapterIntro_PurgatorioIsland = {
@@ -4498,7 +4498,7 @@ local r0_0 = {
           TextMapId = "DROP_QUEST_FIXFLOWER",
         },
         DROP_QUEST_FeinaBack = {
-          ContentEN = "Outsider\'s House",
+          ContentEN = "Casa di Outsider",
           TextMapId = "DROP_QUEST_FeinaBack",
         },
         DROP_QUEST_FeinaBook = {
@@ -5772,7 +5772,7 @@ local r0_0 = {
           TextMapId = "DailyTaskDes_10000104",
         },
         DailyTaskDes_10000105 = {
-          ContentEN = "Complete any Commission <Highlight>1</> time",
+          ContentEN = "Completa qualsiasi Commissione <highlight>1</> volta",
           TextMapId = "DailyTaskDes_10000105",
         },
         DailyTaskDes_10000106 = {
@@ -5796,23 +5796,23 @@ local r0_0 = {
           TextMapId = "DailyTaskDes_10000110",
         },
         DailyTaskDes_10000111 = {
-          ContentEN = "Fish <Highlight>1</> time",
+          ContentEN = "Pesce <Highlight>1</> volta",
           TextMapId = "DailyTaskDes_10000111",
         },
         DailyTaskDes_10000112 = {
-          ContentEN = "Forge <Highlight>1</> time",
+          ContentEN = "Forgia <Highlight>1</> volta",
           TextMapId = "DailyTaskDes_10000112",
         },
         DailyTaskDes_10000113 = {
-          ContentEN = "Take <Highlight>1</> photo",
+          ContentEN = "Scatta <Highlight>1</> foto",
           TextMapId = "DailyTaskDes_10000113",
         },
         DailyTaskDes_10000114 = {
-          ContentEN = "Colour <Highlight>1</> item",
+          ContentEN = "Colora <Highlight>1</> oggetto",
           TextMapId = "DailyTaskDes_10000114",
         },
         DailyTaskDes_10000115 = {
-          ContentEN = "Ascend any weapon <Highlight>1</> time",
+          ContentEN = "Ascendi qualsiasi arma <Highlight>1</> volta",
           TextMapId = "DailyTaskDes_10000115",
         },
         DailyTaskDes_10000116 = {
@@ -5824,11 +5824,11 @@ local r0_0 = {
           TextMapId = "DailyTaskDes_10000117",
         },
         DailyTaskDes_10000118 = {
-          ContentEN = "Complete any <Highlight>Main Story Quest</>",
+          ContentEN = "Completa qualsiasi <Highlight>Missione Storia Principale</>",
           TextMapId = "DailyTaskDes_10000118",
         },
         DailyTaskDes_10000119 = {
-          ContentEN = "Complete any <Highlight>Side Quest</>",
+          ContentEN = "Completa qualsiasi <Highlight>Missione Secondaria</>",
           TextMapId = "DailyTaskDes_10000119",
         },
         DailyTaskDes_10000120 = {
@@ -8879,7 +8879,7 @@ local r0_0 = {
           TextMapId = "EntryTitle_408006",
         },
         EntryTitle_408007 = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "EntryTitle_408007",
         },
         EntryTitle_408008 = {
@@ -11355,7 +11355,7 @@ local r0_0 = {
           TextMapId = "HomePianoNAme_1004006",
         },
         HomePianoNAme_1004007 = {
-          ContentEN = "The Hypnos\' House",
+          ContentEN = "La casa di Hypnos",
           TextMapId = "HomePianoNAme_1004007",
         },
         HomePianoNAme_1004008 = {
@@ -12144,7 +12144,7 @@ local r0_0 = {
       -- line: [12371, 13179] id: 16
       return {
         MAINUIGUIDE_TITLE_TRIALRANK = {
-          ContentEN = "Rango di Prova",
+          ContentEN = "Grado Prova",
           TextMapId = "MAINUIGUIDE_TITLE_TRIALRANK",
         },
         MAINUIGUIDE_TITLE_TRIGGEREFFECT = {
@@ -16461,7 +16461,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_1_1",
         },
         MidTermGoal_Des_1_2 = {
-          ContentEN = "Complete any Commission <highlight>1</> time",
+          ContentEN = "Completa qualsiasi Commissione <highlight>1</> volta",
           TextMapId = "MidTermGoal_Des_1_2",
         },
         MidTermGoal_Des_1_3 = {
@@ -20590,7 +20590,7 @@ local r0_0 = {
           TextMapId = "Mon_Name_9503002",
         },
         Mon_Name_9503051 = {
-          ContentEN = "Hunter",
+          ContentEN = "Cacciatore",
           TextMapId = "Mon_Name_9503051",
         },
         Mon_Name_9507001 = {
@@ -20598,7 +20598,7 @@ local r0_0 = {
           TextMapId = "Mon_Name_9507001",
         },
         Mon_Name_9801001 = {
-          ContentEN = "Snow Wolf",
+          ContentEN = "Lupo delle nevi",
           TextMapId = "Mon_Name_9801001",
         },
         Mon_Name_9802001 = {
@@ -20626,7 +20626,7 @@ local r0_0 = {
           TextMapId = "Mon_Name_9807001",
         },
         Mon_Name_9808001 = {
-          ContentEN = "Red Fox",
+          ContentEN = "Volpe Rossa",
           TextMapId = "Mon_Name_9808001",
         },
         Mon_Name_9809001 = {
@@ -24555,11 +24555,11 @@ local r0_0 = {
           TextMapId = "PlayerLevel_World_Unlock_Content",
         },
         PlayerLv_Insufficient = {
-          ContentEN = "Requisito di Rango di Prova non soddisfatto",
+          ContentEN = "Requisito di Grado Prova non soddisfatto",
           TextMapId = "PlayerLv_Insufficient",
         },
         PlayerLv_Now = {
-          ContentEN = "Rango di Prova Attuale{空格}",
+          ContentEN = "Grado Prova Attuale{空格}",
           TextMapId = "PlayerLv_Now",
         },
         Polarity_1_Name = {
@@ -24651,11 +24651,11 @@ local r0_0 = {
           TextMapId = "Positioning_Name_DPS",
         },
         Positioning_Name_ES = {
-          ContentEN = "Shielding",
+          ContentEN = "Scudiero",
           TextMapId = "Positioning_Name_ES",
         },
         Positioning_Name_HP = {
-          ContentEN = "Max HP",
+          ContentEN = "PS Max.",
           TextMapId = "Positioning_Name_HP",
         },
         Positioning_Name_Heal = {
@@ -24687,31 +24687,31 @@ local r0_0 = {
           TextMapId = "Positioning_Name_Uweapon",
         },
         Positioning_Name_WeaponDPS = {
-          ContentEN = "Weapon DMG",
+          ContentEN = "DAN. Arma",
           TextMapId = "Positioning_Name_WeaponDPS",
         },
         Prologue_ChangeGender = {
-          ContentEN = "Switch Gender",
+          ContentEN = "Cambia Genere",
           TextMapId = "Prologue_ChangeGender",
         },
         Prologue_ChooseDreamOne = {
-          ContentEN = "Please select a character",
+          ContentEN = "Seleziona un personaggio",
           TextMapId = "Prologue_ChooseDreamOne",
         },
         Prologue_ChooseGender_Female = {
-          ContentEN = "Select Right",
+          ContentEN = "Seleziona a destra",
           TextMapId = "Prologue_ChooseGender_Female",
         },
         Prologue_ChooseGender_Male = {
-          ContentEN = "Select Left",
+          ContentEN = "Seleziona a sinistra",
           TextMapId = "Prologue_ChooseGender_Male",
         },
         Prologue_ChooseMoonhunter = {
-          ContentEN = "Please select a character",
+          ContentEN = "Seleziona un personaggio",
           TextMapId = "Prologue_ChooseMoonhunter",
         },
         QUEST_INSPECIALQUEST_MSG = {
-          ContentEN = "Currently on a special quest",
+          ContentEN = "Attualmente impegnato in una missione speciale",
           TextMapId = "QUEST_INSPECIALQUEST_MSG",
         },
         QuestDesc_10020101 = {
@@ -24755,7 +24755,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020110",
         },
         QuestDesc_10020111 = {
-          ContentEN = "You have some questions for Psyche.",
+          ContentEN = "Hai delle domande per Psyche.",
           TextMapId = "QuestDesc_10020111",
         },
         QuestDesc_10020112 = {
@@ -24831,7 +24831,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020221",
         },
         QuestDesc_10020222 = {
-          ContentEN = "All Commissions for Phoxhunters are on the bulletin board in L'Asphodel. Go check it out.",
+          ContentEN = "Tutte le commissioni per i Phoxhunter sono sulla bacheca dell'Asphodel. Vai a dare un'occhiata.",
           TextMapId = "QuestDesc_10020222",
         },
         QuestDesc_10020223 = {
@@ -26089,15 +26089,15 @@ local r0_0 = {
           TextMapId = "QuestName_10020809",
         },
         QuestName_10029701 = {
-          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
+          ContentEN = "Aumenta il tuo Grado Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029701",
         },
         QuestName_10029801 = {
-          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
+          ContentEN = "Aumenta il tuo Grado Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029801",
         },
         QuestName_10029901 = {
-          ContentEN = "Aumenta il tuo Rango di Prova per continuare la Storia Principale",
+          ContentEN = "Aumenta il tuo Grado Prova per continuare la Storia Principale",
           TextMapId = "QuestName_10029901",
         },
         QuestName_10030101 = {
@@ -37299,11 +37299,11 @@ local r0_0 = {
           TextMapId = "SKILL_10301_DESC",
         },
         SKILL_10302_DESC = {
-          ContentEN = "CRIT Chance +<H>#1</>. When dealing damage with this weapon triggers Bonus Effect, there is a <H>#1</> chance to increase the Combo Level to maximum.",
+          ContentEN = "Tasso di CRIT. +<H>#1</>. Quando infliggi danni con quest'arma si attiva l'effetto bonus, c'è una probabilità del <H>#1</> di aumentare il livello combo al massimo.",
           TextMapId = "SKILL_10302_DESC",
         },
         SKILL_10303_DESC = {
-          ContentEN = "Skill Duration +<H>#1</>.",
+          ContentEN = "Durata Abilità +<H>#1</>.",
           TextMapId = "SKILL_10303_DESC",
         },
         SKILL_10304_DESC = {
@@ -37319,7 +37319,7 @@ local r0_0 = {
           TextMapId = "SKILL_10402_DESC",
         },
         SKILL_10403_DESC = {
-          ContentEN = "Skill Range +<H>#1</>.",
+          ContentEN = "Raggio Abilità +<H>#1</>.",
           TextMapId = "SKILL_10403_DESC",
         },
         SKILL_10501_DESC = {
@@ -37331,7 +37331,7 @@ local r0_0 = {
           TextMapId = "SKILL_10502_DESC",
         },
         SKILL_10503_DESC = {
-          ContentEN = "Skill Duration +<H>#1</>.",
+          ContentEN = "Durata Abilità +<H>#1</>.",
           TextMapId = "SKILL_10503_DESC",
         },
         SKILL_10504_DESC = {
@@ -37343,7 +37343,7 @@ local r0_0 = {
           TextMapId = "SKILL_10601_DESC",
         },
         SKILL_10602_DESC = {
-          ContentEN = "Skill Range +<H>#1</>.",
+          ContentEN = "Raggio Abilità +<H>#1</>.",
           TextMapId = "SKILL_10602_DESC",
         },
         SKILL_10603_DESC = {
@@ -37351,7 +37351,7 @@ local r0_0 = {
           TextMapId = "SKILL_10603_DESC",
         },
         SKILL_110001_DESC = {
-          ContentEN = "<H>[Available only when deployed as a Combat Partner]</>\n Increases ATK for self and Umbro allies.",
+          ContentEN = "<H>[Disponibile solo se schierato come compagno di combattimento]</>\n Aumenta l'ATT per se stesso e per gli alleati Umbro.",
           TextMapId = "SKILL_110001_DESC",
         },
         SKILL_110001_NAME = {
@@ -37359,7 +37359,7 @@ local r0_0 = {
           TextMapId = "SKILL_110001_NAME",
         },
         SKILL_110003_DESC = {
-          ContentEN = "<H>[Available only when deployed as a Combat Partner]</>\n Increases ATK for self and Umbro allies.",
+          ContentEN = "<H>[Disponibile solo se schierato come compagno di combattimento]</>\n Aumenta l'ATT per se stesso e per gli alleati Umbro.",
           TextMapId = "SKILL_110003_DESC",
         },
         SKILL_110003_NAME = {
@@ -37647,7 +37647,7 @@ local r0_0 = {
           TextMapId = "SKILL_20302_DESC",
         },
         SKILL_20303_DESC = {
-          ContentEN = "Skill Range +<H>#1</>.",
+          ContentEN = "Raggio Abilità +<H>#1</>.",
           TextMapId = "SKILL_20303_DESC",
         },
         SKILL_20304_DESC = {
@@ -37659,7 +37659,7 @@ local r0_0 = {
           TextMapId = "SKILL_20305_DESC",
         },
         SKILL_20401_DESC = {
-          ContentEN = "Skill Duration +<H>#1</>.",
+          ContentEN = "Durata Abilità +<H>#1</>.",
           TextMapId = "SKILL_20401_DESC",
         },
         SKILL_20402_DESC = {
@@ -37675,7 +37675,7 @@ local r0_0 = {
           TextMapId = "SKILL_20405_DESC",
         },
         SKILL_20501_DESC = {
-          ContentEN = "Skill Duration +<H>#1</>.",
+          ContentEN = "Durata Abilità +<H>#1</>.",
           TextMapId = "SKILL_20501_DESC",
         },
         SKILL_20502_DESC = {
@@ -37715,7 +37715,7 @@ local r0_0 = {
           TextMapId = "SKILL_20603_DESC",
         },
         SKILL_20604_DESC = {
-          ContentEN = "Skill Range +<H>#1</>.",
+          ContentEN = "Raggio Abilità +<H>#1</>.",
           TextMapId = "SKILL_20604_DESC",
         },
         SKILL_210001_DESC = {
@@ -38949,7 +38949,7 @@ local r0_0 = {
           TextMapId = "SKILL_DESC_3301Skill02Damage",
         },
         SKILL_DESC_3301Skill02Damage2 = {
-          ContentEN = "Additional DMG",
+          ContentEN = "DAN. aggiuntivi",
           TextMapId = "SKILL_DESC_3301Skill02Damage2",
         },
         SKILL_DESC_3301Skill02Damage2Radius = {
@@ -39361,11 +39361,11 @@ local r0_0 = {
           TextMapId = "SKILL_DESC_BonusDamageLastTime",
         },
         SKILL_DESC_BonusDamageRate = {
-          ContentEN = "Additional DMG",
+          ContentEN = "DAN. aggiuntivi",
           TextMapId = "SKILL_DESC_BonusDamageRate",
         },
         SKILL_DESC_BonusDmg = {
-          ContentEN = "Additional DMG",
+          ContentEN = "DAN. aggiuntivi",
           TextMapId = "SKILL_DESC_BonusDmg",
         },
         SKILL_DESC_BonusDmgTime = {
@@ -41612,7 +41612,7 @@ local r0_0 = {
           TextMapId = "TERM_5401_Debuff",
         },
         TERM_Common_AdditionalDmg = {
-          ContentEN = "Additional DMG",
+          ContentEN = "DAN. aggiuntivi",
           TextMapId = "TERM_Common_AdditionalDmg",
         },
         TERM_Common_OverES = {
@@ -41620,7 +41620,7 @@ local r0_0 = {
           TextMapId = "TERM_Common_OverES",
         },
         TERM_Common_SkillSpeed = {
-          ContentEN = "Skill SPD",
+          ContentEN = "VEL. Abilità",
           TextMapId = "TERM_Common_SkillSpeed",
         },
         TERM_Common_Taunt = {
@@ -41796,7 +41796,7 @@ local r0_0 = {
           TextMapId = "Tag_AttackSpeed_Reload",
         },
         Tag_BonusDmg = {
-          ContentEN = "Additional DMG",
+          ContentEN = "DAN. aggiuntivi",
           TextMapId = "Tag_BonusDmg",
         },
         Tag_BulletConver = {
@@ -45373,7 +45373,7 @@ local r0_0 = {
           TextMapId = "UI_AchievementType_Quest",
         },
         UI_Achievement_Des_1001 = {
-          ContentEN = "Restore <H>#1</> points of HP",
+          ContentEN = "Recupera <H>#1</> punti PS",
           TextMapId = "UI_Achievement_Des_1001",
         },
         UI_Achievement_Des_100101 = {
@@ -45381,7 +45381,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_100101",
         },
         UI_Achievement_Des_10051601 = {
-          ContentEN = "Complete <highlight>#1</> dynamic quest(s)",
+          ContentEN = "Completa <highlight>#1</> Missione Dinamica",
           TextMapId = "UI_Achievement_Des_10051601",
         },
         UI_Achievement_Des_10051701 = {
@@ -45393,7 +45393,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_10051702",
         },
         UI_Achievement_Des_101 = {
-          ContentEN = "Trial Rank reaches Lv. 10",
+          ContentEN = "Il Grado Prova raggiunge il Liv. 10",
           TextMapId = "UI_Achievement_Des_101",
         },
         UI_Achievement_Des_1010 = {
@@ -53166,7 +53166,7 @@ local r0_0 = {
           TextMapId = "UI_COMMONPOP_TEXT_100029",
         },
         UI_COMMONPOP_TEXT_100030 = {
-          ContentEN = "Richiede Rango di Prova %s",
+          ContentEN = "Richiede Grado Prova %s",
           TextMapId = "UI_COMMONPOP_TEXT_100030",
         },
         UI_COMMONPOP_TEXT_100033_1 = {
@@ -54003,7 +54003,7 @@ local r0_0 = {
           TextMapId = "UI_CTL_Select/Cancel",
         },
         UI_CTL_SelectLeft = {
-          ContentEN = "Select Left",
+          ContentEN = "Seleziona a sinistra",
           TextMapId = "UI_CTL_SelectLeft",
         },
         UI_CTL_SelectMessages = {
@@ -54011,7 +54011,7 @@ local r0_0 = {
           TextMapId = "UI_CTL_SelectMessages",
         },
         UI_CTL_SelectRight = {
-          ContentEN = "Select Right",
+          ContentEN = "Seleziona a destra",
           TextMapId = "UI_CTL_SelectRight",
         },
         UI_CTL_SelectRole_Change = {
@@ -54800,7 +54800,7 @@ local r0_0 = {
           TextMapId = "UI_Chat_InDungeon",
         },
         UI_Chat_InSpecialQuest = {
-          ContentEN = "Currently on a special quest",
+          ContentEN = "Attualmente impegnato in una missione speciale",
           TextMapId = "UI_Chat_InSpecialQuest",
         },
         UI_Chat_InTeamEmpty = {
@@ -57456,7 +57456,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_AcceptAll",
         },
         UI_Friend_AddBeforeChat = {
-          ContentEN = "Add a friend to start chatting",
+          ContentEN = "Aggiungi un amico per iniziare a chattare",
           TextMapId = "UI_Friend_AddBeforeChat",
         },
         UI_Friend_AddBlackList = {
@@ -57484,7 +57484,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_BlackList",
         },
         UI_Friend_BlackListEmpty = {
-          ContentEN = "No blocked players",
+          ContentEN = "Nessun giocatore bloccato",
           TextMapId = "UI_Friend_BlackListEmpty",
         },
         UI_Friend_DelBlackList = {
@@ -57500,7 +57500,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_FriendRequest",
         },
         UI_Friend_FriendRequestEmpty = {
-          ContentEN = "No pending requests",
+          ContentEN = "Nessuna richiesta in sospeso",
           TextMapId = "UI_Friend_FriendRequestEmpty",
         },
         UI_Friend_GoToAdd = {
@@ -57508,7 +57508,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_GoToAdd",
         },
         UI_Friend_Interested = {
-          ContentEN = "Suggested Friends",
+          ContentEN = "Amici suggeriti",
           TextMapId = "UI_Friend_Interested",
         },
         UI_Friend_Invite = {
@@ -57516,23 +57516,23 @@ local r0_0 = {
           TextMapId = "UI_Friend_Invite",
         },
         UI_Friend_MyFriend = {
-          ContentEN = "My Friends",
+          ContentEN = "I miei amici",
           TextMapId = "UI_Friend_MyFriend",
         },
         UI_Friend_NoAnyFriend = {
-          ContentEN = "You haven\'t added any friends yet.",
+          ContentEN = "Non hai ancora aggiunto nessun amico.",
           TextMapId = "UI_Friend_NoAnyFriend",
         },
         UI_Friend_NoOnlineFriend = {
-          ContentEN = "No friends online",
+          ContentEN = "Nessun amico online",
           TextMapId = "UI_Friend_NoOnlineFriend",
         },
         UI_Friend_NoSignature = {
-          ContentEN = "This player has no signature yet.",
+          ContentEN = "Questo giocatore non ha ancora una firma.",
           TextMapId = "UI_Friend_NoSignature",
         },
         UI_Friend_OffLineToday = {
-          ContentEN = "Last Online: Within 1 day",
+          ContentEN = "Ultima volta online: entro 1 giorno",
           TextMapId = "UI_Friend_OffLineToday",
         },
         UI_Friend_OfflineNDay = {
@@ -57544,7 +57544,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_OfflineOver30Day",
         },
         UI_Friend_OnMission = {
-          ContentEN = "On Quest",
+          ContentEN = "In Missione",
           TextMapId = "UI_Friend_OnMission",
         },
         UI_Friend_Online = {
@@ -57556,7 +57556,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_OnlineFriend",
         },
         UI_Friend_OnlineTime = {
-          ContentEN = "Last Online",
+          ContentEN = "Ultima volta online",
           TextMapId = "UI_Friend_OnlineTime",
         },
         UI_Friend_ReDef = {
@@ -57580,19 +57580,19 @@ local r0_0 = {
           TextMapId = "UI_Friend_Region",
         },
         UI_Friend_RejectAll = {
-          ContentEN = "Reject All",
+          ContentEN = "Rifiuta tutto",
           TextMapId = "UI_Friend_RejectAll",
         },
         UI_Friend_Remark = {
-          ContentEN = "Notes",
+          ContentEN = "Note",
           TextMapId = "UI_Friend_Remark",
         },
         UI_Friend_RemarkInputHint = {
-          ContentEN = "Add a note",
+          ContentEN = "Aggiungi una nota",
           TextMapId = "UI_Friend_RemarkInputHint",
         },
         UI_Friend_Remove = {
-          ContentEN = "Unfriend",
+          ContentEN = "Rimuovi amico",
           TextMapId = "UI_Friend_Remove",
         },
         UI_Friend_RemoveStar = {
@@ -57600,7 +57600,7 @@ local r0_0 = {
           TextMapId = "UI_Friend_RemoveStar",
         },
         UI_Friend_RequestHint = {
-          ContentEN = "Enter a message",
+          ContentEN = "Inserisci un messaggio",
           TextMapId = "UI_Friend_RequestHint",
         },
         UI_Friend_RequestTime = {
@@ -63743,7 +63743,7 @@ local r0_0 = {
           TextMapId = "UI_PlayerHead_Name_20003",
         },
         UI_Player_Level = {
-          ContentEN = "Rango di Prova",
+          ContentEN = "Grado Prova",
           TextMapId = "UI_Player_Level",
         },
         UI_Player_LevelReward_Title1 = {
@@ -63759,7 +63759,7 @@ local r0_0 = {
           TextMapId = "UI_Player_LevelUp",
         },
         UI_Player_Level_Reward = {
-          ContentEN = "Ricompense Rango di Prova",
+          ContentEN = "Ricompense Grado Prova",
           TextMapId = "UI_Player_Level_Reward",
         },
         UI_PowerSeat = {
@@ -63823,7 +63823,7 @@ local r0_0 = {
           TextMapId = "UI_QUEST_CONDITION_FINISHQUEST",
         },
         UI_QUEST_CONDITION_PLAYERLEVEL = {
-          ContentEN = "Rango di Prova:ㅤ",
+          ContentEN = "Grado Prova:ㅤ",
           TextMapId = "UI_QUEST_CONDITION_PLAYERLEVEL",
         },
         UI_QUEST_CONTENT = {
@@ -63988,7 +63988,7 @@ local r0_0 = {
           TextMapId = "UI_REGIONMAP_NAME_203",
         },
         UI_REGIONMAP_NAME_204 = {
-          ContentEN = "The Hypnos\' House",
+          ContentEN = "La casa di Hypnos",
           TextMapId = "UI_REGIONMAP_NAME_204",
         },
         UI_REGION_EXITONLINE_TIP = {
@@ -64020,7 +64020,7 @@ local r0_0 = {
           TextMapId = "UI_REGION_NAME_1017",
         },
         UI_REGION_NAME_1018 = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "UI_REGION_NAME_1018",
         },
         UI_REGION_NAME_1019 = {
@@ -64028,7 +64028,7 @@ local r0_0 = {
           TextMapId = "UI_REGION_NAME_1019",
         },
         UI_REGION_NAME_1021 = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "UI_REGION_NAME_1021",
         },
         UI_REGION_NAME_1022 = {
@@ -64913,11 +64913,11 @@ local r0_0 = {
           TextMapId = "UI_SHOP_ROGUE_ITEM",
         },
         UI_SHOP_SHOPITEMLIMIT = {
-          ContentEN = "Limited Stock{空格}",
+          ContentEN = "Disponibilità limitata{空格}",
           TextMapId = "UI_SHOP_SHOPITEMLIMIT",
         },
         UI_SHOP_SOLDOUT = {
-          ContentEN = "Sold Out",
+          ContentEN = "Esaurito",
           TextMapId = "UI_SHOP_SOLDOUT",
         },
         UI_SHOP_SUBTAB_NAME_101 = {
@@ -65037,7 +65037,7 @@ local r0_0 = {
           TextMapId = "UI_SHOWNPC_DESC_SCENE3",
         },
         UI_SHOWNPC_LABEL_1 = {
-          ContentEN = "Select a character from the list on the left",
+          ContentEN = "Seleziona un personaggio dall'elenco a sinistra",
           TextMapId = "UI_SHOWNPC_LABEL_1",
         },
         UI_SHOWNPC_LIST_CONT_1 = {
@@ -65045,7 +65045,7 @@ local r0_0 = {
           TextMapId = "UI_SHOWNPC_LIST_CONT_1",
         },
         UI_SHOWNPC_LIST_SORT = {
-          ContentEN = "Sort by: ",
+          ContentEN = "Ordina per: ",
           TextMapId = "UI_SHOWNPC_LIST_SORT",
         },
         UI_SHOWNPC_NAME_SCENE1 = {
@@ -65061,7 +65061,7 @@ local r0_0 = {
           TextMapId = "UI_SHOWNPC_NAME_SCENE3",
         },
         UI_SHOWNPC_NAME_SYSTEM = {
-          ContentEN = "Invite",
+          ContentEN = "Invita",
           TextMapId = "UI_SHOWNPC_NAME_SYSTEM",
         },
         UI_SHOWNPC_SELECT = {
@@ -65069,7 +65069,7 @@ local r0_0 = {
           TextMapId = "UI_SHOWNPC_SELECT",
         },
         UI_SHOWNPC_SETTLED = {
-          ContentEN = "Invited",
+          ContentEN = "Invitato",
           TextMapId = "UI_SHOWNPC_SETTLED",
         },
         UI_SHOWNPC_UNSETTLED = {
@@ -65097,7 +65097,7 @@ local r0_0 = {
           TextMapId = "UI_STAT_Bullets_Cost",
         },
         UI_STAT_Chest = {
-          ContentEN = "Chests Opened",
+          ContentEN = "Casse aperte",
           TextMapId = "UI_STAT_Chest",
         },
         UI_STAT_Combo_Max = {
@@ -65129,11 +65129,11 @@ local r0_0 = {
           TextMapId = "UI_STAT_DAMAGE_TITLE",
         },
         UI_STAT_DEAD = {
-          ContentEN = "Death(s)",
+          ContentEN = "Morti",
           TextMapId = "UI_STAT_DEAD",
         },
         UI_STAT_Damage_Max = {
-          ContentEN = "Max DMG per ATK",
+          ContentEN = "DAN. massimo per ATT",
           TextMapId = "UI_STAT_Damage_Max",
         },
         UI_STAT_Destructible = {
@@ -65297,15 +65297,15 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_NAME_101103",
         },
         UI_SUBREGION_NAME_101104 = {
-          ContentEN = "Legion Fortress",
+          ContentEN = "Fortezza della Legione",
           TextMapId = "UI_SUBREGION_NAME_101104",
         },
         UI_SUBREGION_NAME_101105 = {
-          ContentEN = "Outsider\'s House",
+          ContentEN = "Casa di Outsider",
           TextMapId = "UI_SUBREGION_NAME_101105",
         },
         UI_SUBREGION_NAME_101106 = {
-          ContentEN = "The Hypnos\' House",
+          ContentEN = "La casa di Hypnos",
           TextMapId = "UI_SUBREGION_NAME_101106",
         },
         UI_SUBREGION_NAME_101107 = {
@@ -65682,7 +65682,7 @@ local r0_0 = {
           TextMapId = "UI_SkinGacha_Blue",
         },
         UI_SkinGacha_Core_GoldSkin = {
-          ContentEN = "Lustrous Skin",
+          ContentEN = "Skin Lustruosa",
           TextMapId = "UI_SkinGacha_Core_GoldSkin",
         },
         UI_SkinGacha_CostRes_Lack = {
@@ -66286,7 +66286,7 @@ local r0_0 = {
           TextMapId = "UI_Squad_SaveReConfirm",
         },
         UI_Squad_Select_Char = {
-          ContentEN = "Please select a character",
+          ContentEN = "Seleziona un personaggio",
           TextMapId = "UI_Squad_Select_Char",
         },
         UI_Squad_Sigil1 = {
@@ -66435,7 +66435,7 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_NAME_101101_1",
         },
         UI_TELEPORTPOINT_NAME_101101_3 = {
-          ContentEN = "The Hypnos\' House",
+          ContentEN = "La casa di Hypnos",
           TextMapId = "UI_TELEPORTPOINT_NAME_101101_3",
         },
         UI_TELEPORTPOINT_NAME_101102_1 = {
@@ -67684,7 +67684,7 @@ local r0_0 = {
           TextMapId = "UI_Vote_Finish_Continue",
         },
         UI_Vote_Finish_Continued = {
-          ContentEN = "Ready to continue the challenge",
+          ContentEN = "Pronto a continuare la sfida",
           TextMapId = "UI_Vote_Finish_Continued",
         },
         UI_Vote_Finish_Continuing = {
@@ -67696,7 +67696,7 @@ local r0_0 = {
           TextMapId = "UI_Vote_Finish_Notenough",
         },
         UI_Vote_Finish_Retreat = {
-          ContentEN = "Retreat",
+          ContentEN = "Ritirati",
           TextMapId = "UI_Vote_Finish_Retreat",
         },
         UI_Vote_Finish_Retreated = {
@@ -67712,7 +67712,7 @@ local r0_0 = {
           TextMapId = "UI_Vote_Retreat_Auto",
         },
         UI_Vote_Retreat_Current = {
-          ContentEN = "Current rewards",
+          ContentEN = "Ricompense attuali",
           TextMapId = "UI_Vote_Retreat_Current",
         },
         UI_Vote_Retreat_Reward = {
@@ -67732,11 +67732,11 @@ local r0_0 = {
           TextMapId = "UI_WALNUTDUNGEON_REFRESH_TOAST",
         },
         UI_WEAPON_DESC_10101 = {
-          ContentEN = "The weapon that Berenica carries. A blade adorned with golden decorations. The blade is made from a black metal that is not commonly found. Clearly, this is not a weapon that the villagers of L'isola del Purgatorio would normally possess.",
+          ContentEN = "L'arma che Berenica porta con sé. Una lama ornata di decorazioni dorate. La lama è fatta di un metallo nero che non si trova comunemente. Chiaramente, questa non è un'arma che gli abitanti dell'Isola del Purgatorio normalmente possederebbero.",
           TextMapId = "UI_WEAPON_DESC_10101",
         },
         UI_WEAPON_DESC_10102 = {
-          ContentEN = "May reckless revelries compensate for your loneliness.",
+          ContentEN = "Possano le feste sfrenate compensare la tua solitudine.",
           TextMapId = "UI_WEAPON_DESC_10102",
         },
         UI_WEAPON_DESC_10103 = {
@@ -67756,7 +67756,7 @@ local r0_0 = {
           TextMapId = "UI_WEAPON_DESC_10198",
         },
         UI_WEAPON_DESC_10199 = {
-          ContentEN = "An ordinary sword. It\'s made from the cheapest metal, so there\'s no shame if it breaks.",
+          ContentEN = "Una spada ordinaria. È fatta del metallo più economico, quindi non c'è niente di male se si rompe.",
           TextMapId = "UI_WEAPON_DESC_10199",
         },
         UI_WEAPON_DESC_10201 = {
@@ -68421,7 +68421,7 @@ local r0_0 = {
           TextMapId = "UI_WORLDMAP_NAME_2",
         },
         UI_WORLDMAP_NAME_3 = {
-          ContentEN = "Lonza Fortress",
+          ContentEN = "Fortezza di Lonza",
           TextMapId = "UI_WORLDMAP_NAME_3",
         },
         UI_WORLDMAP_NAME_4 = {
@@ -68429,7 +68429,7 @@ local r0_0 = {
           TextMapId = "UI_WORLDMAP_NAME_4",
         },
         UI_WORLDMAP_NAME_5 = {
-          ContentEN = "Imperial Capital",
+          ContentEN = "Capitale Imperiale",
           TextMapId = "UI_WORLDMAP_NAME_5",
         },
         UI_WORLDMAP_REGIONNAME_1 = {
@@ -69070,7 +69070,7 @@ local r0_0 = {
           TextMapId = "VoiceDes022",
         },
         VoiceDes023 = {
-          ContentEN = "Retreat",
+          ContentEN = "Ritirati",
           TextMapId = "VoiceDes023",
         },
         VoiceDes024 = {

@@ -477,7 +477,7 @@ local r0_0 = {
           TextMapId = "Access_Collecting_Icelake03",
         },
         Access_Collecting_Icelake04 = {
-          ContentEN = "Trovato in Distretto Orientale, Icelake -  Thawing Caverns",
+          ContentEN = "Trovato in Distretto Orientale, Icelake -  Grotte dello Scongelamento",
           TextMapId = "Access_Collecting_Icelake04",
         },
         Access_Collecting_Kuangkeng = {
@@ -485,15 +485,15 @@ local r0_0 = {
           TextMapId = "Access_Collecting_Kuangkeng",
         },
         Access_Collecting_Prologue01 = {
-          ContentEN = "Trovato in L'isola del Purgatorio - Village Overrun By Filthoids",
+          ContentEN = "Trovato in L'isola del Purgatorio - Villaggio invaso dai Filthoid",
           TextMapId = "Access_Collecting_Prologue01",
         },
         Access_Collecting_Prologue02 = {
-          ContentEN = "Trovato in L'isola del Purgatorio - Arcane Ruins - Middle Floor",
+          ContentEN = "Trovato in L'isola del Purgatorio - Rovine Arcane - Middle Floor",
           TextMapId = "Access_Collecting_Prologue02",
         },
         Access_Collecting_Prologue03 = {
-          ContentEN = "Trovato in L'isola del Purgatorio - Arcane Ruins",
+          ContentEN = "Trovato in L'isola del Purgatorio - Rovine Arcane",
           TextMapId = "Access_Collecting_Prologue03",
         },
         Access_Collecting_Sew = {
@@ -2127,27 +2127,27 @@ local r0_0 = {
           TextMapId = "Condition_Toast_DungeonUnlock_3056",
         },
         Condition_Toast_DungeonUnlock_3061 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅰ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅰ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3061",
         },
         Condition_Toast_DungeonUnlock_3062 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅱ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅱ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3062",
         },
         Condition_Toast_DungeonUnlock_3063 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅲ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅲ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3063",
         },
         Condition_Toast_DungeonUnlock_3064 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅳ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅳ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3064",
         },
         Condition_Toast_DungeonUnlock_3065 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅴ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅴ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3065",
         },
         Condition_Toast_DungeonUnlock_3066 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediation (Ⅵ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Mediazione (Ⅵ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3066",
         },
         Condition_Toast_DungeonUnlock_3071 = {
@@ -2247,27 +2247,27 @@ local r0_0 = {
           TextMapId = "Condition_Toast_DungeonUnlock_3125",
         },
         Condition_Toast_DungeonUnlock_3130 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅰ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅰ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3130",
         },
         Condition_Toast_DungeonUnlock_3131 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅰ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅰ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3131",
         },
         Condition_Toast_DungeonUnlock_3132 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅱ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅱ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3132",
         },
         Condition_Toast_DungeonUnlock_3133 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅲ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅲ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3133",
         },
         Condition_Toast_DungeonUnlock_3134 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅳ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅳ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3134",
         },
         Condition_Toast_DungeonUnlock_3135 = {
-          ContentEN = "Si sblocca dopo aver completato la Commissione: Escort (Ⅴ)",
+          ContentEN = "Si sblocca dopo aver completato la Commissione: Scorta (Ⅴ)",
           TextMapId = "Condition_Toast_DungeonUnlock_3135",
         },
         Condition_Toast_DungeonUnlock_3140 = {
@@ -4406,7 +4406,7 @@ local r0_0 = {
           TextMapId = "DROP_NAME_1006",
         },
         DROP_NAME_1007 = {
-          ContentEN = "Some Carmine Globules",
+          ContentEN = "Alcuni Globuli di Carminio",
           TextMapId = "DROP_NAME_1007",
         },
         DROP_NAME_1008 = {
@@ -4638,7 +4638,7 @@ local r0_0 = {
           TextMapId = "DUNGEONMATCH_START",
         },
         DUNGEONSINGLE = {
-          ContentEN = "Start Challenge",
+          ContentEN = "Inizia la Sfida",
           TextMapId = "DUNGEONSINGLE",
         },
         DUNGEON_DEFENCE_101 = {
@@ -4738,7 +4738,7 @@ local r0_0 = {
           TextMapId = "DUNGEON_ENGINE_102",
         },
         DUNGEON_ENGINE_103 = {
-          ContentEN = "Evacuate immediately!",
+          ContentEN = "Evacuare immediatamente!",
           TextMapId = "DUNGEON_ENGINE_103",
         },
         DUNGEON_ENGINE_104 = {
@@ -4955,7 +4955,7 @@ local r0_0 = {
           TextMapId = "DUNGEON_NAME_30004",
         },
         DUNGEON_NAME_30005 = {
-          ContentEN = "Mediation (Ⅰ)",
+          ContentEN = "Mediazione (Ⅰ)",
           TextMapId = "DUNGEON_NAME_30005",
         },
         DUNGEON_NAME_30006 = {
@@ -5215,15 +5215,15 @@ local r0_0 = {
           TextMapId = "DUNGEON_NAME_90406",
         },
         DUNGEON_NAME_90501 = {
-          ContentEN = "Mediation (Ⅰ)",
+          ContentEN = "Mediazione (Ⅰ)",
           TextMapId = "DUNGEON_NAME_90501",
         },
         DUNGEON_NAME_90502 = {
-          ContentEN = "Mediation (Ⅱ)",
+          ContentEN = "Mediazione (Ⅱ)",
           TextMapId = "DUNGEON_NAME_90502",
         },
         DUNGEON_NAME_90503 = {
-          ContentEN = "Mediation (Ⅲ)",
+          ContentEN = "Mediazione (Ⅲ)",
           TextMapId = "DUNGEON_NAME_90503",
         },
         DUNGEON_NAME_90601 = {
@@ -5744,7 +5744,7 @@ local r0_0 = {
           TextMapId = "DUNGEON_TRAINING_102",
         },
         DUNGEON_TRAINING_103 = {
-          ContentEN = "Start Challenge",
+          ContentEN = "Inizia la Sfida",
           TextMapId = "DUNGEON_TRAINING_103",
         },
         DUNGEON_WEEK = {
@@ -6961,11 +6961,11 @@ local r0_0 = {
           TextMapId = "Description_120114_10_1",
         },
         Description_120114_10_2 = {
-          ContentEN = "Return to Icelake",
+          ContentEN = "Ritorna a Icelake",
           TextMapId = "Description_120114_10_2",
         },
         Description_120114_10_3 = {
-          ContentEN = "Return to Icelake",
+          ContentEN = "Ritorna a Icelake",
           TextMapId = "Description_120114_10_3",
         },
         Description_120114_10_4 = {
@@ -7229,7 +7229,7 @@ local r0_0 = {
           TextMapId = "Description_200205_1",
         },
         Description_200205_10 = {
-          ContentEN = "Return to Icelake",
+          ContentEN = "Ritorna a Icelake",
           TextMapId = "Description_200205_10",
         },
         Description_200205_2 = {
@@ -8034,7 +8034,7 @@ local r0_0 = {
           TextMapId = "DynQuest_DaJie_Des",
         },
         DynQuest_DaJie_Title = {
-          ContentEN = "H...H...H...Hands in the Air!",
+          ContentEN = "M...M...M...Mani in alto!",
           TextMapId = "DynQuest_DaJie_Title",
         },
         DynQuest_Daimai_Des = {
@@ -10794,7 +10794,7 @@ local r0_0 = {
           TextMapId = "Guide_UI_SpiralLeap_PC",
         },
         HARDBOSS_OPENMECHANISM_1 = {
-          ContentEN = "Start Challenge",
+          ContentEN = "Inizia la Sfida",
           TextMapId = "HARDBOSS_OPENMECHANISM_1",
         },
         HitMontageRate_Name = {
@@ -10826,7 +10826,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1001005",
         },
         HomePianoAcc_1001006 = {
-          ContentEN = "Source: Explore Arcane Ruins – Top Floor, L'isola del Purgatorio",
+          ContentEN = "Source: Explore Rovine Arcane – Top Floor, L'isola del Purgatorio",
           TextMapId = "HomePianoAcc_1001006",
         },
         HomePianoAcc_1002001 = {
@@ -10838,7 +10838,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1002002",
         },
         HomePianoAcc_1002003 = {
-          ContentEN = "Source: Explore Arcane Ruins – Middle Floor, L'isola del Purgatorio",
+          ContentEN = "Source: Explore Rovine Arcane – Middle Floor, L'isola del Purgatorio",
           TextMapId = "HomePianoAcc_1002003",
         },
         HomePianoAcc_1003001 = {
@@ -10846,7 +10846,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1003001",
         },
         HomePianoAcc_1003002 = {
-          ContentEN = "Source: Explore Arcane Ruins – Top Floor, L'isola del Purgatorio",
+          ContentEN = "Source: Explore Rovine Arcane – Top Floor, L'isola del Purgatorio",
           TextMapId = "HomePianoAcc_1003002",
         },
         HomePianoAcc_1003003 = {
@@ -12035,7 +12035,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_ROUGE",
         },
         MAINUIGUIDE_TITLE_Rescue = {
-          ContentEN = "Commissione: Escort",
+          ContentEN = "Commissione: Scorta",
           TextMapId = "MAINUIGUIDE_TITLE_Rescue",
         },
         MAINUIGUIDE_TITLE_SHADOW = {
@@ -12079,7 +12079,7 @@ local r0_0 = {
           TextMapId = "MAINUIGUIDE_TITLE_SWITCHMASTER",
         },
         MAINUIGUIDE_TITLE_Sabotage = {
-          ContentEN = "Commissione: Mediation",
+          ContentEN = "Commissione: Mediazione",
           TextMapId = "MAINUIGUIDE_TITLE_Sabotage",
         },
         MAINUIGUIDE_TITLE_SabotagePro = {
@@ -13009,7 +13009,7 @@ local r0_0 = {
           TextMapId = "MESSAGE_TITLE_LOADING_36_PC",
         },
         MESSAGE_TITLE_LOADING_37_PC = {
-          ContentEN = "Commission for Phoxhunters: Mediation",
+          ContentEN = "Commission for Phoxhunters: Mediazione",
           TextMapId = "MESSAGE_TITLE_LOADING_37_PC",
         },
         MESSAGE_TITLE_LOADING_38_PC = {
@@ -15840,7 +15840,7 @@ local r0_0 = {
           TextMapId = "Message_Guide_Mod_10",
         },
         Message_Guide_Mod_11 = {
-          ContentEN = "Consume <H>Coins</> and <H>Carmine Globules</> to <H>upgrade</> Demon Wedges and greatly enhance their powers. However, upgrading Demon Wedges will also increase the burden they put on the bearer, potentially exceeding the Tolerance cap for equipping.",
+          ContentEN = "Consuma <H>Monete</> e <H>Globuli di Carminio</> per <H>migliorare</> i Demon Wedges e potenziarne notevolmente i poteri. Tuttavia, potenziare i Demon Wedges aumenterà anche il carico che impongono al portatore, potenzialmente superando il limite di tolleranza per l'equipaggiamento.",
           TextMapId = "Message_Guide_Mod_11",
         },
         Message_Guide_Mod_12 = {
@@ -16473,11 +16473,11 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_1_4",
         },
         MidTermGoal_Des_2_1 = {
-          ContentEN = "Complete [Commissione: Escort] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Scorta] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_2_1",
         },
         MidTermGoal_Des_2_2 = {
-          ContentEN = "Obtain <highlight>300</> Carmine Globules",
+          ContentEN = "Obtain <highlight>300</> Globulo di Carminios",
           TextMapId = "MidTermGoal_Des_2_2",
         },
         MidTermGoal_Des_2_3 = {
@@ -16553,11 +16553,11 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_6_4",
         },
         MidTermGoal_Des_7_1 = {
-          ContentEN = "Complete [Commissione: Mediation] <highlight>5</> times (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Mediazione] <highlight>5</> times (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_7_1",
         },
         MidTermGoal_Des_7_2 = {
-          ContentEN = "Complete [Commissione: Mediation] <highlight>1</> time (excluding Covert Commissions)",
+          ContentEN = "Complete [Commissione: Mediazione] <highlight>1</> time (excluding Covert Commissions)",
           TextMapId = "MidTermGoal_Des_7_2",
         },
         MidTermGoal_Des_7_3 = {
@@ -16633,7 +16633,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_A1_5",
         },
         MidTermGoal_Des_A1_6 = {
-          ContentEN = "Spend a total of <highlight>5000</> Carmine Globules",
+          ContentEN = "Spend a total of <highlight>5000</> Globulo di Carminios",
           TextMapId = "MidTermGoal_Des_A1_6",
         },
         MidTermGoal_Des_A1_7 = {
@@ -16681,7 +16681,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_A2_16",
         },
         MidTermGoal_Des_A2_17 = {
-          ContentEN = "Complete [Commissione: Mediation] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Mediazione] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_17",
         },
         MidTermGoal_Des_A2_18 = {
@@ -16697,7 +16697,7 @@ local r0_0 = {
           TextMapId = "MidTermGoal_Des_A2_2",
         },
         MidTermGoal_Des_A2_20 = {
-          ContentEN = "Complete [Commissione: Escort] a total of <highlight>5</> times",
+          ContentEN = "Complete [Commissione: Scorta] a total of <highlight>5</> times",
           TextMapId = "MidTermGoal_Des_A2_20",
         },
         MidTermGoal_Des_A2_3 = {
@@ -17915,15 +17915,15 @@ local r0_0 = {
           TextMapId = "Mon_Guide_8515001_01",
         },
         Mon_Guide_9003001_01 = {
-          ContentEN = "<Highlight>Toymakers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at modifying their surrounding environments and setting traps. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Toymaker is defeated, <Highlight>Bouncepads</> will appear on the retreat route to facilitate your retreat.",
+          ContentEN = "<Highlight>Toymakers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at modifying their surrounding environments and setting traps. \nIn <Highlight>\"Commissione: Mediazione\"</>, once a Toymaker is defeated, <Highlight>Bouncepads</> will appear on the retreat route to facilitate your retreat.",
           TextMapId = "Mon_Guide_9003001_01",
         },
         Mon_Guide_9005001_01 = {
-          ContentEN = "<Highlight>Bombaholics</> belong to the \"Soldiers\" of The Forsakens. They are highly adept at manipulating explosives. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Bombaholic is defeated, the Max HP of <Highlight>Finale Flare</> is reduced by 30%.",
+          ContentEN = "<Highlight>Bombaholics</> belong to the \"Soldiers\" of The Forsakens. They are highly adept at manipulating explosives. \nIn <Highlight>\"Commissione: Mediazione\"</>, once a Bombaholic is defeated, the Max HP of <Highlight>Finale Flare</> is reduced by 30%.",
           TextMapId = "Mon_Guide_9005001_01",
         },
         Mon_Guide_9006001_01 = {
-          ContentEN = "<Highlight>Deceivers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at disrupting enemy formations and sowing chaos on the battlefield. \nIn <Highlight>\"Commissione: Mediation\"</>, once a Deceiver is defeated, elite enemies will no longer spawn.",
+          ContentEN = "<Highlight>Deceivers</> belong to the \"Soldiers\" of The Forsakens.\nThey are adept at disrupting enemy formations and sowing chaos on the battlefield. \nIn <Highlight>\"Commissione: Mediazione\"</>, once a Deceiver is defeated, elite enemies will no longer spawn.",
           TextMapId = "Mon_Guide_9006001_01",
         },
         Mon_Guide_9500001_01 = {
@@ -21695,7 +21695,7 @@ local r0_0 = {
           TextMapId = "Pack_Des_Shop_Exp_02",
         },
         Pack_Des_Shop_Mod = {
-          ContentEN = "A regular supply package that contains a large number of Carmine Globules",
+          ContentEN = "A regular supply package that contains a large number of Globulo di Carminios",
           TextMapId = "Pack_Des_Shop_Mod",
         },
         Pack_Des_Shop_Random_Ranse = {
@@ -22012,11 +22012,11 @@ local r0_0 = {
           TextMapId = "Pack_Name_Fish_Dispatch_Des",
         },
         Pack_Name_Globule_Normal = {
-          ContentEN = "Carmine Globule Supply Chest Ⅰ",
+          ContentEN = "Globulo di Carminio Supply Chest Ⅰ",
           TextMapId = "Pack_Name_Globule_Normal",
         },
         Pack_Name_Globule_Plenty = {
-          ContentEN = "Carmine Globule Supply Chest Ⅱ",
+          ContentEN = "Globulo di Carminio Supply Chest Ⅱ",
           TextMapId = "Pack_Name_Globule_Plenty",
         },
         Pack_Name_MainChar_General_1 = {
@@ -24955,7 +24955,7 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020412",
         },
         QuestDesc_10020501 = {
-          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check L'Asphodel\'s bulletin board and complete Commissione: Mediation to gain some experience.",
+          ContentEN = "There\'s still plenty of time before the 20th arrives.\n Check L'Asphodel\'s bulletin board and complete Commissione: Mediazione to gain some experience.",
           TextMapId = "QuestDesc_10020501",
         },
         QuestDesc_10020502 = {
@@ -25120,11 +25120,11 @@ local r0_0 = {
           TextMapId = "QuestDesc_10020806",
         },
         QuestDesc_10020807 = {
-          ContentEN = "Sleep eludes you, so you set out for a walk in the Thawing Caverns.\nIt was once where you gathered fertile soil for her, and one of the few places beyond the city walls sheltered from the wind and snow.",
+          ContentEN = "Sleep eludes you, so you set out for a walk in the Grotte dello Scongelamento.\nIt was once where you gathered fertile soil for her, and one of the few places beyond the city walls sheltered from the wind and snow.",
           TextMapId = "QuestDesc_10020807",
         },
         QuestDesc_10020808 = {
-          ContentEN = "A lone figure stands in the Thawing Caverns — a woman unknown to you.\nAs your eyes meet, she seems poised to speak.",
+          ContentEN = "A lone figure stands in the Grotte dello Scongelamento — a woman unknown to you.\nAs your eyes meet, she seems poised to speak.",
           TextMapId = "QuestDesc_10020808",
         },
         QuestDesc_10020809 = {
@@ -25913,11 +25913,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020412",
         },
         QuestName_10020501 = {
-          ContentEN = "Complete [Commissione: Mediation] Once",
+          ContentEN = "Completa [Commissione: Mediazione] una volta",
           TextMapId = "QuestName_10020501",
         },
         QuestName_10020502 = {
-          ContentEN = "Observe the Legion\'s actions",
+          ContentEN = "Osserva le azioni della Legione",
           TextMapId = "QuestName_10020502",
         },
         QuestName_10020503 = {
@@ -25945,31 +25945,31 @@ local r0_0 = {
           TextMapId = "QuestName_10020506_1",
         },
         QuestName_10020507 = {
-          ContentEN = "Meet Snow near the Hypnos\' House",
+          ContentEN = "Incontra Snow vicino alla casa di Hypnos",
           TextMapId = "QuestName_10020507",
         },
         QuestName_10020601 = {
-          ContentEN = "Meet Snow near the Hypnos\' House",
+          ContentEN = "Incontra Snow vicino alla casa di Hypnos",
           TextMapId = "QuestName_10020601",
         },
         QuestName_10020602 = {
-          ContentEN = "Follow Henrik to the outskirts of the town",
+          ContentEN = "Segui Henrik fino alla periferia della città",
           TextMapId = "QuestName_10020602",
         },
         QuestName_10020602_1 = {
-          ContentEN = "Take cover nearby",
+          ContentEN = "Nasconditi qui vicino",
           TextMapId = "QuestName_10020602_1",
         },
         QuestName_10020603 = {
-          ContentEN = "Follow Henrik to the outskirts of the town",
+          ContentEN = "Segui Henrik fino alla periferia della città",
           TextMapId = "QuestName_10020603",
         },
         QuestName_10020604 = {
-          ContentEN = "Investigate the room right under the chimney",
+          ContentEN = "Ispeziona la stanza proprio sotto il camino",
           TextMapId = "QuestName_10020604",
         },
         QuestName_10020605 = {
-          ContentEN = "Meet Outsider near his house",
+          ContentEN = "Incontra Outsider vicino a casa sua",
           TextMapId = "QuestName_10020605",
         },
         QuestName_10020606 = {
@@ -25977,35 +25977,35 @@ local r0_0 = {
           TextMapId = "QuestName_10020606",
         },
         QuestName_10020607 = {
-          ContentEN = "Check on Psyche",
+          ContentEN = "Visita Psyche",
           TextMapId = "QuestName_10020607",
         },
         QuestName_10020608 = {
-          ContentEN = "Go to Lago dei Lamenti and take a walk with Psyche",
+          ContentEN = "Vai al Lago dei Lamenti e fai una passeggiata con Psyche",
           TextMapId = "QuestName_10020608",
         },
         QuestName_10020609 = {
-          ContentEN = "Head to the location Psyche has described",
+          ContentEN = "Dirigiti verso il luogo che Psyche ha descritto",
           TextMapId = "QuestName_10020609",
         },
         QuestName_10020610 = {
-          ContentEN = "Dig near the roots",
+          ContentEN = "Scava vicino alle radici",
           TextMapId = "QuestName_10020610",
         },
         QuestName_10020611 = {
-          ContentEN = "Take a walk by Lago dei Lamenti",
+          ContentEN = "Fate una passeggiata al Lago dei Lamenti",
           TextMapId = "QuestName_10020611",
         },
         QuestName_10020611_1 = {
-          ContentEN = "Use the camera to capture a memorable moment with Psyche",
+          ContentEN = "Usa la macchina fotografica per catturare un momento memorabile con Psyche",
           TextMapId = "QuestName_10020611_1",
         },
         QuestName_10020612 = {
-          ContentEN = "Return to Icelake",
+          ContentEN = "Ritorna a Icelake",
           TextMapId = "QuestName_10020612",
         },
         QuestName_10020613 = {
-          ContentEN = "Defeat the sketchy soldier",
+          ContentEN = "Sconfiggi il soldato losco",
           TextMapId = "QuestName_10020613",
         },
         QuestName_10020614 = {
@@ -26013,23 +26013,23 @@ local r0_0 = {
           TextMapId = "QuestName_10020614",
         },
         QuestName_10020615 = {
-          ContentEN = "Head back to Icelake for the scheduled meet-up",
+          ContentEN = "Torna a Icelake per l'incontro programmato",
           TextMapId = "QuestName_10020615",
         },
         QuestName_10020701 = {
-          ContentEN = "Wait for Psyche by the ticket booth",
+          ContentEN = "Aspetta Psyche alla biglietteria",
           TextMapId = "QuestName_10020701",
         },
         QuestName_10020702 = {
-          ContentEN = "Investigate the situation at the Hypnos\' House",
+          ContentEN = "Indaga sulla situazione alla Casa di Hypnos",
           TextMapId = "QuestName_10020702",
         },
         QuestName_10020703 = {
-          ContentEN = "Follow the boy into Hypnos\' House",
+          ContentEN = "Segui il ragazzo nella casa di Hypnos",
           TextMapId = "QuestName_10020703",
         },
         QuestName_10020704 = {
-          ContentEN = "Enter Henrik\'s office",
+          ContentEN = "Entra nell'ufficio di Henrik",
           TextMapId = "QuestName_10020704",
         },
         QuestName_10020705 = {
@@ -26037,19 +26037,19 @@ local r0_0 = {
           TextMapId = "QuestName_10020705",
         },
         QuestName_10020706 = {
-          ContentEN = "Follow the butterflies to find Psyche",
+          ContentEN = "Segui le farfalle per trovare Psyche",
           TextMapId = "QuestName_10020706",
         },
         QuestName_10020707 = {
-          ContentEN = "Brave the howling winds across the Lago dei Lamenti",
+          ContentEN = "Affronta i venti ululanti attraverso il Lago dei Lamenti",
           TextMapId = "QuestName_10020707",
         },
         QuestName_10020708 = {
-          ContentEN = "Awaken Psyche",
+          ContentEN = "Risveglia Psyche",
           TextMapId = "QuestName_10020708",
         },
         QuestName_10020709 = {
-          ContentEN = "Present her with the flower",
+          ContentEN = "Regalale il fiore",
           TextMapId = "QuestName_10020709",
         },
         QuestName_10020801 = {
@@ -26057,15 +26057,15 @@ local r0_0 = {
           TextMapId = "QuestName_10020801",
         },
         QuestName_10020802 = {
-          ContentEN = "Shatter the cocoon of the past",
+          ContentEN = "Rompi il bozzolo del passato",
           TextMapId = "QuestName_10020802",
         },
         QuestName_10020803 = {
-          ContentEN = "Reborn butterfly embraces new dawns",
+          ContentEN = "La farfalla rinata abbraccia nuove albe",
           TextMapId = "QuestName_10020803",
         },
         QuestName_10020804 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10020804",
         },
         QuestName_10020805 = {
@@ -26077,11 +26077,11 @@ local r0_0 = {
           TextMapId = "QuestName_10020806",
         },
         QuestName_10020807 = {
-          ContentEN = "Take a walk in the Thawing Caverns",
+          ContentEN = "Fai una passeggiata nelle Grotte dello Scongelamento",
           TextMapId = "QuestName_10020807",
         },
         QuestName_10020808 = {
-          ContentEN = "Sleep eludes you. Take a walk outside.",
+          ContentEN = "Il sonno ti sfugge. Fai una passeggiata fuori.",
           TextMapId = "QuestName_10020808",
         },
         QuestName_10020809 = {
@@ -26181,7 +26181,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030206",
         },
         QuestName_10030207 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10030207",
         },
         QuestName_10030208 = {
@@ -26321,7 +26321,7 @@ local r0_0 = {
           TextMapId = "QuestName_100303sp206",
         },
         QuestName_10030401 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10030401",
         },
         QuestName_10030402 = {
@@ -26333,7 +26333,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030403",
         },
         QuestName_10030404 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10030404",
         },
         QuestName_10030501 = {
@@ -26369,7 +26369,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030508",
         },
         QuestName_10030601 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10030601",
         },
         QuestName_10030602 = {
@@ -26377,7 +26377,7 @@ local r0_0 = {
           TextMapId = "QuestName_10030602",
         },
         QuestName_10030603 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_10030603",
         },
         QuestName_10030604 = {
@@ -26389,7 +26389,7 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus01",
         },
         QuestName_1003plus02 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_1003plus02",
         },
         QuestName_1003plus03 = {
@@ -26437,7 +26437,7 @@ local r0_0 = {
           TextMapId = "QuestName_1003plus13",
         },
         QuestName_1003plus14 = {
-          ContentEN = "Talk to Rhythm",
+          ContentEN = "Parla con Rhythm",
           TextMapId = "QuestName_1003plus14",
         },
         QuestName_1003plus15 = {
@@ -28696,7 +28696,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_DESC_20500",
         },
         RESOURCE_DESC_20510 = {
-          ContentEN = "Judging from its texture, it seems to be a fragment coming from the Statue of the Goddess of Fate in Arcane Ruins of L'isola del Purgatorio. Maybe something good would happen once it\'s used to fix the statue.",
+          ContentEN = "Judging from its texture, it seems to be a fragment coming from the Statue of the Goddess of Fate in Rovine Arcane of L'isola del Purgatorio. Maybe something good would happen once it\'s used to fix the statue.",
           TextMapId = "RESOURCE_DESC_20510",
         },
         RESOURCE_DESC_20511 = {
@@ -29986,7 +29986,7 @@ local r0_0 = {
           TextMapId = "RESOURCE_NAME_1015401",
         },
         RESOURCE_NAME_102 = {
-          ContentEN = "Carmine Globule",
+          ContentEN = "Globulo di Carminio",
           TextMapId = "RESOURCE_NAME_102",
         },
         RESOURCE_NAME_10200 = {
@@ -40807,7 +40807,7 @@ local r0_0 = {
           TextMapId = "TARGET_DUNGEON_101",
         },
         TARGET_DUNGEON_102 = {
-          ContentEN = "Prepare the serum to complete the commission",
+          ContentEN = "Prepara il siero per completare la commissione",
           TextMapId = "TARGET_DUNGEON_102",
         },
         TARGET_DUNGEON_103 = {
@@ -45417,7 +45417,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_10101",
         },
         UI_Achievement_Des_10102 = {
-          ContentEN = "Obtain <highlight>#1</> Carmine Globules",
+          ContentEN = "Obtain <highlight>#1</> Globulo di Carminios",
           TextMapId = "UI_Achievement_Des_10102",
         },
         UI_Achievement_Des_10103 = {
@@ -45497,7 +45497,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_10201",
         },
         UI_Achievement_Des_10202 = {
-          ContentEN = "Use <H>#1</> Carmine Globules",
+          ContentEN = "Use <H>#1</> Globulo di Carminios",
           TextMapId = "UI_Achievement_Des_10202",
         },
         UI_Achievement_Des_1021 = {
@@ -46122,7 +46122,7 @@ local r0_0 = {
       -- line: [48954, 49757] id: 58
       return {
         UI_Achievement_Des_5022 = {
-          ContentEN = "Secure victory in solo-mode [Commissione: Mediation] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Mediazione] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5022",
         },
         UI_Achievement_Des_5023 = {
@@ -46134,7 +46134,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5024",
         },
         UI_Achievement_Des_5025 = {
-          ContentEN = "Secure victory in solo-mode [Commissione: Escort] on the highest difficulty <H>without summoning any Combat Partners</>",
+          ContentEN = "Secure victory in solo-mode [Commissione: Scorta] on the highest difficulty <H>without summoning any Combat Partners</>",
           TextMapId = "UI_Achievement_Des_5025",
         },
         UI_Achievement_Des_5026 = {
@@ -46150,7 +46150,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50308",
         },
         UI_Achievement_Des_50309 = {
-          ContentEN = "Complete [Commissione: Mediation] within 3 minutes",
+          ContentEN = "Complete [Commissione: Mediazione] within 3 minutes",
           TextMapId = "UI_Achievement_Des_50309",
         },
         UI_Achievement_Des_5031 = {
@@ -46262,15 +46262,15 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5061003",
         },
         UI_Achievement_Des_5062001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Mediazione] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062001",
         },
         UI_Achievement_Des_5062002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Mediazione] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062002",
         },
         UI_Achievement_Des_5062003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commissione: Mediation] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>90</>s in [Commissione: Mediazione] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5062003",
         },
         UI_Achievement_Des_5063001 = {
@@ -46286,15 +46286,15 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_5063003",
         },
         UI_Achievement_Des_5064001 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commissione: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>420</>s in [Commissione: Scorta] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064001",
         },
         UI_Achievement_Des_5064002 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>300</>s in [Commissione: Scorta] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064002",
         },
         UI_Achievement_Des_5064003 = {
-          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Escort] on the highest difficulty",
+          ContentEN = "In Solo mode, secure victory within <highlight>180</>s in [Commissione: Scorta] on the highest difficulty",
           TextMapId = "UI_Achievement_Des_5064003",
         },
         UI_Achievement_Des_5065001 = {
@@ -46346,7 +46346,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50906",
         },
         UI_Achievement_Des_50907 = {
-          ContentEN = "Complete [Commissione: Mediation] for the first time",
+          ContentEN = "Complete [Commissione: Mediazione] for the first time",
           TextMapId = "UI_Achievement_Des_50907",
         },
         UI_Achievement_Des_50908 = {
@@ -46358,7 +46358,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50909",
         },
         UI_Achievement_Des_50910 = {
-          ContentEN = "Complete [Commissione: Escort] for the first time",
+          ContentEN = "Complete [Commissione: Scorta] for the first time",
           TextMapId = "UI_Achievement_Des_50910",
         },
         UI_Achievement_Des_50920 = {
@@ -46386,7 +46386,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50925",
         },
         UI_Achievement_Des_50926 = {
-          ContentEN = "Complete [Commissione: Mediation] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Mediazione] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50926",
         },
         UI_Achievement_Des_50927 = {
@@ -46398,7 +46398,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50928",
         },
         UI_Achievement_Des_50929 = {
-          ContentEN = "Complete [Commissione: Escort] a total of <highlight>#1</> time(s)",
+          ContentEN = "Complete [Commissione: Scorta] a total of <highlight>#1</> time(s)",
           TextMapId = "UI_Achievement_Des_50929",
         },
         UI_Achievement_Des_50930 = {
@@ -46410,7 +46410,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_50931",
         },
         UI_Achievement_Des_51301 = {
-          ContentEN = "Complete [Commissione: Mediation] without using Bouncepad 1 time",
+          ContentEN = "Complete [Commissione: Mediazione] without using Bouncepad 1 time",
           TextMapId = "UI_Achievement_Des_51301",
         },
         UI_Achievement_Des_51401 = {
@@ -46418,19 +46418,19 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_51401",
         },
         UI_Achievement_Des_51501 = {
-          ContentEN = "Complete [Commissione: Escort] without triggering the target execution countdown",
+          ContentEN = "Complete [Commissione: Scorta] without triggering the target execution countdown",
           TextMapId = "UI_Achievement_Des_51501",
         },
         UI_Achievement_Des_51601 = {
-          ContentEN = "In [Commissione: Escort], successfully rescue the target by breaking just ONE cell",
+          ContentEN = "In [Commissione: Scorta], successfully rescue the target by breaking just ONE cell",
           TextMapId = "UI_Achievement_Des_51601",
         },
         UI_Achievement_Des_51701 = {
-          ContentEN = "In [Commissione: Escort], successfully rescue the target with less than 5s remaining on the execution countdown",
+          ContentEN = "In [Commissione: Scorta], successfully rescue the target with less than 5s remaining on the execution countdown",
           TextMapId = "UI_Achievement_Des_51701",
         },
         UI_Achievement_Des_51801 = {
-          ContentEN = "Defeat all Patrollers in a single [Commissione: Escort]",
+          ContentEN = "Defeat all Patrollers in a single [Commissione: Scorta]",
           TextMapId = "UI_Achievement_Des_51801",
         },
         UI_Achievement_Des_519001 = {
@@ -46478,19 +46478,19 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Des_52201",
         },
         UI_Achievement_Des_52301 = {
-          ContentEN = "In any [Commissione: Escort], rescue the target on your fourth puzzle attempt after three consecutive failures",
+          ContentEN = "In any [Commissione: Scorta], rescue the target on your fourth puzzle attempt after three consecutive failures",
           TextMapId = "UI_Achievement_Des_52301",
         },
         UI_Achievement_Des_52401 = {
-          ContentEN = "Earn the top-tier reward in any [Commissione: Mediation]",
+          ContentEN = "Earn the top-tier reward in any [Commissione: Mediazione]",
           TextMapId = "UI_Achievement_Des_52401",
         },
         UI_Achievement_Des_52501 = {
-          ContentEN = "Complete any [Commissione: Mediation] without defeating any Forsaken bosses",
+          ContentEN = "Complete any [Commissione: Mediazione] without defeating any Forsaken bosses",
           TextMapId = "UI_Achievement_Des_52501",
         },
         UI_Achievement_Des_52601 = {
-          ContentEN = "Complete any [Commissione: Mediation] after defeating all Forsaken bosses",
+          ContentEN = "Complete any [Commissione: Mediazione] after defeating all Forsaken bosses",
           TextMapId = "UI_Achievement_Des_52601",
         },
         UI_Achievement_Des_52701 = {
@@ -48284,7 +48284,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_502101",
         },
         UI_Achievement_Name_502201 = {
-          ContentEN = "Physical Mediation - Solo",
+          ContentEN = "Physical Mediazione - Solo",
           TextMapId = "UI_Achievement_Name_502201",
         },
         UI_Achievement_Name_502301 = {
@@ -48312,7 +48312,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_5030801",
         },
         UI_Achievement_Name_5030901 = {
-          ContentEN = "Rapid Mediation",
+          ContentEN = "Rapid Mediazione",
           TextMapId = "UI_Achievement_Name_5030901",
         },
         UI_Achievement_Name_503101 = {
@@ -48412,15 +48412,15 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_506103",
         },
         UI_Achievement_Name_506201 = {
-          ContentEN = "Physical Mediation - Speedrun Ⅰ",
+          ContentEN = "Physical Mediazione - Speedrun Ⅰ",
           TextMapId = "UI_Achievement_Name_506201",
         },
         UI_Achievement_Name_506202 = {
-          ContentEN = "Physical Mediation - Speedrun Ⅱ",
+          ContentEN = "Physical Mediazione - Speedrun Ⅱ",
           TextMapId = "UI_Achievement_Name_506202",
         },
         UI_Achievement_Name_506203 = {
-          ContentEN = "Physical Mediation - Speedrun Ⅲ",
+          ContentEN = "Physical Mediazione - Speedrun Ⅲ",
           TextMapId = "UI_Achievement_Name_506203",
         },
         UI_Achievement_Name_506301 = {
@@ -48496,7 +48496,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_5090601",
         },
         UI_Achievement_Name_5090701 = {
-          ContentEN = "Physical Mediation Ⅰ",
+          ContentEN = "Physical Mediazione Ⅰ",
           TextMapId = "UI_Achievement_Name_5090701",
         },
         UI_Achievement_Name_5090801 = {
@@ -48536,7 +48536,7 @@ local r0_0 = {
           TextMapId = "UI_Achievement_Name_5092501",
         },
         UI_Achievement_Name_5092601 = {
-          ContentEN = "Physical Mediation Ⅱ",
+          ContentEN = "Physical Mediazione Ⅱ",
           TextMapId = "UI_Achievement_Name_5092601",
         },
       }
@@ -49790,7 +49790,7 @@ local r0_0 = {
           TextMapId = "UI_ArmourySquad_AutoSummon",
         },
         UI_ArmourySquad_AutoSummonTips = {
-          ContentEN = "When \"Auto-Summon\" is on, entering a battle with Preset Loadout will automatically summon fitting Combat Partners.",
+          ContentEN = "Quando \"Auto-Summon\" è attivo, entrare in battaglia con Equipaggiamento preimpostato evocherà automaticamente i compagni di combattimento adatti.",
           TextMapId = "UI_ArmourySquad_AutoSummonTips",
         },
         UI_ArmourySquad_Edit_Toast = {
@@ -49798,7 +49798,7 @@ local r0_0 = {
           TextMapId = "UI_ArmourySquad_Edit_Toast",
         },
         UI_ArmourySquad_Title = {
-          ContentEN = "Preset Loadout",
+          ContentEN = "Equipaggiamento preimpostato",
           TextMapId = "UI_ArmourySquad_Title",
         },
         UI_Attr_Dark_Name = {
@@ -50046,7 +50046,7 @@ local r0_0 = {
           TextMapId = "UI_Bag_Sell_Get",
         },
         UI_Bag_Sell_Select = {
-          ContentEN = "Selected",
+          ContentEN = "Selezionato",
           TextMapId = "UI_Bag_Sell_Select",
         },
         UI_Bag_Sell_Total = {
@@ -55313,7 +55313,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_RESCUE_3",
         },
         UI_DUNGEON_DES_RESCUE_4 = {
-          ContentEN = "Find the target before the countdown ends, or the Commission will fail!",
+          ContentEN = "Trova l'obiettivo prima che finisca il conto alla rovescia, altrimenti la Commissione fallirà!",
           TextMapId = "UI_DUNGEON_DES_RESCUE_4",
         },
         UI_DUNGEON_DES_RESCUE_5 = {
@@ -55341,11 +55341,11 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_SABOTAGEPRO_1",
         },
         UI_DUNGEON_DES_SABOTAGE_1 = {
-          ContentEN = "Prevent the \"Finale Flare\" of The Forsakens from exploding and stop the conflict from escalating",
+          ContentEN = "Impedisci che il \"Finale Flare\" dei Forsakens esploda e impedisca al conflitto di degenerare",
           TextMapId = "UI_DUNGEON_DES_SABOTAGE_1",
         },
         UI_DUNGEON_DES_SURVIVALPRO_1 = {
-          ContentEN = "Prepare the serum to complete the commission",
+          ContentEN = "Prepara il siero per completare la commissione",
           TextMapId = "UI_DUNGEON_DES_SURVIVALPRO_1",
         },
         UI_DUNGEON_DES_SURVIVAL_1 = {
@@ -55409,7 +55409,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_TRAINING_2",
         },
         UI_DUNGEON_DES_TRAINING_20 = {
-          ContentEN = "Filthoids",
+          ContentEN = "Filthoid",
           TextMapId = "UI_DUNGEON_DES_TRAINING_20",
         },
         UI_DUNGEON_DES_TRAINING_21 = {
@@ -55429,7 +55429,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_TRAINING_24",
         },
         UI_DUNGEON_DES_TRAINING_25 = {
-          ContentEN = "Selected",
+          ContentEN = "Selezionato",
           TextMapId = "UI_DUNGEON_DES_TRAINING_25",
         },
         UI_DUNGEON_DES_TRAINING_26 = {
@@ -55461,7 +55461,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_TRAINING_31",
         },
         UI_DUNGEON_DES_TRAINING_32 = {
-          ContentEN = "Enemy Level",
+          ContentEN = "Livello nemico",
           TextMapId = "UI_DUNGEON_DES_TRAINING_32",
         },
         UI_DUNGEON_DES_TRAINING_33 = {
@@ -55501,15 +55501,15 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DES_TRAINING_9",
         },
         UI_DUNGEON_DROP_BOSS = {
-          ContentEN = "Blueprint",
+          ContentEN = "Progetto",
           TextMapId = "UI_DUNGEON_DROP_BOSS",
         },
         UI_DUNGEON_DROP_CHARBREAK = {
-          ContentEN = "Character Ascension Materials",
+          ContentEN = "Materiali Ascensione Personaggi",
           TextMapId = "UI_DUNGEON_DROP_CHARBREAK",
         },
         UI_DUNGEON_DROP_CHAREXP = {
-          ContentEN = "Character EXP",
+          ContentEN = "ESP Personaggio",
           TextMapId = "UI_DUNGEON_DROP_CHAREXP",
         },
         UI_DUNGEON_DROP_CHARMOD = {
@@ -55517,7 +55517,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DROP_CHARMOD",
         },
         UI_DUNGEON_DROP_COIN = {
-          ContentEN = "Coins",
+          ContentEN = "Monete",
           TextMapId = "UI_DUNGEON_DROP_COIN",
         },
         UI_DUNGEON_DROP_MOD = {
@@ -55525,7 +55525,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DROP_MOD",
         },
         UI_DUNGEON_DROP_MODCOIN = {
-          ContentEN = "Carmine Globule",
+          ContentEN = "Globulo di Carminio",
           TextMapId = "UI_DUNGEON_DROP_MODCOIN",
         },
         UI_DUNGEON_DROP_MeleeWEAPONMOD = {
@@ -55533,7 +55533,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DROP_MeleeWEAPONMOD",
         },
         UI_DUNGEON_DROP_RESOURCE = {
-          ContentEN = "Forge Materials",
+          ContentEN = "Materiali Forgia",
           TextMapId = "UI_DUNGEON_DROP_RESOURCE",
         },
         UI_DUNGEON_DROP_RangedWEAPONMOD = {
@@ -55541,7 +55541,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_DROP_RangedWEAPONMOD",
         },
         UI_DUNGEON_DROP_SKILL = {
-          ContentEN = "Skill Upgrade Materials",
+          ContentEN = "Materiali Miglioramento Abilità",
           TextMapId = "UI_DUNGEON_DROP_SKILL",
         },
         UI_DUNGEON_DROP_SKILL_JOB = {
@@ -55681,7 +55681,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_TYPE_RESCUE",
         },
         UI_DUNGEON_TYPE_SABOTAGE = {
-          ContentEN = "Mediation",
+          ContentEN = "Mediazione",
           TextMapId = "UI_DUNGEON_TYPE_SABOTAGE",
         },
         UI_DUNGEON_TYPE_SABOTAGEPRO = {
@@ -56246,7 +56246,7 @@ local r0_0 = {
           TextMapId = "UI_Disptach_ChoseAgent",
         },
         UI_Disptach_Chosen = {
-          ContentEN = "Selected",
+          ContentEN = "Selezionato",
           TextMapId = "UI_Disptach_Chosen",
         },
         UI_Disptach_Confirm = {
@@ -56486,7 +56486,7 @@ local r0_0 = {
           TextMapId = "UI_Dungeon_Tab_WalnutDungeon",
         },
         UI_Dungeon_Title_Event = {
-          ContentEN = "Commission Occurrence",
+          ContentEN = "Evento Commissione",
           TextMapId = "UI_Dungeon_Title_Event",
         },
         UI_Dungeon_Title_RewardList = {
@@ -58040,7 +58040,7 @@ local r0_0 = {
           TextMapId = "UI_HardBoss_Toward",
         },
         UI_HardBoss_Track = {
-          ContentEN = "Start Challenge",
+          ContentEN = "Inizia la Sfida",
           TextMapId = "UI_HardBoss_Track",
         },
         UI_HardBoss_Unlocklevel = {
@@ -58273,7 +58273,7 @@ local r0_0 = {
           TextMapId = "UI_HealthyGame_Title",
         },
         UI_IMPRESSIONSHOP_MAINTAB_ACCESSORY = {
-          ContentEN = "Blueprint",
+          ContentEN = "Progetto",
           TextMapId = "UI_IMPRESSIONSHOP_MAINTAB_ACCESSORY",
         },
         UI_IMPRESSIONSHOP_MAINTAB_NORMAL = {
@@ -58925,7 +58925,7 @@ local r0_0 = {
           TextMapId = "UI_Locked_Des_Forging",
         },
         UI_Locked_Des_Friend = {
-          ContentEN = "Friends not unlocked",
+          ContentEN = "Amici non sbloccati",
           TextMapId = "UI_Locked_Des_Friend",
         },
         UI_Locked_Des_Gacha = {
@@ -59318,7 +59318,7 @@ local r0_0 = {
           TextMapId = "UI_MECHANISM_110",
         },
         UI_MECHANISM_111 = {
-          ContentEN = "Start Challenge",
+          ContentEN = "Inizia la Sfida",
           TextMapId = "UI_MECHANISM_111",
         },
         UI_MECHANISM_112 = {
@@ -64352,7 +64352,7 @@ local r0_0 = {
           TextMapId = "UI_Reward_Walnut_Preview",
         },
         UI_Reward_Walnut_Select_Success = {
-          ContentEN = "Selected",
+          ContentEN = "Selezionato",
           TextMapId = "UI_Reward_Walnut_Select_Success",
         },
         UI_Reward_Walnut_Select_Wait = {
@@ -65269,15 +65269,15 @@ local r0_0 = {
           TextMapId = "UI_SUBREGION_DES_101110",
         },
         UI_SUBREGION_NAME_100101 = {
-          ContentEN = "Village Overrun By Filthoids",
+          ContentEN = "Villaggio invaso dai Filthoid",
           TextMapId = "UI_SUBREGION_NAME_100101",
         },
         UI_SUBREGION_NAME_100102 = {
-          ContentEN = "Arcane Ruins - Middle Floor",
+          ContentEN = "Rovine Arcane - Middle Floor",
           TextMapId = "UI_SUBREGION_NAME_100102",
         },
         UI_SUBREGION_NAME_100103 = {
-          ContentEN = "Arcane Ruins - Top Floor",
+          ContentEN = "Rovine Arcane - Top Floor",
           TextMapId = "UI_SUBREGION_NAME_100103",
         },
         UI_SUBREGION_NAME_100104 = {
@@ -66415,15 +66415,15 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_INTERACTIVE",
         },
         UI_TELEPORTPOINT_NAME_100101_1 = {
-          ContentEN = "Filthoid-Ravaged Village",
+          ContentEN = "Villaggio devastato dai Filthoid",
           TextMapId = "UI_TELEPORTPOINT_NAME_100101_1",
         },
         UI_TELEPORTPOINT_NAME_100102_1 = {
-          ContentEN = "Arcane Ruins - Middle Floor",
+          ContentEN = "Rovine Arcane - Middle Floor",
           TextMapId = "UI_TELEPORTPOINT_NAME_100102_1",
         },
         UI_TELEPORTPOINT_NAME_100103_1 = {
-          ContentEN = "Arcane Ruins - Top Floor",
+          ContentEN = "Rovine Arcane - Top Floor",
           TextMapId = "UI_TELEPORTPOINT_NAME_100103_1",
         },
         UI_TELEPORTPOINT_NAME_100103_2 = {
@@ -66463,7 +66463,7 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_NAME_101103_3",
         },
         UI_TELEPORTPOINT_NAME_101103_4 = {
-          ContentEN = "Thawing Caverns",
+          ContentEN = "Grotte dello Scongelamento",
           TextMapId = "UI_TELEPORTPOINT_NAME_101103_4",
         },
         UI_TELEPORTPOINT_NAME_101301_1 = {
@@ -66575,7 +66575,7 @@ local r0_0 = {
           TextMapId = "UI_TELEPORTPOINT_UNLOCK",
         },
         UI_TEMPLE_21 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_21",
         },
         UI_TEMPLE_22 = {
@@ -66619,11 +66619,11 @@ local r0_0 = {
           TextMapId = "UI_TEMPLE_80202",
         },
         UI_TEMPLE_80301 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_80301",
         },
         UI_TEMPLE_80302 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_80302",
         },
         UI_TEMPLE_80401 = {
@@ -66651,11 +66651,11 @@ local r0_0 = {
           TextMapId = "UI_TEMPLE_80502",
         },
         UI_TEMPLE_80601 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_80601",
         },
         UI_TEMPLE_80602 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_80602",
         },
         UI_TEMPLE_80701 = {
@@ -66715,35 +66715,35 @@ local r0_0 = {
           TextMapId = "UI_TEMPLE_81002",
         },
         UI_TEMPLE_81003 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_81003",
         },
         UI_TEMPLE_81101 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_81101",
         },
         UI_TEMPLE_81102 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_81102",
         },
         UI_TEMPLE_81103 = {
-          ContentEN = "Reach the Evacuation Point within the time limit",
+          ContentEN = "Raggiungi il punto di evacuazione entro il tempo limite",
           TextMapId = "UI_TEMPLE_81103",
         },
         UI_TEMPLE_81201 = {
-          ContentEN = "Defeat enemies to earn points",
+          ContentEN = "Sconfiggi i nemici per ottenere punti",
           TextMapId = "UI_TEMPLE_81201",
         },
         UI_TEMPLE_81202 = {
-          ContentEN = "Defeat enemies to earn points",
+          ContentEN = "Sconfiggi i nemici per ottenere punti",
           TextMapId = "UI_TEMPLE_81202",
         },
         UI_TEMPLE_81203 = {
-          ContentEN = "Defeat enemies to earn points",
+          ContentEN = "Sconfiggi i nemici per ottenere punti",
           TextMapId = "UI_TEMPLE_81203",
         },
         UI_TEMPLE_81204 = {
-          ContentEN = "Defeat enemies to earn points",
+          ContentEN = "Sconfiggi i nemici per ottenere punti",
           TextMapId = "UI_TEMPLE_81204",
         },
         UI_TEMPLE_81501 = {
@@ -66759,7 +66759,7 @@ local r0_0 = {
           TextMapId = "UI_TEMPLE_BLANK",
         },
         UI_TEMPLE_COLLECT = {
-          ContentEN = "Current Points: ",
+          ContentEN = "Punti attuali: ",
           TextMapId = "UI_TEMPLE_COLLECT",
         },
         UI_TEMPLE_COMPLETE = {
@@ -67969,7 +67969,7 @@ local r0_0 = {
       -- line: [72565, 73374] id: 85
       return {
         UI_WEAPON_DESC_20398 = {
-          ContentEN = "A grenade launcher refined with the latest surface-treatment techniques — favoured by fearless siegebreakers.",
+          ContentEN = "Un lanciagranate perfezionato con le più recenti tecniche di trattamento superficiale, preferito dagli intrepidi distruttori di assedi.",
           TextMapId = "UI_WEAPON_DESC_20398",
         },
         UI_WEAPON_DESC_20399 = {
@@ -67997,7 +67997,7 @@ local r0_0 = {
           TextMapId = "UI_WEAPON_DESC_20498",
         },
         UI_WEAPON_DESC_20499 = {
-          ContentEN = "An ordinary shotgun. It\'s made from the cheapest metal, so there\'s no shame if it breaks.",
+          ContentEN = "Un normale shotgun. È fatto con il metallo più economico, quindi non c'è niente di male se si rompe.",
           TextMapId = "UI_WEAPON_DESC_20499",
         },
         UI_WEAPON_DESC_20501 = {
@@ -68489,11 +68489,11 @@ local r0_0 = {
           TextMapId = "UI_Walnut_Dungeon_Available",
         },
         UI_Walnut_Dungeon_Opening = {
-          ContentEN = "Currently available",
+          ContentEN = "Attualmente disponibile",
           TextMapId = "UI_Walnut_Dungeon_Opening",
         },
         UI_Walnut_Dungeon_Refresh = {
-          ContentEN = "until Commissions refresh",
+          ContentEN = "Le Commissioni si aggiornano tra",
           TextMapId = "UI_Walnut_Dungeon_Refresh",
         },
         UI_Walnut_Dungeon_Refresh_Warning = {
@@ -69939,7 +69939,7 @@ local r0_0 = {
           TextMapId = "WikiText_20400301",
         },
         WikiText_20400401 = {
-          ContentEN = "A mysterious woman who appeared within the Thawing Caverns. She claims to be a Ferrywoman of the Misty Sea — one who can glimpse the thoughts of the departed and guide their lost souls back to the Misty Sea whence they came.\n\nAccording to her, {nickname} bears an extraordinary fate and may one day cross the River of Life, to meet once more with the souls of the past in the heart of the Misty Sea.",
+          ContentEN = "A mysterious woman who appeared within the Grotte dello Scongelamento. She claims to be a Ferrywoman of the Misty Sea — one who can glimpse the thoughts of the departed and guide their lost souls back to the Misty Sea whence they came.\n\nAccording to her, {nickname} bears an extraordinary fate and may one day cross the River of Life, to meet once more with the souls of the past in the heart of the Misty Sea.",
           TextMapId = "WikiText_20400401",
         },
         WikiText_30100101 = {

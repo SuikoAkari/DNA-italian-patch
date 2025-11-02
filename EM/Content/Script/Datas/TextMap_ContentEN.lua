@@ -4931,7 +4931,7 @@ local r0_0 = {
           TextMapId = "DUNGEON_NAME_20002",
         },
         DUNGEON_NAME_20003 = {
-          ContentEN = "Defence",
+          ContentEN = "Difesa",
           TextMapId = "DUNGEON_NAME_20003",
         },
         DUNGEON_NAME_20004 = {
@@ -5848,27 +5848,27 @@ local r0_0 = {
           TextMapId = "Description_100101_0",
         },
         Description_100101_1 = {
-          ContentEN = "Leave the cave and head to the village at the foot of the mountain",
+          ContentEN = "Lascia la grotta e dirigiti al villaggio ai piedi della montagna",
           TextMapId = "Description_100101_1",
         },
         Description_100101_2 = {
-          ContentEN = "Avoid the Filthoids and head home to find the weapons",
+          ContentEN = "Evita i Filthoid e torna a casa per trovare le armi",
           TextMapId = "Description_100101_2",
         },
         Description_100101_3 = {
-          ContentEN = "Search for the usable weapon",
+          ContentEN = "Cerca l'arma utilizzabile",
           TextMapId = "Description_100101_3",
         },
         Description_100101_4 = {
-          ContentEN = "Repel the approaching Filthoids",
+          ContentEN = "Respingi i Filthoid in avvicinamento",
           TextMapId = "Description_100101_4",
         },
         Description_100101_5 = {
-          ContentEN = "Make your way down to the village",
+          ContentEN = "Scendi verso il villaggio",
           TextMapId = "Description_100101_5",
         },
         Description_100101_6 = {
-          ContentEN = "Head to the dock to find a ferry",
+          ContentEN = "Dirigiti al molo per trovare un traghetto",
           TextMapId = "Description_100101_6",
         },
         Description_100101_7 = {
@@ -7982,7 +7982,7 @@ local r0_0 = {
           TextMapId = "DynQuest_BalconyHeiTao_Title",
         },
         DynQuest_BalconyHuishoulaixi_Des = {
-          ContentEN = "Repel the approaching Filthoids",
+          ContentEN = "Respingi i Filthoid in avvicinamento",
           TextMapId = "DynQuest_BalconyHuishoulaixi_Des",
         },
         DynQuest_BalconyHuishoulaixi_Title = {
@@ -10814,15 +10814,15 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1001002",
         },
         HomePianoAcc_1001003 = {
-          ContentEN = "Source: Complete the main quest \"Escape the L'isola del Purgatorio\"",
+          ContentEN = "Source: Complete the main quest \"Scappa dall'Isola del Purgatorio\"",
           TextMapId = "HomePianoAcc_1001003",
         },
         HomePianoAcc_1001004 = {
-          ContentEN = "Source: Complete the main quest \"Escape the L'isola del Purgatorio\"",
+          ContentEN = "Source: Complete the main quest \"Scappa dall'Isola del Purgatorio\"",
           TextMapId = "HomePianoAcc_1001004",
         },
         HomePianoAcc_1001005 = {
-          ContentEN = "Source: Complete the main quest \"Escape the L'isola del Purgatorio\"",
+          ContentEN = "Source: Complete the main quest \"Scappa dall'Isola del Purgatorio\"",
           TextMapId = "HomePianoAcc_1001005",
         },
         HomePianoAcc_1001006 = {
@@ -10930,7 +10930,7 @@ local r0_0 = {
           TextMapId = "HomePianoAcc_1006001",
         },
         HomePianoAcc_1006002 = {
-          ContentEN = "Source: Complete the main quest \"In the Depths of Winter\"",
+          ContentEN = "Source: Complete the main quest \"Nel Profondo Dell'Inverno\"",
           TextMapId = "HomePianoAcc_1006002",
         },
         HomePianoAcc_1006003 = {
@@ -12532,11 +12532,11 @@ local r0_0 = {
           TextMapId = "MESSAGE_INTERACTIVE_Phone",
         },
         MESSAGE_JUMP_PC = {
-          ContentEN = "Press &Jump& to jump",
+          ContentEN = "Prmi &Jump& per saltare",
           TextMapId = "MESSAGE_JUMP_PC",
         },
         MESSAGE_JUMP_PHONE = {
-          ContentEN = "Tap the button to jump",
+          ContentEN = "Premi il pulsante per saltare",
           TextMapId = "MESSAGE_JUMP_PHONE",
         },
         MESSAGE_LOADING_10_PC = {
@@ -12580,7 +12580,7 @@ local r0_0 = {
           TextMapId = "MESSAGE_LOADING_19_PC",
         },
         MESSAGE_LOADING_1_PC = {
-          ContentEN = "Press &Slide& and then &Jump& to Helix Leap over cliffs or cover long distances",
+          ContentEN = "Premi &Slide& e dopo &Jump& to Helix Leap over cliffs or cover long distances",
           TextMapId = "MESSAGE_LOADING_1_PC",
         },
         MESSAGE_LOADING_1_Phone = {
@@ -17622,7 +17622,7 @@ local r0_0 = {
           TextMapId = "Mon_DesDetail_6016001",
         },
         Mon_DesDetail_6017001 = {
-          ContentEN = "A variant of the Veloci Filthoid, mutated by the Incense-laced air of Huaxu. Its head has transformed into a massive, stigma-like structure, capable of engulfing and rending prey. Specialised limbs allow it to cling to walls and eaves with ease. For a time, its gaping jaws and razor-edged claws posed a grave threat to travellers.",
+          ContentEN = "A variant of the Filthoid Veloce, mutated by the Incense-laced air of Huaxu. Its head has transformed into a massive, stigma-like structure, capable of engulfing and rending prey. Specialised limbs allow it to cling to walls and eaves with ease. For a time, its gaping jaws and razor-edged claws posed a grave threat to travellers.",
           TextMapId = "Mon_DesDetail_6017001",
         },
         Mon_DesDetail_7001001 = {
@@ -18155,71 +18155,71 @@ local r0_0 = {
           TextMapId = "Mon_Name_115",
         },
         Mon_Name_6001001 = {
-          ContentEN = "Veloci Filthoid",
+          ContentEN = "Filthoid Veloce",
           TextMapId = "Mon_Name_6001001",
         },
         Mon_Name_6001011 = {
-          ContentEN = "Veloci Filthoid - Frostbite",
+          ContentEN = "Filthoid Veloce - Frostbite",
           TextMapId = "Mon_Name_6001011",
         },
         Mon_Name_6001012 = {
-          ContentEN = "Veloci Filthoid - Blast",
+          ContentEN = "Filthoid Veloce - Blast",
           TextMapId = "Mon_Name_6001012",
         },
         Mon_Name_6001013 = {
-          ContentEN = "Veloci Filthoid - Corrosion",
+          ContentEN = "Filthoid Veloce - Corrosion",
           TextMapId = "Mon_Name_6001013",
         },
         Mon_Name_6001014 = {
-          ContentEN = "Veloci Filthoid - Thunderclap",
+          ContentEN = "Filthoid Veloce - Thunderclap",
           TextMapId = "Mon_Name_6001014",
         },
         Mon_Name_6001015 = {
-          ContentEN = "Veloci Filthoid - Decay",
+          ContentEN = "Filthoid Veloce - Decay",
           TextMapId = "Mon_Name_6001015",
         },
         Mon_Name_6001016 = {
-          ContentEN = "Veloci Filthoid - Wither",
+          ContentEN = "Filthoid Veloce - Wither",
           TextMapId = "Mon_Name_6001016",
         },
         Mon_Name_6001017 = {
-          ContentEN = "Veloci Filthoid - Guardian",
+          ContentEN = "Filthoid Veloce - Guardian",
           TextMapId = "Mon_Name_6001017",
         },
         Mon_Name_6001018 = {
-          ContentEN = "Veloci Filthoid - Revenge",
+          ContentEN = "Filthoid Veloce - Revenge",
           TextMapId = "Mon_Name_6001018",
         },
         Mon_Name_6001019 = {
-          ContentEN = "Veloci Filthoid - Icehell",
+          ContentEN = "Filthoid Veloce - Icehell",
           TextMapId = "Mon_Name_6001019",
         },
         Mon_Name_6001020 = {
-          ContentEN = "Veloci Filthoid - Glimmer",
+          ContentEN = "Filthoid Veloce - Glimmer",
           TextMapId = "Mon_Name_6001020",
         },
         Mon_Name_6001021 = {
-          ContentEN = "Veloci Filthoid - Sacrifice",
+          ContentEN = "Filthoid Veloce - Sacrifice",
           TextMapId = "Mon_Name_6001021",
         },
         Mon_Name_6001022 = {
-          ContentEN = "Veloci Filthoid - Thunderstorm",
+          ContentEN = "Filthoid Veloce - Thunderstorm",
           TextMapId = "Mon_Name_6001022",
         },
         Mon_Name_6001023 = {
-          ContentEN = "Veloci Filthoid - Bloodbath",
+          ContentEN = "Filthoid Veloce - Bloodbath",
           TextMapId = "Mon_Name_6001023",
         },
         Mon_Name_6001024 = {
-          ContentEN = "Veloci Filthoid - Phantom",
+          ContentEN = "Filthoid Veloce - Phantom",
           TextMapId = "Mon_Name_6001024",
         },
         Mon_Name_6001201 = {
-          ContentEN = "Veloci Filthoid - Thunderbolt & Sacrifice",
+          ContentEN = "Filthoid Veloce - Thunderbolt & Sacrifice",
           TextMapId = "Mon_Name_6001201",
         },
         Mon_Name_6001301 = {
-          ContentEN = "Veloci Filthoid -  Sacrifice & Wither & Blast",
+          ContentEN = "Filthoid Veloce -  Sacrifice & Wither & Blast",
           TextMapId = "Mon_Name_6001301",
         },
         Mon_Name_6002001 = {
@@ -18503,71 +18503,71 @@ local r0_0 = {
           TextMapId = "Mon_Name_6007301",
         },
         Mon_Name_6011001 = {
-          ContentEN = "Veloci Filthoid Ⅱ",
+          ContentEN = "Filthoid Veloce Ⅱ",
           TextMapId = "Mon_Name_6011001",
         },
         Mon_Name_6011011 = {
-          ContentEN = "Veloci Filthoid - Frostbite Ⅱ",
+          ContentEN = "Filthoid Veloce - Frostbite Ⅱ",
           TextMapId = "Mon_Name_6011011",
         },
         Mon_Name_6011012 = {
-          ContentEN = "Veloci Filthoid - Blast Ⅱ",
+          ContentEN = "Filthoid Veloce - Blast Ⅱ",
           TextMapId = "Mon_Name_6011012",
         },
         Mon_Name_6011013 = {
-          ContentEN = "Veloci Filthoid - Corrosion Ⅱ",
+          ContentEN = "Filthoid Veloce - Corrosion Ⅱ",
           TextMapId = "Mon_Name_6011013",
         },
         Mon_Name_6011014 = {
-          ContentEN = "Veloci Filthoid - Thunderclap Ⅱ",
+          ContentEN = "Filthoid Veloce - Thunderclap Ⅱ",
           TextMapId = "Mon_Name_6011014",
         },
         Mon_Name_6011015 = {
-          ContentEN = "Veloci Filthoid - Decay Ⅱ",
+          ContentEN = "Filthoid Veloce - Decay Ⅱ",
           TextMapId = "Mon_Name_6011015",
         },
         Mon_Name_6011016 = {
-          ContentEN = "Veloci Filthoid - Wither Ⅱ",
+          ContentEN = "Filthoid Veloce - Wither Ⅱ",
           TextMapId = "Mon_Name_6011016",
         },
         Mon_Name_6011017 = {
-          ContentEN = "Veloci Filthoid - Guardian Ⅱ",
+          ContentEN = "Filthoid Veloce - Guardian Ⅱ",
           TextMapId = "Mon_Name_6011017",
         },
         Mon_Name_6011018 = {
-          ContentEN = "Veloci Filthoid - Revenge Ⅱ",
+          ContentEN = "Filthoid Veloce - Revenge Ⅱ",
           TextMapId = "Mon_Name_6011018",
         },
         Mon_Name_6011019 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Icehell",
+          ContentEN = "Filthoid Veloce Ⅱ - Icehell",
           TextMapId = "Mon_Name_6011019",
         },
         Mon_Name_6011020 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Glimmer",
+          ContentEN = "Filthoid Veloce Ⅱ - Glimmer",
           TextMapId = "Mon_Name_6011020",
         },
         Mon_Name_6011021 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Sacrifice",
+          ContentEN = "Filthoid Veloce Ⅱ - Sacrifice",
           TextMapId = "Mon_Name_6011021",
         },
         Mon_Name_6011022 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Thunderstorm",
+          ContentEN = "Filthoid Veloce Ⅱ - Thunderstorm",
           TextMapId = "Mon_Name_6011022",
         },
         Mon_Name_6011023 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Bloodbath",
+          ContentEN = "Filthoid Veloce Ⅱ - Bloodbath",
           TextMapId = "Mon_Name_6011023",
         },
         Mon_Name_6011024 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Phantom",
+          ContentEN = "Filthoid Veloce Ⅱ - Phantom",
           TextMapId = "Mon_Name_6011024",
         },
         Mon_Name_6011201 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Thunderbolt & Sacrifice",
+          ContentEN = "Filthoid Veloce Ⅱ - Thunderbolt & Sacrifice",
           TextMapId = "Mon_Name_6011201",
         },
         Mon_Name_6011301 = {
-          ContentEN = "Veloci Filthoid Ⅱ - Sacrifice & Wither & Blast",
+          ContentEN = "Filthoid Veloce Ⅱ - Sacrifice & Wither & Blast",
           TextMapId = "Mon_Name_6011301",
         },
         Mon_Name_6012001 = {
@@ -20774,7 +20774,7 @@ local r0_0 = {
           TextMapId = "MusicScoreName_1009",
         },
         Name_100101 = {
-          ContentEN = "Escape the L'isola del Purgatorio",
+          ContentEN = "Scappa dall'Isola del Purgatorio",
           TextMapId = "Name_100101",
         },
         Name_100102 = {
@@ -20806,7 +20806,7 @@ local r0_0 = {
           TextMapId = "Name_100205",
         },
         Name_100206 = {
-          ContentEN = "In the Depths of Winter",
+          ContentEN = "Nel Profondo Dell'Inverno",
           TextMapId = "Name_100206",
         },
         Name_100207 = {
@@ -40895,7 +40895,7 @@ local r0_0 = {
           TextMapId = "TARGET_DUNGEON_CAPTURE_107",
         },
         TARGET_DUNGEON_DEFENCE_101 = {
-          ContentEN = "Defence",
+          ContentEN = "Difesa",
           TextMapId = "TARGET_DUNGEON_DEFENCE_101",
         },
         TARGET_DUNGEON_DEFENCE_102 = {
@@ -44311,7 +44311,7 @@ local r0_0 = {
           TextMapId = "UI_AbyssRoom_Count",
         },
         UI_Abyss_BattleCountDown = {
-          ContentEN = "Remaining Time",
+          ContentEN = "Tempo rimanente",
           TextMapId = "UI_Abyss_BattleCountDown",
         },
         UI_Abyss_Des = {
@@ -55649,7 +55649,7 @@ local r0_0 = {
           TextMapId = "UI_DUNGEON_TYPE_DEFENCE",
         },
         UI_DUNGEON_TYPE_DEFENCEPRO = {
-          ContentEN = "Defence",
+          ContentEN = "Difesa",
           TextMapId = "UI_DUNGEON_TYPE_DEFENCEPRO",
         },
         UI_DUNGEON_TYPE_DEF_EXTERMINATE = {
